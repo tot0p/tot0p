@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm tot0p</h1>
 <h3 align="center">in my first year at ynov paris</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tot0p" alt="tot0p" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
