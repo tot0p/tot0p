@@ -16,7 +16,12 @@ I'm in my first year at ynov paris
 
 # GameBoy :
 
-![]("http://lemaitre2.freeboxos.fr/Tot0p/user")
+<img src="http://lemaitre2.freeboxos.fr/Tot0p/user" width="300"/> 
+
+<img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/> <a href="http://lemaitre2.freeboxos.fr/Tot0p/user/up?callback=https://github.com/tot0p"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/up.png" width="30"/></a>
+<br><a href="http://lemaitre2.freeboxos.fr/Tot0p/user/left?callback=https://github.com/tot0p"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/left.png" width="30"/></a><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><a href="http://lemaitre2.freeboxos.fr/Tot0p/user/right?callback=https://github.com/tot0p"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/right.png" width="30"/></a><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><a href="http://lemaitre2.freeboxos.fr/Tot0p/user/b?callback=https://github.com/tot0p"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/B.png" width="30"/></a> <a href="http://lemaitre2.freeboxos.fr/Tot0p/user/a?callback=https://github.com/tot0p"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/A.png" width="30"/></a>
+<br><a href="http://lemaitre2.freeboxos.fr/Tot0p/user/down?callback=https://github.com/tot0p"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/down.png" width="30"/></a>
+<br><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><a href="http://lemaitre2.freeboxos.fr/Tot0p/user/select?callback=https://github.com/tot0p"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/select.png" height="30"/></a> <a href="http://lemaitre2.freeboxos.fr/Tot0p/user/start?callback=https://github.com/tot0p"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/start.png" height="30" /></a>
 
 
 ## Projects
