@@ -14,14 +14,7 @@ I'm in my first year at ynov paris
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tot0p&theme=gruvbox&hide_border=true)
 
-# GameBoy :
-<img alt="la v0 de la gameboy à crash" src="http://lemaitre2.freeboxos.fr/Totop/user" width="300"></img> 
 
-
-<img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/> <a href="http://lemaitre2.freeboxos.fr/Totop/user/up?callback=https://github.com/tot0p"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/up.png" width="30"/></a>
-<br><a href="http://lemaitre2.freeboxos.fr/Totop/user/left?callback=https://github.com/tot0p"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/left.png" width="30"/></a><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><a href="http://lemaitre2.freeboxos.fr/Totop/user/right?callback=https://github.com/tot0p"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/right.png" width="30"/></a><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><a href="http://lemaitre2.freeboxos.fr/Totop/user/b?callback=https://github.com/tot0p"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/B.png" width="30"/></a> <a href="http://lemaitre2.freeboxos.fr/Totop/user/a?callback=https://github.com/tot0p"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/A.png" width="30"/></a>
-<br><a href="http://lemaitre2.freeboxos.fr/Totop/user/down?callback=https://github.com/tot0p"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/down.png" width="30"/></a>
-<br><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><a href="http://lemaitre2.freeboxos.fr/Totop/user/select?callback=https://github.com/tot0p"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/select.png" height="30"/></a> <a href="http://lemaitre2.freeboxos.fr/Totop/user/start?callback=https://github.com/tot0p"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/start.png" height="30" /></a>
 
 
 ## Projects
