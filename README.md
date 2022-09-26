@@ -1,5 +1,5 @@
 # Hi 👋, I'm tot0p :
-I'm in my first year at ynov paris
+I'm in my second year at ynov paris
 
 ## Connect with me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thomas-lemaitre78) 
