@@ -18,6 +18,11 @@ I'm in my second year at ynov paris
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tot0p&theme=gruvbox&hide_border=true)
 
 
+# Work Time of last 30 days
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 
 
