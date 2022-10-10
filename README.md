@@ -20,10 +20,7 @@ I'm in my second year at ynov paris
 
 # Work Time of last 30 days
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
+![](https://github-readme-stats.vercel.app/api/wakatime?username=@tot0p&theme=gruvbox&hide_border=true)
 
 
 ## Projects
