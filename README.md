@@ -18,7 +18,7 @@ I'm in my second year at ynov paris
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tot0p&theme=gruvbox&hide_border=true)
 
 
-# Work Time of last 30 days
+# Work Time of last 7 days
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=@tot0p&theme=gruvbox&hide_border=true)
 
