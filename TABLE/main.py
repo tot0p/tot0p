@@ -55,7 +55,7 @@ txt = ["| Name | Description | Languages used | NbStars | License |\n", "| --- |
 
 for repo in reposSort[:3]:
     if repo.Name != "tot0p":
-        txt.append("["+repo.Name+"]("+repo.Url+") | "+str(repo.description)+" | "+str(repo.langs)+" | "+str(repo.Stars)+" | "+str(repo.license)+" |\n")
+        txt.append("|["+repo.Name+"]("+repo.Url+") | "+str(repo.description)+" | "+str(repo.langs)+" | "+str(repo.Stars)+" | "+str(repo.license)+" |\n")
 
 if conttemp == txt:
     print("No new content")
