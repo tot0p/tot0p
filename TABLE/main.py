@@ -22,7 +22,7 @@ url = "https://api.github.com/users/"+user+"/repos"
 DEL_START  ="<!--TABLE-->"
 DEL_END    ="<!--/TABLE-->"
 n = 0
-readmefile=open('../readme.md','r')
+readmefile=open('../README.md','r')
 lines = readmefile.readlines()
 readmefile.close()
 start =-1
@@ -61,7 +61,7 @@ if conttemp == txt:
     print("No new content")
     exit(0)
 result = partONe + txt + partTwo
-readmefile=open('../readme.md','w')
+readmefile=open('../README.md','w')
 readmefile.writelines(result)
 readmefile.close()
 os.system('git config --local user.email "github-actions[bot]@users.noreply.github.com"')
