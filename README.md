@@ -26,11 +26,5 @@ I'm in my first year at ynov paris
 
 ## Projects
 
-| Name                                                               | stars                                                                 | forks                                                                  | issues                                                                  | Pull Requests                                                             |
-| :--------                                                          | :-------------------------------------------------------------------- | :--------------------------------------------------------------------- | :---------------------------------------------------------------------  |  :--------------------------------------------------------------------    |
-|[Space-ship-shooting](https://github.com/tot0p/Space-ship-shooting) |![](https://img.shields.io/github/stars/tot0p/Space-ship-shooting.svg) | ![](https://img.shields.io/github/forks/tot0p/Space-ship-shooting.svg) | ![](https://img.shields.io/github/issues/tot0p/Space-ship-shooting.svg) | ![](https://img.shields.io/github/issues-pr/tot0p/Space-ship-shooting.svg)|
-|[sortable](https://github.com/tot0p/sortable)            |![](https://img.shields.io/github/stars/tot0p/sortable.svg)            | ![](https://img.shields.io/github/forks/tot0p/sortable.svg)            | ![](https://img.shields.io/github/issues/tot0p/sortable.svg)            | ![](https://img.shields.io/github/issues-pr/tot0p/sortable.svg)           |
-|[ColorHit](https://github.com/tot0p/ColorHit)                       |![](https://img.shields.io/github/stars/tot0p/ColorHit.svg)            | ![](https://img.shields.io/github/forks/tot0p/ColorHit.svg)            | ![](https://img.shields.io/github/issues/tot0p/ColorHit.svg)            | ![](https://img.shields.io/github/issues-pr/tot0p/ColorHit.svg)           |
-|[Labyos](https://github.com/tot0p/Labyos)                           |![](https://img.shields.io/github/stars/tot0p/Labyos.svg)              | ![](https://img.shields.io/github/forks/tot0p/Labyos.svg)              | ![](https://img.shields.io/github/issues/tot0p/Labyos.svg)              | ![](https://img.shields.io/github/issues-pr/tot0p/Labyos.svg)             |
-
-
+<!--TABLE-->
+<!--/TABLE-->
