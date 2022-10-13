@@ -1,1 +1,2 @@
 requests
+py-markdown-table

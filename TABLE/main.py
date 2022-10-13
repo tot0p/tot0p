@@ -1,6 +1,6 @@
 import os
 import requests
-
+from markdownTable import markdownTable
 class Project:
 
     def __init__(self,Name,description,Url,Stars,MostUseLa,lc,langURL):
@@ -16,13 +16,12 @@ class Project:
             self.langs = ', '.join(g)
         else:
             self.langs = ""
-
 user = 'tot0p'
 url = "https://api.github.com/users/"+user+"/repos"
 DEL_START  ="<!--TABLE-->"
 DEL_END    ="<!--/TABLE-->"
 n = 0
-readmefile=open('README.md','r')
+readmefile=open('readme.md','r')
 lines = readmefile.readlines()
 readmefile.close()
 start =-1
@@ -51,21 +50,23 @@ reposSort = sorted(repos, key=lambda x: x.Stars, reverse=True)
 
 
 
-txt = ["| Name | Description | Languages used | NbStars | License |\n", "| :--- | :--- | :--- | :--- | :--- |\n"]
-
+txt = []
 for repo in reposSort[:3]:
     if repo.Name != "tot0p":
-        txt.append("|["+repo.Name+"]("+repo.Url+") | "+str(repo.description)+" | "+str(repo.langs)+" | "+str(repo.Stars)+" | "+str(repo.license)+" |\n")
+        txt.append({"Name":"["+repo.Name+"]("+repo.Url+")","Description":repo.description,"Stars":repo.Stars,"License":repo.license,"Langs":repo.langs})
 
-if conttemp == txt:
+table = markdownTable(txt).setParams(row_sep = 'markdown', quote = False).getMarkdown() +"\n"
+txt = [table]
+
+if "".join(conttemp) == txt[0]:
     print("No new content")
     exit(0)
 result = partONe + txt + partTwo
-readmefile=open('README.md','w')
+readmefile=open('readme.md','w')
 readmefile.writelines(result)
 readmefile.close()
 os.system('git config --local user.email "github-actions[bot]@users.noreply.github.com"')
 os.system('git config --local user.name "github-actions[bot]"')
 os.system('git add .')
-os.system('git commit -m "Table update"')
+os.system('git commit -m "table update"')
 os.system('git push')
