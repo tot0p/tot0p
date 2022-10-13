@@ -51,7 +51,7 @@ reposSort = sorted(repos, key=lambda x: x.Stars, reverse=True)
 
 
 
-txt = ["| Name | Description | Languages used | NbStars | License |\n", "| --- | --- | --- | --- | --- |\n"]
+txt = ["| Name | Description | Languages used | NbStars | License |\n", "| :--- | :--- | :--- | :--- | :--- |\n"]
 
 for repo in reposSort[:3]:
     if repo.Name != "tot0p":
