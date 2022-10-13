@@ -24,7 +24,7 @@ I'm in my second year at ynov paris
 
 
 
-## Projects
+## Top 3 Projects
 
 <!--TABLE-->
 |                                Name                               |                                                                                                          Description                                                                                                          |Stars|          License         |                                                                             Langs                                                                             |
