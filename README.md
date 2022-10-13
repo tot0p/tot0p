@@ -26,9 +26,4 @@ I'm in my second year at ynov paris
 ## Projects
 
 <!--TABLE-->
-| Name | Description | Languages used | NbStars | License |
-| --- | --- | --- | --- | --- |
-[Hello-World](https://github.com/tot0p/Hello-World) | The aim of this repo is to collect all the possibilities to write "hello world" in all programming languages | COBOL, Q#, VBScript, C#, Scala, PHP, Haxe, Java, Erlang, C++, Go, C, Shell, Pascal, Rust, Dart, TypeScript, Batchfile, JavaScript, Python, MATLAB, Ruby, Turing | 5 | The Unlicense |
-[ColorHit](https://github.com/tot0p/ColorHit) | This game was made during the "One Minute Game jam #5" In this short 2D shooter, you play as a kid in a tank who aims to color the world. You can do that by either shooting paintballs all around or by moving around the map. | Go, JavaScript, HTML | 3 | Mozilla Public License 2.0 |
-[Space-ship-shooting](https://github.com/tot0p/Space-ship-shooting) | Space ship shooting is a shoot them up was coding in javascript , for 1 month work with p5.js , p5.play , p5.sound , p5.clickable and p5.touchgui | JavaScript, HTML, CSS | 3 | MIT License |
 <!--/TABLE-->
