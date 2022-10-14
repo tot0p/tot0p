@@ -21,6 +21,44 @@ I'm in my second year at ynov paris
 # Work Time of last 7 days
 
 <!--WAKATIME-->
+```text
+🌐 Time zone: Europe/Paris
+
+🗓️ From 2022-10-06T22:00:00Z to 2022-10-13T21:59:59Z
+
+⌚ Total time: 16 hrs 21 mins
+
+💬 Languages:
+
+SQL            4 hrs 22 mins >>>------- 26.75 %
+Python         3 hrs 31 mins >>>------- 21.52 %
+Java           3 hrs 5 mins  >>-------- 18.9 %
+Go             2 hrs 18 mins >>-------- 14.12 %
+Markdown       1 hr 47 mins  >>-------- 10.98 %
+YAML           43 mins       >--------- 4.4 %
+XML            12 mins       >--------- 1.32 %
+Text           7 mins        >--------- 0.77 %
+Other          4 mins        >--------- 0.46 %
+GitIgnore file 4 mins        >--------- 0.41 %
+CLASS          1 min         >--------- 0.19 %
+Haxe           0 secs        >--------- 0.07 %
+go.mod         0 secs        >--------- 0.05 %
+JSON           0 secs        >--------- 0.04 %
+IDEA_MODULE    0 secs        >--------- 0.01 %
+Git            0 secs        ---------- 0.0 %
+HTML           0 secs        ---------- 0.0 %
+Git Config     0 secs        ---------- 0.0 %
+
+🔥 IDE:
+
+VS Code  10 hrs 15 mins >>>>>>>--- 62.77 %
+IntelliJ 3 hrs 23 mins  >>>------- 20.69 %
+GoLand   2 hrs 42 mins  >>-------- 16.54 %
+
+💻 OS:
+
+Windows 16 hrs 21 mins >>>>>>>>>> 100.0 %
+```
 <!--/WAKATIME-->
 
 
