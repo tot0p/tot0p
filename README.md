@@ -20,8 +20,8 @@ I'm in my second year at ynov paris
 
 # Work Time of last 7 days
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=@tot0p&theme=gruvbox&hide_border=true)
-
+<!--WAKATIME-->
+<!--/WAKATIME-->
 
 
 ## Top 3 Projects
