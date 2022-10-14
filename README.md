@@ -22,6 +22,7 @@ I'm in my second year at ynov paris
 
 <!--WAKATIME-->
 ```text
+🌐 Time zone: Europe/Paris
 
 🗓️ From 2022-10-06T22:00:00Z to 2022-10-13T21:59:59Z
 
