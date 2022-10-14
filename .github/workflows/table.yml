@@ -29,7 +29,7 @@ jobs:
       run: |
         python TABLE/main.py
             
-wakatime-update:
+  wakatime-update:
     needs: ["table-update"]
 
     runs-on: ubuntu-latest
