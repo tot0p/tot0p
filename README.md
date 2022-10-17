@@ -24,24 +24,24 @@ I'm in my second year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2022-10-08T22:00:00Z to 2022-10-15T21:59:59Z
+🗓️ From 2022-10-09T22:00:00Z to 2022-10-16T21:59:59Z
 
-⌚ Total time: 20 hrs 49 mins
+⌚ Total time: 22 hrs 16 mins
 
 💬 Languages:
 
-Python         6 hrs 25 mins >>>>------ 30.89 %
-SQL            4 hrs 27 mins >>>------- 21.41 %
-Java           3 hrs 5 mins  >>-------- 14.85 %
-Go             3 hrs 2 mins  >>-------- 14.61 %
-Markdown       2 hrs 14 mins >>-------- 10.76 %
-YAML           57 mins       >--------- 4.58 %
-XML            12 mins       >--------- 1.03 %
-Text           8 mins        >--------- 0.65 %
-GitIgnore file 6 mins        >--------- 0.49 %
-Other          4 mins        >--------- 0.38 %
-CLASS          1 min         >--------- 0.15 %
-go.mod         1 min         >--------- 0.1 %
+Python         6 hrs 25 mins >>>------- 28.86 %
+SQL            5 hrs 55 mins >>>------- 26.58 %
+Java           3 hrs 5 mins  >>-------- 13.87 %
+Go             3 hrs 2 mins  >>-------- 13.65 %
+Markdown       2 hrs 14 mins >>-------- 10.05 %
+YAML           57 mins       >--------- 4.28 %
+XML            12 mins       >--------- 0.97 %
+Text           8 mins        >--------- 0.61 %
+GitIgnore file 6 mins        >--------- 0.45 %
+Other          4 mins        >--------- 0.35 %
+CLASS          1 min         >--------- 0.14 %
+go.mod         1 min         >--------- 0.09 %
 Haxe           0 secs        >--------- 0.05 %
 JSON           0 secs        >--------- 0.03 %
 IDEA_MODULE    0 secs        >--------- 0.01 %
@@ -51,13 +51,13 @@ Git Config     0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-VS Code  14 hrs 13 mins >>>>>>>--- 68.35 %
-IntelliJ 3 hrs 23 mins  >>-------- 16.25 %
-GoLand   3 hrs 12 mins  >>-------- 15.4 %
+VS Code  15 hrs 41 mins >>>>>>>>-- 70.43 %
+IntelliJ 3 hrs 23 mins  >>-------- 15.19 %
+GoLand   3 hrs 12 mins  >>-------- 14.39 %
 
 💻 OS:
 
-Windows 20 hrs 49 mins >>>>>>>>>> 100.0 %
+Windows 22 hrs 16 mins >>>>>>>>>> 100.0 %
 ```
 <!--/WAKATIME-->
 
