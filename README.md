@@ -24,40 +24,40 @@ I'm in my second year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2022-10-09T22:00:00Z to 2022-10-16T21:59:59Z
+🗓️ From 2022-10-10T22:00:00Z to 2022-10-17T21:59:59Z
 
-⌚ Total time: 22 hrs 16 mins
+⌚ Total time: 18 hrs 19 mins
 
 💬 Languages:
 
-Python         6 hrs 25 mins >>>------- 28.86 %
-SQL            5 hrs 55 mins >>>------- 26.58 %
-Java           3 hrs 5 mins  >>-------- 13.87 %
-Go             3 hrs 2 mins  >>-------- 13.65 %
-Markdown       2 hrs 14 mins >>-------- 10.05 %
-YAML           57 mins       >--------- 4.28 %
-XML            12 mins       >--------- 0.97 %
-Text           8 mins        >--------- 0.61 %
-GitIgnore file 6 mins        >--------- 0.45 %
-Other          4 mins        >--------- 0.35 %
-CLASS          1 min         >--------- 0.14 %
-go.mod         1 min         >--------- 0.09 %
-Haxe           0 secs        >--------- 0.05 %
-JSON           0 secs        >--------- 0.03 %
+Python         7 hrs 44 mins >>>>>----- 42.25 %
+Go             2 hrs 59 mins >>-------- 16.3 %
+Java           2 hrs 23 mins >>-------- 13.01 %
+Markdown       1 hr 55 mins  >>-------- 10.52 %
+SQL            1 hr 42 mins  >--------- 9.37 %
+YAML           57 mins       >--------- 5.21 %
+XML            12 mins       >--------- 1.17 %
+Text           8 mins        >--------- 0.74 %
+GitIgnore file 6 mins        >--------- 0.55 %
+Other          4 mins        >--------- 0.42 %
+CLASS          1 min         >--------- 0.17 %
+go.mod         1 min         >--------- 0.11 %
+Bash           0 secs        >--------- 0.06 %
+Haxe           0 secs        >--------- 0.06 %
+JSON           0 secs        >--------- 0.04 %
 IDEA_MODULE    0 secs        >--------- 0.01 %
 Git            0 secs        ---------- 0.0 %
-HTML           0 secs        ---------- 0.0 %
 Git Config     0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-VS Code  15 hrs 41 mins >>>>>>>>-- 70.43 %
-IntelliJ 3 hrs 23 mins  >>-------- 15.19 %
-GoLand   3 hrs 12 mins  >>-------- 14.39 %
+VS Code  12 hrs 29 mins >>>>>>>--- 68.2 %
+GoLand   3 hrs 9 mins   >>-------- 17.19 %
+IntelliJ 2 hrs 40 mins  >>-------- 14.61 %
 
 💻 OS:
 
-Windows 22 hrs 16 mins >>>>>>>>>> 100.0 %
+Windows 18 hrs 19 mins >>>>>>>>>> 100.0 %
 ```
 <!--/WAKATIME-->
 
