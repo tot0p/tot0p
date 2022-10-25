@@ -24,36 +24,36 @@ I'm in my second year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2022-10-16T22:00:00Z to 2022-10-23T21:59:59Z
+🗓️ From 2022-10-17T22:00:00Z to 2022-10-24T21:59:59Z
 
-⌚ Total time: 9 hrs 34 mins
+⌚ Total time: 9 hrs 51 mins
 
 💬 Languages:
 
-Go             3 hrs 55 mins >>>>>----- 41.1 %
-Python         3 hrs 26 mins >>>>------ 35.9 %
-Java           53 mins       >--------- 9.25 %
-SQL            40 mins       >--------- 7.12 %
-Markdown       17 mins       >--------- 3.06 %
-JSON           9 mins        >--------- 1.6 %
-HTML           5 mins        >--------- 0.92 %
-GitIgnore file 1 min         >--------- 0.35 %
-Text           1 min         >--------- 0.31 %
-go.mod         1 min         >--------- 0.18 %
-Bash           0 secs        >--------- 0.12 %
+Go             3 hrs 55 mins >>>>------ 39.86 %
+SQL            2 hrs 17 mins >>>------- 23.29 %
+Python         2 hrs 7 mins  >>>------- 21.57 %
+Java           53 mins       >--------- 8.97 %
+Markdown       17 mins       >--------- 2.96 %
+JSON           9 mins        >--------- 1.55 %
+HTML           5 mins        >--------- 0.89 %
+GitIgnore file 1 min         >--------- 0.34 %
+Text           1 min         >--------- 0.3 %
+go.mod         1 min         >--------- 0.17 %
 Other          0 secs        >--------- 0.08 %
-Git Config     0 secs        >--------- 0.02 %
+Git Config     0 secs        >--------- 0.01 %
 AUTO_DETECTED  0 secs        >--------- 0.01 %
+Bash           0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-VS Code  4 hrs 54 mins >>>>>>---- 51.3 %
-GoLand   3 hrs 47 mins >>>>------ 39.65 %
-IntelliJ 51 mins       >--------- 9.05 %
+VS Code  5 hrs 12 mins >>>>>>---- 52.77 %
+GoLand   3 hrs 47 mins >>>>------ 38.45 %
+IntelliJ 51 mins       >--------- 8.78 %
 
 💻 OS:
 
-Windows 9 hrs 33 mins >>>>>>>>>> 100.0 %
+Windows 9 hrs 51 mins >>>>>>>>>> 100.0 %
 ```
 <!--/WAKATIME-->
 
