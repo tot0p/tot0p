@@ -1,6 +1,7 @@
 import os
 import requests
-
+#autor tot0p
+#github = https://github.com/tot0p/tot0p
 
 blc = ">-"
 
