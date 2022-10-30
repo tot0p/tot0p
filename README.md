@@ -1,6 +1,8 @@
 # [Hi 👋, I'm tot0p](https://tot0p.github.io/tot0p/) :
 I'm in my second year at ynov paris
 
+I'm learn ![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
 ## Connect with me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thomas-lemaitre78) 
 
