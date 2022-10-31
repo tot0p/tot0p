@@ -1,3 +1,9 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&width=435&lines=%F0%9F%91%8B+Hello+World+!+)](https://github.com/tot0p/Hello-World)
+
+</div>
+
 # [Hi 👋, I'm tot0p](https://tot0p.github.io/tot0p/) :
 I'm in my second year at ynov paris
 
