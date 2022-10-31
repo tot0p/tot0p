@@ -13,12 +13,15 @@ I'm learn ![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&l
 
 ![](https://activity-graph.herokuapp.com/graph?username=tot0p&theme=react-dark)
 
+
+<div align="center" >
+  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tot0p&theme=gruvbox&hide_border=true&layout=compact&langs_count=10&hide=HTML,CSS)
 
 ![](https://github-readme-stats.vercel.app/api?username=Tot0p&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tot0p&theme=gruvbox&hide_border=true)
-
+</div>
 
 # Work Time of last 7 days
 
