@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&width=435&lines=%F0%9F%91%8B+Hello+World+!+)](https://github.com/tot0p/Hello-World)
+[![Typing SVG](./img/github-header-image.png)](https://github.com/tot0p/Hello-World)
 
 </div>
 
