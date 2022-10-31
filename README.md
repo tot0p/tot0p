@@ -74,11 +74,11 @@ Linux   9 mins         >--------- 1.02 %
 <div align="center">
 
 <!--TABLE-->
-|Top|                                                        Repo                                                        |
-|---|--------------------------------------------------------------------------------------------------------------------|
-| 1 |    ![](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tot0p&repo=Hello-World&theme=dark)    |
-| 2 |      ![](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tot0p&repo=ColorHit&theme=dark)     |
-| 3 |![](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tot0p&repo=Space-ship-shooting&theme=dark)|
+|Top|                                                                   Repo                                                                   |
+|---|------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 |    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tot0p&repo=Hello-World&theme=dark" width="480px"/>    |
+| 2 |      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tot0p&repo=ColorHit&theme=dark" width="480px"/>     |
+| 3 |<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tot0p&repo=Space-ship-shooting&theme=dark" width="480px"/>|
 <!--/TABLE-->
 
 </div>
