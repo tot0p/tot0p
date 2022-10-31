@@ -6,7 +6,8 @@ import requests
 blc = ">-"
 
 
-url = "https://wakatime.com/api/v1/users/current/stats/last_7_days?api_key="+os.environ['WAKATIME_API_KEY']
+# url = "https://wakatime.com/api/v1/users/current/stats/last_7_days?api_key="+os.environ['WAKATIME_API_KEY']
+url = "https://wakatime.com/api/v1/users/current/stats/last_7_days?api_key=84e28096-d1d3-4bb8-bf90-ece632ceba84"
 DEL_START  ="<!--WAKATIME-->"
 DEL_END    ="<!--/WAKATIME-->"
 n = 0
@@ -107,7 +108,7 @@ if conttemp == txt:
     print("No change in README.md")
     exit(0)
 result = partONe + txt + partTwo
-readmefile=open('README.md','w')
+readmefile=open('README.md','w',encoding="utf-8")
 readmefile.writelines(result)
 readmefile.close()
 os.system('git config --local user.email "github-actions[bot]@users.noreply.github.com"')
