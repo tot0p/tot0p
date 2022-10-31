@@ -69,7 +69,9 @@ Linux   9 mins         >--------- 1.02 %
 <!--/WAKATIME-->
 
 
-## Top 3 Projects
+## Top 3 Projects By Stars
+
+<div align="center">
 
 <!--TABLE-->
 |Top|                                                      Repo                                                     |
@@ -78,3 +80,5 @@ Linux   9 mins         >--------- 1.02 %
 | 2 |      https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tot0p&repo=ColorHit&theme=dark     |
 | 3 |https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tot0p&repo=Space-ship-shooting&theme=dark|
 <!--/TABLE-->
+
+</div>
