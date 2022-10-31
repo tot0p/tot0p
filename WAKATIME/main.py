@@ -11,7 +11,7 @@ url = "https://wakatime.com/api/v1/users/current/stats/last_7_days?api_key=84e28
 DEL_START  ="<!--WAKATIME-->"
 DEL_END    ="<!--/WAKATIME-->"
 n = 0
-readmefile=open('README.md','r')
+readmefile=open('README.md','r',encoding='utf-8')
 lines = readmefile.readlines()
 readmefile.close()
 
