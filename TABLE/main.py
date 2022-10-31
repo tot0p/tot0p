@@ -55,9 +55,11 @@ reposSort = sorted(repos, key=lambda x: x.Stars, reverse=True)
 
 
 txt = []
+count =0
 for repo in reposSort[:3]:
-    if repo.Name != "tot0p":
-        txt.append({"Name":"["+repo.Name+"]("+repo.Url+")","Description":repo.description,"Stars":repo.Stars,"License":repo.license,"Langs":repo.langs})
+    count+=1
+    if repo.Name != user:
+        txt.append({"Top":count,"Repo":"https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username="+user+"&repo="+repo.Name+"&theme=dark"})
 
 table = markdownTable(txt).setParams(row_sep = 'markdown', quote = False).getMarkdown() +"\n"
 txt = [table]
@@ -69,8 +71,8 @@ result = partONe + txt + partTwo
 readmefile=open('README.md','w')
 readmefile.writelines(result)
 readmefile.close()
-os.system('git config --local user.email "github-actions[bot]@users.noreply.github.com"')
-os.system('git config --local user.name "github-actions[bot]"')
-os.system('git add .')
-os.system('git commit -m "table update"')
-os.system('git push')
+# os.system('git config --local user.email "github-actions[bot]@users.noreply.github.com"')
+# os.system('git config --local user.name "github-actions[bot]"')
+# os.system('git add .')
+# os.system('git commit -m "table update"')
+# os.system('git push')
