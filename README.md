@@ -41,34 +41,32 @@ I'm learn ![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&l
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2022-10-26T22:00:00Z to 2022-11-02T22:59:59Z
+🗓️ From 2022-10-27T22:00:00Z to 2022-11-03T22:59:59Z
 
-⌚ Total time: 9 hrs 42 mins
+⌚ Total time: 5 hrs 52 mins
 
 💬 Languages:
 
-Rust           3 hrs 26 mins >>>>------ 35.4 %
-Go             3 hrs 4 mins  >>>>------ 31.75 %
-Python         1 hr 29 mins  >>-------- 15.4 %
-TOML           38 mins       >--------- 6.59 %
-Markdown       28 mins       >--------- 4.87 %
-AUTO_DETECTED  10 mins       >--------- 1.77 %
-SQL            8 mins        >--------- 1.52 %
-Git Config     6 mins        >--------- 1.18 %
-Text           4 mins        >--------- 0.69 %
-GitIgnore file 3 mins        >--------- 0.52 %
-JSON           1 min         >--------- 0.18 %
-Other          0 secs        >--------- 0.12 %
+Rust           3 hrs 26 mins >>>>>>---- 58.42 %
+TOML           38 mins       >>-------- 10.88 %
+Python         37 mins       >>-------- 10.75 %
+Go             26 mins       >--------- 7.52 %
+Markdown       26 mins       >--------- 7.5 %
+SQL            7 mins        >--------- 2.21 %
+Git Config     6 mins        >--------- 1.95 %
+GitIgnore file 2 mins        >--------- 0.62 %
+Text           0 secs        >--------- 0.1 %
+Other          0 secs        >--------- 0.06 %
 
 🔥 IDE:
 
-VS Code 7 hrs         >>>>>>>>-- 72.25 %
-GoLand  2 hrs 41 mins >>>------- 27.75 %
+VS Code 5 hrs 24 mins >>>>>>>>>> 91.87 %
+GoLand  28 mins       >--------- 8.13 %
 
 💻 OS:
 
-Windows 9 hrs 32 mins >>>>>>>>>> 98.34 %
-Linux   9 mins        >--------- 1.66 %
+Windows 5 hrs 43 mins >>>>>>>>>> 97.26 %
+Linux   9 mins        >--------- 2.74 %
 ```
 <!--/WAKATIME-->
 
