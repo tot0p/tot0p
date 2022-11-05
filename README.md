@@ -17,7 +17,13 @@ I'm learn ![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&l
 
 # Discord :
 
+<div align="center">
+
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/441196551248019460?idleMessage=I%20do%20nothing)](https://discord.com/users/441196551248019460)
+  
+  
+</div>
 
 
 # 📊GitHub Stats :
