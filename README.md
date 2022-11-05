@@ -39,7 +39,7 @@ I'm learn ![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&l
 </div>
 
 <details> 
-  <summary>⭐ More Github Stats </summary>
+  <summary><h3>⭐ More Github Stats </h3></summary>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tot0p&theme=gruvbox&hide_border=true&layout=compact&langs_count=10&hide=HTML,CSS"  height="192px"/>
 <img src="https://github-readme-stats.vercel.app/api?username=Tot0p&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false" height="192px"/>
