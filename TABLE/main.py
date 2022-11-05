@@ -59,7 +59,7 @@ count =0
 for repo in reposSort[:3]:
     count+=1
     if repo.Name != user:
-        txt.append({"Top":count,"Repo":"<img src=\"https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username="+user+"&repo="+repo.Name+"&theme=dark\" width=\"480px\"/>"})
+        txt.append({"Top":count,"Repo":"<a href=\""+repo.Url+"\"><img src=\"https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username="+user+"&repo="+repo.Name+"&theme=dark\" width=\"480px\"/></a>"})
 
 table = markdownTable(txt).setParams(row_sep = 'markdown', quote = False).getMarkdown() +"\n"
 txt = [table]
