@@ -52,7 +52,7 @@ I'm learn ![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&l
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2022-11-01T23:00:00Z to 2022-11-08T22:59:59Z
+🗓️ From 2022-11-02T23:00:00Z to 2022-11-09T22:59:59Z
 
 ⌚ Total time: 5 hrs 45 mins
 
