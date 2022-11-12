@@ -52,28 +52,31 @@ I'm learn ![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&l
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2022-11-02T23:00:00Z to 2022-11-09T22:59:59Z
+🗓️ From 2022-11-03T23:00:00Z to 2022-11-10T22:59:59Z
 
-⌚ Total time: 5 hrs 45 mins
+⌚ Total time: 6 hrs 28 mins
 
 💬 Languages:
 
-SQL      2 hrs 53 mins >>>>>>---- 50.4 %
-Python   2 hrs 32 mins >>>>>----- 44.1 %
-Other    15 mins       >--------- 4.39 %
-Text     3 mins        >--------- 0.89 %
-INI      0 secs        >--------- 0.08 %
+SQL      2 hrs 46 mins >>>>>----- 42.76 %
+Python   2 hrs 32 mins >>>>------ 39.16 %
+Markdown 49 mins       >>-------- 12.61 %
+Other    16 mins       >--------- 4.21 %
+Text     3 mins        >--------- 0.79 %
+VB.NET   0 secs        >--------- 0.21 %
+INI      0 secs        >--------- 0.07 %
 JSON     0 secs        >--------- 0.07 %
+Scala    0 secs        >--------- 0.05 %
 YAML     0 secs        >--------- 0.04 %
-Markdown 0 secs        >--------- 0.02 %
+Swift    0 secs        >--------- 0.02 %
 
 🔥 IDE:
 
-VS Code 5 hrs 45 mins >>>>>>>>>> 100.0 %
+VS Code 6 hrs 28 mins >>>>>>>>>> 100.0 %
 
 💻 OS:
 
-Windows 5 hrs 45 mins >>>>>>>>>> 100.0 %
+Windows 6 hrs 28 mins >>>>>>>>>> 100.0 %
 ```
 <!--/WAKATIME-->
 
