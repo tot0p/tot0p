@@ -53,14 +53,15 @@ for repo in r.json():
 
 reposSort = sorted(repos, key=lambda x: x.Stars, reverse=True)
 
+## remove repo with name of user
+reposSort = [x for x in reposSort if x.Name != user]
 
 
 txt = []
 count =0
 for repo in reposSort[:3]:
     count+=1
-    if repo.Name != user:
-        txt.append({"Top":count,"Repo":"<a href=\""+repo.Url+"\"><img src=\"https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username="+user+"&repo="+repo.Name+"&theme=dark\" width=\"480px\"/></a>"})
+    txt.append({"Top":count,"Repo":"<a href=\""+repo.Url+"\"><img src=\"https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username="+user+"&repo="+repo.Name+"&theme=dark\" width=\"480px\"/></a>"})
 
 table = markdownTable(txt).setParams(row_sep = 'markdown', quote = False).getMarkdown() +"\n"
 txt = [table]
