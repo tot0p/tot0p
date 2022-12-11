@@ -52,33 +52,42 @@ I'm learn ![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&l
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2022-12-02T23:00:00Z to 2022-12-08T22:59:59Z
+🗓️ From 2022-12-03T23:00:00Z to 2022-12-10T22:59:59Z
 
-⌚ Total time: 13 hrs 56 mins
+⌚ Total time: 16 hrs 25 mins
 
 💬 Languages:
 
-PHP            10 hrs 8 mins >>>>>>>--- 68.98 %
-Python         2 hrs 13 mins >>-------- 15.15 %
-Apache Config  1 hr 29 mins  >>-------- 10.17 %
-HTML           33 mins       >--------- 3.76 %
-Git Config     5 mins        >--------- 0.62 %
-JavaScript     4 mins        >--------- 0.56 %
-Markdown       1 min         >--------- 0.2 %
-SQL            1 min         >--------- 0.2 %
-CSS            1 min         >--------- 0.17 %
-Other          1 min         >--------- 0.13 %
-JSON           0 secs        >--------- 0.04 %
-GitIgnore file 0 secs        >--------- 0.02 %
+PHP            10 hrs 45 mins >>>>>>>--- 65.48 %
+Python         2 hrs 16 mins  >>-------- 13.88 %
+Apache Config  1 hr 32 mins   >--------- 9.35 %
+Markdown       43 mins        >--------- 4.37 %
+HTML           35 mins        >--------- 3.6 %
+JavaScript     10 mins        >--------- 1.02 %
+Git Config     5 mins         >--------- 0.56 %
+JSON           4 mins         >--------- 0.42 %
+CSS            3 mins         >--------- 0.31 %
+GitIgnore file 2 mins         >--------- 0.23 %
+SQL            1 min          >--------- 0.18 %
+Go             1 min          >--------- 0.17 %
+Bash           1 min          >--------- 0.15 %
+Other          1 min          >--------- 0.12 %
+Text           1 min          >--------- 0.11 %
+Batchfile      0 secs         >--------- 0.04 %
+Turing         0 secs         ---------- 0.0 %
+Delphi         0 secs         ---------- 0.0 %
+Swift          0 secs         ---------- 0.0 %
+Objective-C    0 secs         ---------- 0.0 %
+Scala          0 secs         ---------- 0.0 %
 
 🔥 IDE:
 
-VS Code 15 hrs 6 mins >>>>>>>>>> 99.77 %
-GoLand  2 mins        >--------- 0.23 %
+VS Code 15 hrs 46 mins >>>>>>>>>> 96.08 %
+GoLand  38 mins        >--------- 3.92 %
 
 💻 OS:
 
-Windows 15 hrs 8 mins >>>>>>>>>> 100.0 %
+Windows 16 hrs 25 mins >>>>>>>>>> 100.0 %
 ```
 <!--/WAKATIME-->
 
