@@ -52,26 +52,25 @@ I'm learn ![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&l
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2022-12-06T23:00:00Z to 2022-12-13T22:59:59Z
+🗓️ From 2022-12-08T23:00:00Z to 2022-12-15T22:59:59Z
 
-⌚ Total time: 11 hrs 57 mins
+⌚ Total time: 12 hrs 46 mins
 
 💬 Languages:
 
-PHP            7 hrs 4 mins  >>>>>>---- 59.2 %
-Python         2 hrs 16 mins >>-------- 19.07 %
-HTML           55 mins       >--------- 7.7 %
-Markdown       47 mins       >--------- 6.65 %
-Apache Config  22 mins       >--------- 3.15 %
-JavaScript     10 mins       >--------- 1.47 %
-Git Config     5 mins        >--------- 0.76 %
-JSON           4 mins        >--------- 0.58 %
-GitIgnore file 2 mins        >--------- 0.31 %
-CSS            2 mins        >--------- 0.29 %
-Go             1 min         >--------- 0.23 %
-Bash           1 min         >--------- 0.21 %
-Text           1 min         >--------- 0.15 %
-Other          1 min         >--------- 0.14 %
+Go             5 hrs 16 mins >>>>>----- 41.25 %
+PHP            5 hrs 1 min   >>>>------ 39.42 %
+HTML           47 mins       >--------- 6.16 %
+Markdown       43 mins       >--------- 5.74 %
+Text           35 mins       >--------- 4.65 %
+JavaScript     5 mins        >--------- 0.74 %
+JSON           3 mins        >--------- 0.5 %
+Python         3 mins        >--------- 0.41 %
+Apache Config  2 mins        >--------- 0.32 %
+GitIgnore file 2 mins        >--------- 0.27 %
+CSS            1 min         >--------- 0.21 %
+Bash           1 min         >--------- 0.2 %
+AUTO_DETECTED  0 secs        >--------- 0.07 %
 Batchfile      0 secs        >--------- 0.05 %
 Turing         0 secs        ---------- 0.0 %
 Delphi         0 secs        ---------- 0.0 %
@@ -81,12 +80,12 @@ Scala          0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-VS Code 11 hrs 18 mins >>>>>>>>>> 94.62 %
-GoLand  38 mins        >--------- 5.38 %
+GoLand  6 hrs 28 mins >>>>>>---- 50.74 %
+VS Code 6 hrs 17 mins >>>>>----- 49.26 %
 
 💻 OS:
 
-Windows 11 hrs 57 mins >>>>>>>>>> 100.0 %
+Windows 12 hrs 46 mins >>>>>>>>>> 100.0 %
 ```
 <!--/WAKATIME-->
 
