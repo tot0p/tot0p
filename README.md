@@ -28,7 +28,7 @@ I'm learn ![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&l
 
 # 📊GitHub Stats :
 
-![](https://activity-graph.herokuapp.com/graph?username=tot0p&theme=react-dark)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=tot0p&theme=react-dark)
 
 ## 🔥 Streak stats
 
