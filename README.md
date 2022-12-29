@@ -52,30 +52,31 @@ I'm learn ![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&l
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2022-12-20T23:00:00Z to 2022-12-27T22:59:59Z
+🗓️ From 2022-12-21T23:00:00Z to 2022-12-28T22:59:59Z
 
-⌚ Total time: 17 hrs 36 mins
+⌚ Total time: 18 hrs 10 mins
 
 💬 Languages:
 
-HTML         14 hrs 55 mins >>>>>>>>>- 84.72 %
-PHP          1 hr 16 mins   >--------- 7.25 %
-CSS          50 mins        >--------- 4.77 %
-JavaScript   27 mins        >--------- 2.65 %
-Markdown     3 mins         >--------- 0.32 %
-Bash         1 min          >--------- 0.18 %
-Git Config   0 secs         >--------- 0.06 %
-JSON         0 secs         >--------- 0.06 %
-Shell Script 0 secs         ---------- 0.0 %
+HTML          9 hrs 35 mins >>>>>>---- 52.72 %
+PHP           6 hrs 19 mins >>>>------ 34.8 %
+CSS           44 mins       >--------- 4.12 %
+Markdown      44 mins       >--------- 4.06 %
+Git Config    23 mins       >--------- 2.12 %
+JavaScript    17 mins       >--------- 1.61 %
+Text          5 mins        >--------- 0.55 %
+Other         0 secs        >--------- 0.01 %
+Shell Script  0 secs        ---------- 0.0 %
+Apache Config 0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-WebStorm 15 hrs 17 mins >>>>>>>>>- 86.85 %
-VS Code  2 hrs 18 mins  >>-------- 13.15 %
+WebStorm 9 hrs 55 mins >>>>>>---- 54.61 %
+VS Code  8 hrs 15 mins >>>>>----- 45.39 %
 
 💻 OS:
 
-Windows 17 hrs 36 mins >>>>>>>>>> 100.0 %
+Windows 18 hrs 10 mins >>>>>>>>>> 100.0 %
 ```
 <!--/WAKATIME-->
 
