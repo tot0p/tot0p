@@ -95,3 +95,4 @@ Windows 19 hrs 59 mins >>>>>>>>>> 100.0 %
 
 </div>
 
+![](https://visitor-badge.laobi.icu/badge?page_id=tot0p.tot0p)
