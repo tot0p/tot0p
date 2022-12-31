@@ -12,25 +12,25 @@ on:
   - cron:  '0 7 * * *'
 
 jobs:
-  table-update:
-    runs-on: ubuntu-latest
+#   table-update:
+#     runs-on: ubuntu-latest
 
-    steps:
-    - uses: actions/checkout@v3
-    - name: Set up Python 3.10
-      uses: actions/setup-python@v3
-      with:
-        python-version: "3.10"
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        if [ -f TABLE/requirements.txt ]; then pip install -r TABLE/requirements.txt; fi
-    - name: run python
-      run: |
-        python TABLE/main.py
+#     steps:
+#     - uses: actions/checkout@v3
+#     - name: Set up Python 3.10
+#       uses: actions/setup-python@v3
+#       with:
+#         python-version: "3.10"
+#     - name: Install dependencies
+#       run: |
+#         python -m pip install --upgrade pip
+#         if [ -f TABLE/requirements.txt ]; then pip install -r TABLE/requirements.txt; fi
+#     - name: run python
+#       run: |
+#         python TABLE/main.py
             
   wakatime-update:
-    needs: ["table-update"]
+#     needs: ["table-update"]
 
     runs-on: ubuntu-latest
 
