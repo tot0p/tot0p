@@ -52,41 +52,37 @@ I'm learn ![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&l
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2022-12-31T23:00:00Z to 2023-01-07T22:59:59Z
+🗓️ From 2023-01-01T23:00:00Z to 2023-01-08T22:59:59Z
 
-⌚ Total time: 13 hrs 28 mins
+⌚ Total time: 7 hrs 25 mins
 
 💬 Languages:
 
-PHP            7 hrs 7 mins >>>>>>---- 52.85 %
-Python         1 hr 39 mins >>-------- 12.35 %
-Markdown       1 hr 13 mins >--------- 9.06 %
-HTML           42 mins      >--------- 5.23 %
-Rust           40 mins      >--------- 5.01 %
-JSON           27 mins      >--------- 3.4 %
-YAML           23 mins      >--------- 2.9 %
-Text           22 mins      >--------- 2.81 %
-Go             21 mins      >--------- 2.62 %
-Other          10 mins      >--------- 1.35 %
-JavaScript     9 mins       >--------- 1.18 %
-Git Config     3 mins       >--------- 0.42 %
-CSS            2 mins       >--------- 0.3 %
-GitIgnore file 1 min        >--------- 0.17 %
-TOML           1 min        >--------- 0.15 %
-SQL            0 secs       >--------- 0.11 %
-Apache Config  0 secs       >--------- 0.06 %
-Bash           0 secs       >--------- 0.03 %
-Shell Script   0 secs       ---------- 0.0 %
+Python         1 hr 39 mins >>>------- 22.4 %
+PHP            1 hr 17 mins >>-------- 17.45 %
+Rust           1 hr 13 mins >>-------- 16.59 %
+Markdown       1 hr 8 mins  >>-------- 15.36 %
+JSON           27 mins      >--------- 6.17 %
+YAML           23 mins      >--------- 5.26 %
+Text           21 mins      >--------- 4.83 %
+Go             21 mins      >--------- 4.74 %
+HTML           11 mins      >--------- 2.6 %
+Other          10 mins      >--------- 2.44 %
+Git Config     3 mins       >--------- 0.76 %
+JavaScript     2 mins       >--------- 0.54 %
+GitIgnore file 1 min        >--------- 0.31 %
+TOML           1 min        >--------- 0.28 %
+SQL            0 secs       >--------- 0.2 %
+Bash           0 secs       >--------- 0.05 %
 
 🔥 IDE:
 
-VS Code  12 hrs 44 mins >>>>>>>>>> 94.57 %
-WebStorm 32 mins        >--------- 4.07 %
-GoLand   10 mins        >--------- 1.36 %
+VS Code 7 hrs 14 mins >>>>>>>>>> 97.54 %
+GoLand  10 mins       >--------- 2.46 %
 
 💻 OS:
 
-Windows 13 hrs 28 mins >>>>>>>>>> 100.0 %
+Windows 7 hrs 25 mins >>>>>>>>>> 100.0 %
 ```
 <!--/WAKATIME-->
 
