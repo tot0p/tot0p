@@ -52,36 +52,36 @@ I'm learn ![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&l
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2023-01-03T23:00:00Z to 2023-01-10T22:59:59Z
+🗓️ From 2023-01-04T23:00:00Z to 2023-01-11T22:59:59Z
 
-⌚ Total time: 7 hrs 35 mins
+⌚ Total time: 14 hrs 26 mins
 
 💬 Languages:
 
-Python         1 hr 57 mins >>>------- 25.82 %
-Go             1 hr 23 mins >>-------- 18.36 %
-Rust           1 hr 13 mins >>-------- 16.26 %
-C#             44 mins      >--------- 9.69 %
-Markdown       37 mins      >--------- 8.31 %
-JSON           27 mins      >--------- 6.05 %
-YAML           23 mins      >--------- 5.16 %
-Text           21 mins      >--------- 4.72 %
-HTML           11 mins      >--------- 2.55 %
-Other          6 mins       >--------- 1.5 %
-Git Config     3 mins       >--------- 0.75 %
-GitIgnore file 2 mins       >--------- 0.51 %
-TOML           1 min        >--------- 0.27 %
-Bash           0 secs       >--------- 0.05 %
+Go             7 hrs 1 min  >>>>>----- 48.62 %
+Python         1 hr 50 mins >>-------- 12.78 %
+Rust           1 hr 13 mins >--------- 8.53 %
+Other          49 mins      >--------- 5.75 %
+C#             44 mins      >--------- 5.09 %
+Text           42 mins      >--------- 4.89 %
+Markdown       39 mins      >--------- 4.55 %
+JSON           27 mins      >--------- 3.17 %
+YAML           23 mins      >--------- 2.71 %
+Bash           17 mins      >--------- 1.98 %
+HTML           9 mins       >--------- 1.12 %
+Git Config     3 mins       >--------- 0.39 %
+GitIgnore file 2 mins       >--------- 0.27 %
+TOML           1 min        >--------- 0.14 %
 
 🔥 IDE:
 
-VS Code       5 hrs 31 mins >>>>>>>>-- 72.85 %
-GoLand        1 hr 12 mins  >>-------- 16.03 %
-Visual Studio 50 mins       >>-------- 11.12 %
+GoLand        7 hrs 30 mins >>>>>>---- 52.0 %
+VS Code       6 hrs 5 mins  >>>>>----- 42.16 %
+Visual Studio 50 mins       >--------- 5.84 %
 
 💻 OS:
 
-Windows 7 hrs 35 mins >>>>>>>>>> 100.0 %
+Windows 14 hrs 26 mins >>>>>>>>>> 100.0 %
 ```
 <!--/WAKATIME-->
 
