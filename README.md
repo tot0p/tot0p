@@ -60,18 +60,19 @@ I'm learn ![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&l
 
 Go             7 hrs 1 min  >>>>>----- 48.62 %
 Python         1 hr 50 mins >>-------- 12.78 %
+Ecla           1 hr 24 mins >--------- 9.74 %
 Rust           1 hr 13 mins >--------- 8.53 %
-Other          49 mins      >--------- 5.75 %
 C#             44 mins      >--------- 5.09 %
-Text           42 mins      >--------- 4.89 %
 Markdown       39 mins      >--------- 4.55 %
 JSON           27 mins      >--------- 3.17 %
 YAML           23 mins      >--------- 2.71 %
 Bash           17 mins      >--------- 1.98 %
 HTML           9 mins       >--------- 1.12 %
+Other          6 mins       >--------- 0.79 %
 Git Config     3 mins       >--------- 0.39 %
 GitIgnore file 2 mins       >--------- 0.27 %
 TOML           1 min        >--------- 0.14 %
+Text           0 secs       >--------- 0.11 %
 
 🔥 IDE:
 
