@@ -95,8 +95,12 @@ Windows 15 hrs 12 mins >>>>>>>>>> 100.0 %
 | 3 |<a href="https://github.com/tot0p/Space-ship-shooting"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tot0p&repo=Space-ship-shooting&theme=dark" width="480px"/></a>|
 <!--/TABLE-->
 
+![](https://visitor-badge.laobi.icu/badge?page_id=tot0p.tot0p)
+  
 </div>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=tot0p.tot0p)
+
+
+
 
 
