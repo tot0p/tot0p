@@ -51,36 +51,36 @@ I'm learn ![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&l
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2023-01-10T23:00:00Z to 2023-01-17T22:59:59Z
+🗓️ From 2023-01-11T23:00:00Z to 2023-01-18T22:59:59Z
 
-⌚ Total time: 22 hrs 25 mins
+⌚ Total time: 14 hrs 53 mins
 
 💬 Languages:
 
-Go             10 hrs 12 mins >>>>>----- 45.56 %
-C#             4 hrs 35 mins  >>>------- 20.51 %
-Bash           3 hrs 14 mins  >>-------- 14.48 %
-Ecla           1 hr 36 mins   >--------- 7.2 %
-Other          1 hr 31 mins   >--------- 6.8 %
-Markdown       27 mins        >--------- 2.07 %
-Python         19 mins        >--------- 1.43 %
-Env File       13 mins        >--------- 0.98 %
-go.mod         6 mins         >--------- 0.46 %
-textmate       4 mins         >--------- 0.31 %
-GitIgnore file 2 mins         >--------- 0.19 %
-HTML           0 secs         >--------- 0.01 %
-.env file      0 secs         >--------- 0.01 %
-Text           0 secs         ---------- 0.0 %
+C#             4 hrs 35 mins >>>>------ 30.88 %
+Go             4 hrs 34 mins >>>>------ 30.76 %
+Bash           2 hrs 57 mins >>-------- 19.88 %
+Other          1 hr 31 mins  >>-------- 10.23 %
+Markdown       21 mins       >--------- 2.43 %
+Python         13 mins       >--------- 1.5 %
+Env File       13 mins       >--------- 1.47 %
+Ecla           12 mins       >--------- 1.38 %
+go.mod         6 mins        >--------- 0.69 %
+textmate       4 mins        >--------- 0.46 %
+GitIgnore file 2 mins        >--------- 0.29 %
+HTML           0 secs        >--------- 0.01 %
+.env file      0 secs        >--------- 0.01 %
+Text           0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-GoLand        11 hrs 13 mins >>>>>>---- 50.09 %
-Visual Studio 6 hrs 7 mins   >>>------- 27.31 %
-VS Code       5 hrs 3 mins   >>>------- 22.6 %
+Visual Studio 6 hrs 7 mins  >>>>>----- 41.11 %
+GoLand        4 hrs 55 mins >>>>------ 33.12 %
+VS Code       3 hrs 50 mins >>>------- 25.78 %
 
 💻 OS:
 
-Windows 22 hrs 25 mins >>>>>>>>>> 100.0 %
+Windows 14 hrs 53 mins >>>>>>>>>> 100.0 %
 ```
 <!--/WAKATIME-->
 
