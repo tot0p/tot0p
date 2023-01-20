@@ -51,36 +51,37 @@ I'm learn ![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&l
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2023-01-11T23:00:00Z to 2023-01-18T22:59:59Z
+🗓️ From 2023-01-12T23:00:00Z to 2023-01-19T22:59:59Z
 
-⌚ Total time: 14 hrs 53 mins
+⌚ Total time: 12 hrs 34 mins
 
 💬 Languages:
 
-C#             4 hrs 35 mins >>>>------ 30.88 %
-Go             4 hrs 34 mins >>>>------ 30.76 %
-Bash           2 hrs 57 mins >>-------- 19.88 %
-Other          1 hr 31 mins  >>-------- 10.23 %
-Markdown       21 mins       >--------- 2.43 %
-Python         13 mins       >--------- 1.5 %
-Env File       13 mins       >--------- 1.47 %
-Ecla           12 mins       >--------- 1.38 %
-go.mod         6 mins        >--------- 0.69 %
-textmate       4 mins        >--------- 0.46 %
-GitIgnore file 2 mins        >--------- 0.29 %
-HTML           0 secs        >--------- 0.01 %
+Go             5 hrs 16 mins >>>>>----- 41.95 %
+C#             4 hrs 25 mins >>>>------ 35.21 %
+Other          1 hr 15 mins  >>-------- 10.02 %
+Bash           33 mins       >--------- 4.45 %
+Markdown       21 mins       >--------- 2.87 %
+Python         13 mins       >--------- 1.78 %
+Env File       13 mins       >--------- 1.74 %
+go.mod         6 mins        >--------- 0.81 %
+textmate       4 mins        >--------- 0.55 %
+GitIgnore file 2 mins        >--------- 0.35 %
+AUTO_DETECTED  1 min         >--------- 0.24 %
+HTML           0 secs        >--------- 0.02 %
 .env file      0 secs        >--------- 0.01 %
 Text           0 secs        ---------- 0.0 %
+Ecla           0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-Visual Studio 6 hrs 7 mins  >>>>>----- 41.11 %
-GoLand        4 hrs 55 mins >>>>------ 33.12 %
-VS Code       3 hrs 50 mins >>>------- 25.78 %
+GoLand        5 hrs 47 mins >>>>>----- 46.05 %
+Visual Studio 5 hrs 41 mins >>>>>----- 45.23 %
+VS Code       1 hr 5 mins   >--------- 8.72 %
 
 💻 OS:
 
-Windows 14 hrs 53 mins >>>>>>>>>> 100.0 %
+Windows 12 hrs 34 mins >>>>>>>>>> 100.0 %
 ```
 <!--/WAKATIME-->
 
