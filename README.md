@@ -51,37 +51,36 @@ I'm learn ![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&l
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2023-01-14T23:00:00Z to 2023-01-21T22:59:59Z
+🗓️ From 2023-01-15T23:00:00Z to 2023-01-22T22:59:59Z
 
-⌚ Total time: 10 hrs 33 mins
+⌚ Total time: 7 hrs 54 mins
 
 💬 Languages:
 
-Go             4 hrs 17 mins >>>>>----- 40.59 %
-C#             3 hrs 45 mins >>>>------ 35.54 %
-Other          1 hr 17 mins  >>-------- 12.21 %
-XAML           27 mins       >--------- 4.33 %
-Env File       14 mins       >--------- 2.28 %
-Python         13 mins       >--------- 2.05 %
-textmate       4 mins        >--------- 0.65 %
-Markdown       4 mins        >--------- 0.65 %
-XML            3 mins        >--------- 0.54 %
-GitIgnore file 2 mins        >--------- 0.45 %
-AUTO_DETECTED  1 min         >--------- 0.29 %
-Bash           1 min         >--------- 0.28 %
-HTML           0 secs        >--------- 0.07 %
-go.mod         0 secs        >--------- 0.07 %
-.env file      0 secs        >--------- 0.01 %
+Go             3 hrs 38 mins >>>>>----- 46.03 %
+C#             2 hrs 17 mins >>>------- 28.98 %
+Other          46 mins       >--------- 9.72 %
+XAML           27 mins       >--------- 5.78 %
+Env File       14 mins       >--------- 3.04 %
+Python         13 mins       >--------- 2.74 %
+textmate       4 mins        >--------- 0.88 %
+Markdown       3 mins        >--------- 0.78 %
+XML            3 mins        >--------- 0.72 %
+GitIgnore file 2 mins        >--------- 0.59 %
+AUTO_DETECTED  1 min         >--------- 0.38 %
+Bash           1 min         >--------- 0.24 %
+HTML           0 secs        >--------- 0.1 %
+go.mod         0 secs        >--------- 0.02 %
 
 🔥 IDE:
 
-Visual Studio 5 hrs 33 mins >>>>>>---- 52.68 %
-GoLand        4 hrs 46 mins >>>>>----- 45.27 %
-VS Code       13 mins       >--------- 2.05 %
+GoLand        4 hrs 6 mins  >>>>>>---- 51.97 %
+Visual Studio 3 hrs 34 mins >>>>>----- 45.29 %
+VS Code       13 mins       >--------- 2.74 %
 
 💻 OS:
 
-Windows 10 hrs 33 mins >>>>>>>>>> 100.0 %
+Windows 7 hrs 54 mins >>>>>>>>>> 100.0 %
 ```
 <!--/WAKATIME-->
 
