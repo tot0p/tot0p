@@ -53,32 +53,39 @@ I'm in my second year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2023-02-27T23:00:00Z to 2023-03-06T22:59:59Z
+🗓️ From 2023-02-28T23:00:00Z to 2023-03-07T22:59:59Z
 
-⌚ Total time: 9 hrs 55 mins
+⌚ Total time: 12 hrs 13 mins
 
 💬 Languages:
 
-Go             7 hrs 16 mins >>>>>>>>-- 73.26 %
-C++            1 hr 48 mins  >>-------- 18.22 %
-Ecla           41 mins       >--------- 6.94 %
-Markdown       3 mins        >--------- 0.6 %
-GitIgnore file 2 mins        >--------- 0.42 %
-GLSL           1 min         >--------- 0.23 %
-C              1 min         >--------- 0.18 %
-Other          0 secs        >--------- 0.08 %
-go.mod         0 secs        >--------- 0.06 %
+Go             7 hrs 16 mins >>>>>>---- 59.51 %
+C++            2 hrs 24 mins >>-------- 19.7 %
+CMake          1 hr 10 mins  >--------- 9.55 %
+Ecla           41 mins       >--------- 5.64 %
+Rust           22 mins       >--------- 3.11 %
+GitIgnore file 4 mins        >--------- 0.57 %
+Markdown       3 mins        >--------- 0.54 %
+ObjectiveC     3 mins        >--------- 0.52 %
+Makefile       1 min         >--------- 0.19 %
+GLSL           1 min         >--------- 0.19 %
+C              1 min         >--------- 0.19 %
+TOML           0 secs        >--------- 0.11 %
+Other          0 secs        >--------- 0.07 %
+CMakeLists.txt 0 secs        >--------- 0.05 %
+go.mod         0 secs        >--------- 0.05 %
 Bash           0 secs        >--------- 0.01 %
 
 🔥 IDE:
 
-GoLand        7 hrs 54 mins >>>>>>>>-- 79.76 %
-Visual Studio 1 hr 51 mins  >>-------- 18.72 %
-VS Code       9 mins        >--------- 1.52 %
+GoLand        7 hrs 54 mins >>>>>>>--- 64.79 %
+Visual Studio 2 hrs 3 mins  >>-------- 16.91 %
+CLion         1 hr 41 mins  >>-------- 13.83 %
+VS Code       32 mins       >--------- 4.47 %
 
 💻 OS:
 
-Windows 9 hrs 55 mins >>>>>>>>>> 100.0 %
+Windows 12 hrs 13 mins >>>>>>>>>> 100.0 %
 ```
 <!--/WAKATIME-->
 
