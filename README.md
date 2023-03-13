@@ -53,33 +53,33 @@ I'm in my second year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2023-03-04T23:00:00Z to 2023-03-11T22:59:59Z
+🗓️ From 2023-03-05T23:00:00Z to 2023-03-12T22:59:59Z
 
-⌚ Total time: 3 hrs 12 mins
+⌚ Total time: 4 hrs 12 mins
 
 💬 Languages:
 
-Rust           1 hr 15 mins >>>>------ 39.09 %
-CMake          1 hr 10 mins >>>>------ 36.36 %
-C++            35 mins      >>-------- 18.66 %
-ObjectiveC     3 mins       >--------- 2.0 %
-TOML           3 mins       >--------- 1.68 %
-GitIgnore file 1 min        >--------- 0.89 %
-Makefile       1 min        >--------- 0.74 %
-Markdown       0 secs       >--------- 0.19 %
-CMakeLists.txt 0 secs       >--------- 0.18 %
-C              0 secs       >--------- 0.15 %
-Other          0 secs       >--------- 0.08 %
+Rust           2 hrs 15 mins >>>>>>---- 53.51 %
+CMake          1 hr 10 mins  >>>------- 27.72 %
+C++            35 mins       >>-------- 14.23 %
+ObjectiveC     3 mins        >--------- 1.52 %
+TOML           3 mins        >--------- 1.33 %
+GitIgnore file 1 min         >--------- 0.67 %
+Makefile       1 min         >--------- 0.56 %
+Markdown       0 secs        >--------- 0.15 %
+CMakeLists.txt 0 secs        >--------- 0.14 %
+C              0 secs        >--------- 0.11 %
+Other          0 secs        >--------- 0.06 %
 
 🔥 IDE:
 
-CLion         1 hr 41 mins >>>>>>---- 52.67 %
-VS Code       1 hr 18 mins >>>>>----- 40.84 %
-Visual Studio 12 mins      >--------- 6.49 %
+VS Code       2 hrs 18 mins >>>>>>---- 54.9 %
+CLion         1 hr 41 mins  >>>>>----- 40.16 %
+Visual Studio 12 mins       >--------- 4.95 %
 
 💻 OS:
 
-Windows 3 hrs 12 mins >>>>>>>>>> 100.0 %
+Windows 4 hrs 12 mins >>>>>>>>>> 100.0 %
 ```
 <!--/WAKATIME-->
 
