@@ -53,7 +53,7 @@ I'm in my second year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2023-04-13T22:00:00Z to 2023-04-20T21:59:59Z
+🗓️ From 2023-04-14T22:00:00Z to 2023-04-21T21:59:59Z
 
 ⌚ Total time: 9 hrs 39 mins
 
@@ -69,7 +69,6 @@ HTML       0 secs        >--------- 0.15 %
 CSS        0 secs        >--------- 0.05 %
 Text       0 secs        >--------- 0.03 %
 Git Config 0 secs        ---------- 0.0 %
-Ecla       0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
