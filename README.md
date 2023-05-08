@@ -8,7 +8,7 @@
 I'm in my second year at ynov paris
 
 
-⚠️ [Ecla](https://github.com/Eclalang) , work in progress ⚠️
+⚠️ [Ecla](https://github.com/Eclalang) , mvp coming soon ! ⚠️
 
 
 ## Connect with me :
