@@ -53,17 +53,17 @@ I'm in my second year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2023-05-03T22:00:00Z to 2023-05-10T21:59:59Z
+🗓️ From 2023-05-04T22:00:00Z to 2023-05-11T21:59:59Z
 
-⌚ Total time: 3 hrs 9 mins
+⌚ Total time: 2 hrs 49 mins
 
 💬 Languages:
 
-C#         2 hrs 12 mins >>>>>>>--- 69.62 %
-Ecla       42 mins       >>>------- 22.67 %
-Go         13 mins       >--------- 7.01 %
-Markdown   1 min         >--------- 0.66 %
-YAML       0 secs        >--------- 0.02 %
+C#         2 hrs 12 mins >>>>>>>>-- 78.09 %
+Ecla       35 mins       >>>------- 21.04 %
+Markdown   1 min         >--------- 0.74 %
+Go         0 secs        >--------- 0.09 %
+YAML       0 secs        >--------- 0.03 %
 Other      0 secs        >--------- 0.02 %
 HTML       0 secs        ---------- 0.0 %
 .env file  0 secs        ---------- 0.0 %
@@ -71,13 +71,13 @@ JavaScript 0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-Visual Studio 2 hrs 12 mins >>>>>>>--- 69.62 %
-VS Code       43 mins       >>>------- 22.68 %
-GoLand        14 mins       >--------- 7.7 %
+Visual Studio 2 hrs 12 mins >>>>>>>>-- 78.09 %
+VS Code       35 mins       >>>------- 21.05 %
+GoLand        1 min         >--------- 0.86 %
 
 💻 OS:
 
-Windows 3 hrs 9 mins >>>>>>>>>> 100.0 %
+Windows 2 hrs 49 mins >>>>>>>>>> 100.0 %
 ```
 <!--/WAKATIME-->
 
