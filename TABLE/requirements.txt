@@ -1,2 +1,2 @@
 requests
-py-markdown-table
+git+https://github.com/tot0p/MarkdownTableGenerator

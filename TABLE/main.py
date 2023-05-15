@@ -1,6 +1,6 @@
 import os
 import requests
-from markdownTable import markdownTable
+from MDTable import *
 
 #autor tot0p
 #github = https://github.com/tot0p/tot0p
@@ -26,7 +26,7 @@ url = "https://api.github.com/users/"+user+"/repos"
 DEL_START  ="<!--TABLE-->"
 DEL_END    ="<!--/TABLE-->"
 n = 0
-readmefile=open('README.md','r')
+readmefile=open('README.md','r',encoding='utf-8')
 lines = readmefile.readlines()
 readmefile.close()
 start =-1
@@ -63,14 +63,16 @@ for repo in reposSort[:3]:
     count+=1
     txt.append({"Top":count,"Repo":"<a href=\""+repo.Url+"\"><img src=\"https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username="+user+"&repo="+repo.Name+"&theme=dark\" width=\"480px\"/></a>"})
 
-table = markdownTable(txt).setParams(row_sep = 'markdown', quote = False).getMarkdown() +"\n"
+
+table = Table(header=['Top', 'Repo'],data=[[x["Top"],x["Repo"]] for x in txt]).__str__() +"\n"
+
 txt = [table]
 
 if "".join(conttemp) == txt[0]:
     print("No new content")
     exit(0)
 result = partONe + txt + partTwo
-readmefile=open('README.md','w')
+readmefile=open('README.md','w',encoding='utf-8')
 readmefile.writelines(result)
 readmefile.close()
 os.system('git config --local user.email "github-actions[bot]@users.noreply.github.com"')
