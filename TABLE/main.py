@@ -8,13 +8,14 @@ from MDTable import *
 
 class Project:
 
-    def __init__(self,Name,description,Url,Stars,MostUseLa,lc,langURL):
+    def __init__(self,Name,description,Url,Stars,MostUseLa,lc,langURL,user):
         self.Name = Name
         self.Url = Url
         self.Stars = Stars
         self.MostUseLa = MostUseLa
         self.license = lc
         self.description = description
+        self.user = user
         r = requests.get(langURL)
         g = list(r.json().keys())
         if g != []:
@@ -48,7 +49,7 @@ r = requests.get(url)
 repos = []
 for repo in r.json():
     func = lambda : repo['license']['name'] if repo['license'] else None
-    repos.append(Project(repo['name'],repo['description'],repo['html_url'],repo['stargazers_count'],repo['language'],func(),repo['languages_url']))
+    repos.append(Project(repo['name'],repo['description'],repo['html_url'],repo['stargazers_count'],repo['language'],func(),repo['languages_url'],user))
 
 
 # add repos from organization
@@ -59,7 +60,7 @@ for org in r.json():
     r = requests.get(url)
     for repo in r.json():
         func = lambda : repo['license']['name'] if repo['license'] else None
-        repos.append(Project(repo['name'],repo['description'],repo['html_url'],repo['stargazers_count'],repo['language'],func(),repo['languages_url']))
+        repos.append(Project(repo['name'],repo['description'],repo['html_url'],repo['stargazers_count'],repo['language'],func(),repo['languages_url'],org['login']))
 
 
 reposSort = sorted(repos, key=lambda x: x.Stars, reverse=True)
@@ -72,7 +73,7 @@ txt = []
 count =0
 for repo in reposSort[:3]:
     count+=1
-    txt.append({"Top":count,"Repo":"<a href=\""+repo.Url+"\"><img src=\"https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username="+user+"&repo="+repo.Name+"&theme=dark\" width=\"480px\"/></a>"})
+    txt.append({"Top":count,"Repo":"<a href=\""+repo.Url+"\"><img src=\"https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username="+repo.user+"&repo="+repo.Name+"&theme=dark\" width=\"480px\"/></a>"})
 
 
 table = Table(header=['Top', 'Repo'],data=[[x["Top"],x["Repo"]] for x in txt]).__str__() +"\n"
