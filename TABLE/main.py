@@ -51,6 +51,17 @@ for repo in r.json():
     repos.append(Project(repo['name'],repo['description'],repo['html_url'],repo['stargazers_count'],repo['language'],func(),repo['languages_url']))
 
 
+# add repos from organization
+url = "https://api.github.com/users/"+user+"/orgs"
+r = requests.get(url)
+for org in r.json():
+    url = "https://api.github.com/orgs/"+org['login']+"/repos"
+    r = requests.get(url)
+    for repo in r.json():
+        func = lambda : repo['license']['name'] if repo['license'] else None
+        repos.append(Project(repo['name'],repo['description'],repo['html_url'],repo['stargazers_count'],repo['language'],func(),repo['languages_url']))
+
+
 reposSort = sorted(repos, key=lambda x: x.Stars, reverse=True)
 
 ## remove repo with name of user
