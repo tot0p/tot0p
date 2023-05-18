@@ -53,37 +53,33 @@ I'm in my second year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2023-05-09T22:00:00Z to 2023-05-16T21:59:59Z
+🗓️ From 2023-05-10T22:00:00Z to 2023-05-17T21:59:59Z
 
-⌚ Total time: 16 hrs 7 mins
+⌚ Total time: 18 hrs 39 mins
 
 💬 Languages:
 
-Python         7 hrs 22 mins >>>>>----- 45.74 %
-C#             5 hrs 30 mins >>>>------ 34.17 %
-Markdown       1 hr 16 mins  >--------- 7.93 %
-JSON           49 mins       >--------- 5.15 %
-Ecla           35 mins       >--------- 3.69 %
-Text           18 mins       >--------- 1.87 %
-Bash           13 mins       >--------- 1.41 %
-Go             0 secs        >--------- 0.01 %
+C#             8 hrs 39 mins >>>>>----- 46.42 %
+Python         7 hrs 22 mins >>>>------ 39.52 %
+Markdown       1 hr 15 mins  >--------- 6.74 %
+JSON           49 mins       >--------- 4.45 %
+Text           18 mins       >--------- 1.62 %
+Bash           13 mins       >--------- 1.22 %
+Ecla           0 secs        >--------- 0.01 %
 Other          0 secs        >--------- 0.01 %
 GitIgnore file 0 secs        >--------- 0.01 %
 Git Config     0 secs        >--------- 0.01 %
-YAML           0 secs        >--------- 0.01 %
-HTML           0 secs        ---------- 0.0 %
-.env file      0 secs        ---------- 0.0 %
-JavaScript     0 secs        ---------- 0.0 %
+YAML           0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-VS Code       10 hrs 20 mins >>>>>>>--- 64.13 %
-Visual Studio 5 hrs 30 mins  >>>>------ 34.17 %
-GoLand        16 mins        >--------- 1.71 %
+VS Code       9 hrs 44 mins >>>>>>---- 52.24 %
+Visual Studio 8 hrs 39 mins >>>>>----- 46.42 %
+GoLand        15 mins       >--------- 1.34 %
 
 💻 OS:
 
-Windows 16 hrs 7 mins >>>>>>>>>> 100.0 %
+Windows 18 hrs 39 mins >>>>>>>>>> 100.0 %
 ```
 <!--/WAKATIME-->
 
