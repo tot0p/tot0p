@@ -53,36 +53,36 @@ I'm in my second year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2023-05-14T22:00:00Z to 2023-05-21T21:59:59Z
+🗓️ From 2023-05-15T22:00:00Z to 2023-05-22T21:59:59Z
 
-⌚ Total time: 10 hrs 7 mins
+⌚ Total time: 12 hrs 56 mins
 
 💬 Languages:
 
-C#             6 hrs 39 mins >>>>>>>--- 65.76 %
-Python         1 hr 17 mins  >>-------- 12.73 %
-Markdown       1 hr 9 mins   >>-------- 11.41 %
-JSON           31 mins       >--------- 5.18 %
-Elixir         15 mins       >--------- 2.49 %
-Text           8 mins        >--------- 1.38 %
-Bash           3 mins        >--------- 0.59 %
-C              1 min         >--------- 0.25 %
-CMake          0 secs        >--------- 0.11 %
-GitIgnore file 0 secs        >--------- 0.06 %
-Ecla           0 secs        >--------- 0.02 %
-Erlang         0 secs        >--------- 0.02 %
-YAML           0 secs        ---------- 0.0 %
+C#             6 hrs 39 mins >>>>>>---- 51.43 %
+PHP            5 hrs 5 mins  >>>>------ 39.33 %
+Markdown       52 mins       >--------- 6.77 %
+Elixir         15 mins       >--------- 1.94 %
+C              1 min         >--------- 0.2 %
+CMake          0 secs        >--------- 0.09 %
+Bash           0 secs        >--------- 0.08 %
+GitIgnore file 0 secs        >--------- 0.05 %
+Git Config     0 secs        >--------- 0.05 %
+Apache Config  0 secs        >--------- 0.03 %
+Other          0 secs        >--------- 0.01 %
+Erlang         0 secs        >--------- 0.01 %
+JSON           0 secs        >--------- 0.01 %
 ObjectiveC     0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-Visual Studio 6 hrs 39 mins >>>>>>>--- 65.76 %
-VS Code       3 hrs 25 mins >>>>------ 33.87 %
-CLion         2 mins        >--------- 0.37 %
+Visual Studio 6 hrs 39 mins >>>>>>---- 51.43 %
+VS Code       6 hrs 14 mins >>>>>----- 48.28 %
+CLion         2 mins        >--------- 0.29 %
 
 💻 OS:
 
-Windows 10 hrs 7 mins >>>>>>>>>> 100.0 %
+Windows 12 hrs 56 mins >>>>>>>>>> 100.0 %
 ```
 <!--/WAKATIME-->
 
