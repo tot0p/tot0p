@@ -43,30 +43,30 @@ I'm in my second year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2023-05-29T22:00:00Z to 2023-06-05T21:59:59Z
+🗓️ From 2023-05-30T22:00:00Z to 2023-06-06T21:59:59Z
 
-⌚ Total time: 11 hrs 15 mins
+⌚ Total time: 7 hrs 54 mins
 
 💬 Languages:
 
-PHP           7 hrs 57 mins >>>>>>>>-- 70.75 %
-JavaScript    1 hr 28 mins  >>-------- 13.07 %
-HTML          34 mins       >--------- 5.07 %
-CSS           32 mins       >--------- 4.78 %
-SQL           13 mins       >--------- 2.07 %
-Apache Config 12 mins       >--------- 1.86 %
-Markdown      9 mins        >--------- 1.38 %
-Other         6 mins        >--------- 1.01 %
-Bash          0 secs        ---------- 0.0 %
+PHP           4 hrs 56 mins >>>>>>>--- 62.63 %
+JavaScript    1 hr 28 mins  >>-------- 18.61 %
+CSS           32 mins       >--------- 6.81 %
+HTML          15 mins       >--------- 3.31 %
+SQL           13 mins       >--------- 2.95 %
+Apache Config 12 mins       >--------- 2.65 %
+Markdown      8 mins        >--------- 1.84 %
+Other         5 mins        >--------- 1.2 %
+Bash          0 secs        >--------- 0.01 %
 Git Config    0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-VS Code 11 hrs 15 mins >>>>>>>>>> 100.0 %
+VS Code 7 hrs 54 mins >>>>>>>>>> 100.0 %
 
 💻 OS:
 
-Windows 11 hrs 15 mins >>>>>>>>>> 100.0 %
+Windows 7 hrs 54 mins >>>>>>>>>> 100.0 %
 ```
 <!--/WAKATIME-->
 
