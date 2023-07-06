@@ -43,36 +43,32 @@ I'm in my second year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2023-06-27T22:00:00Z to 2023-07-04T21:59:59Z
+🗓️ From 2023-06-28T22:00:00Z to 2023-07-05T21:59:59Z
 
-⌚ Total time: 15 hrs 3 mins
+⌚ Total time: 13 hrs 25 mins
 
 💬 Languages:
 
-Markdown       8 hrs 42 mins >>>>>>---- 57.84 %
-Python         4 hrs 46 mins >>>>------ 31.74 %
-Java           39 mins       >--------- 4.42 %
-Go             22 mins       >--------- 2.49 %
-Text           15 mins       >--------- 1.67 %
-XML            7 mins        >--------- 0.85 %
-CLASS          3 mins        >--------- 0.38 %
-Bash           2 mins        >--------- 0.24 %
-Git Config     0 secs        >--------- 0.08 %
-ECLiPSe        0 secs        >--------- 0.07 %
-PHP            0 secs        >--------- 0.07 %
-go.mod         0 secs        >--------- 0.06 %
+Python         7 hrs 32 mins >>>>>>---- 56.13 %
+Markdown       4 hrs 46 mins >>>>------ 35.52 %
+Java           39 mins       >--------- 4.96 %
+Text           15 mins       >--------- 1.87 %
+CLASS          3 mins        >--------- 0.43 %
+Git Config     3 mins        >--------- 0.38 %
+Bash           2 mins        >--------- 0.27 %
+Other          1 min         >--------- 0.23 %
+ECLiPSe        0 secs        >--------- 0.08 %
+PHP            0 secs        >--------- 0.08 %
 GitIgnore file 0 secs        >--------- 0.05 %
-Other          0 secs        >--------- 0.04 %
 
 🔥 IDE:
 
-VS Code  14 hrs 8 mins >>>>>>>>>> 93.89 %
-IntelliJ 32 mins       >--------- 3.56 %
-GoLand   22 mins       >--------- 2.54 %
+VS Code  12 hrs 53 mins >>>>>>>>>> 96.0 %
+IntelliJ 32 mins        >--------- 4.0 %
 
 💻 OS:
 
-Windows 15 hrs 3 mins >>>>>>>>>> 100.0 %
+Windows 13 hrs 25 mins >>>>>>>>>> 100.0 %
 ```
 <!--/WAKATIME-->
 
