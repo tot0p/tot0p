@@ -45,27 +45,21 @@ I'm in my second year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2023-08-19T22:00:00Z to 2023-08-26T21:59:59Z
+🗓️ From 2023-08-20T22:00:00Z to 2023-08-27T21:59:59Z
 
-⌚ Total time: 14 mins
+⌚ Total time: 0 secs
 
 💬 Languages:
 
-GitIgnore file 5 mins >>>>------ 35.43 %
-CMake          5 mins >>>>------ 33.62 %
-C              4 mins >>>------- 29.93 %
-ObjectiveC     0 secs >--------- 0.83 %
-Markdown       0 secs >--------- 0.18 %
-Ezhil          0 secs ---------- 0.0 %
+C 0 secs >>>>>>>>>> 100.0 %
 
 🔥 IDE:
 
-CLion   14 mins >>>>>>>>>> 99.86 %
-VS Code 0 secs  >--------- 0.14 %
+VS Code 0 secs >>>>>>>>>> 100.0 %
 
 💻 OS:
 
-Windows 14 mins >>>>>>>>>> 100.0 %
+Windows 0 secs >>>>>>>>>> 100.0 %
 ```
 <!--/WAKATIME-->
 
