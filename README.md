@@ -45,29 +45,30 @@ I'm in my second year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2023-08-23T22:00:00Z to 2023-08-30T21:59:59Z
+🗓️ From 2023-08-24T22:00:00Z to 2023-08-31T21:59:59Z
 
-⌚ Total time: 58 mins
+⌚ Total time: 4 hrs 7 mins
 
 💬 Languages:
 
-JavaScript     46 mins >>>>>>>>-- 79.57 %
-JSON           6 mins  >>-------- 11.49 %
-Markdown       2 mins  >--------- 3.61 %
-Ezhil          2 mins  >--------- 3.46 %
-Git Config     0 secs  >--------- 1.27 %
-Bash           0 secs  >--------- 0.49 %
-ActionScript 3 0 secs  >--------- 0.04 %
-C              0 secs  >--------- 0.03 %
-ActionScript   0 secs  >--------- 0.03 %
+JavaScript     3 hrs 41 mins >>>>>>>>>- 89.29 %
+JSON           12 mins       >--------- 5.14 %
+ActionScript   5 mins        >--------- 2.33 %
+Bash           2 mins        >--------- 1.21 %
+Markdown       2 mins        >--------- 0.85 %
+Ezhil          2 mins        >--------- 0.82 %
+Git Config     0 secs        >--------- 0.3 %
+Other          0 secs        >--------- 0.04 %
+ActionScript 3 0 secs        >--------- 0.01 %
+C              0 secs        >--------- 0.01 %
 
 🔥 IDE:
 
-VS Code 58 mins >>>>>>>>>> 100.0 %
+VS Code 4 hrs 7 mins >>>>>>>>>> 100.0 %
 
 💻 OS:
 
-Windows 58 mins >>>>>>>>>> 100.0 %
+Windows 4 hrs 7 mins >>>>>>>>>> 100.0 %
 ```
 <!--/WAKATIME-->
 
