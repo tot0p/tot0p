@@ -45,38 +45,38 @@ I'm in my second year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2023-08-26T22:00:00Z to 2023-09-02T21:59:59Z
+🗓️ From 2023-08-27T22:00:00Z to 2023-09-03T21:59:59Z
 
-⌚ Total time: 5 hrs 13 mins
+⌚ Total time: 5 hrs 27 mins
 
 💬 Languages:
 
-JavaScript     4 hrs   >>>>>>>>-- 76.75 %
-JSON           13 mins >--------- 4.28 %
-Ezhil          12 mins >--------- 4.13 %
-Rust           10 mins >--------- 3.47 %
-GitIgnore file 7 mins  >--------- 2.36 %
-ActionScript   5 mins  >--------- 1.84 %
-Python         4 mins  >--------- 1.56 %
-XML            4 mins  >--------- 1.5 %
-Bash           3 mins  >--------- 1.24 %
-Markdown       2 mins  >--------- 0.93 %
-Go             2 mins  >--------- 0.75 %
-TOML           2 mins  >--------- 0.74 %
-Git Config     0 secs  >--------- 0.24 %
-Other          0 secs  >--------- 0.18 %
+JavaScript     4 hrs   >>>>>>>>-- 73.59 %
+Rust           24 mins >--------- 7.45 %
+JSON           13 mins >--------- 4.11 %
+Ezhil          12 mins >--------- 3.96 %
+GitIgnore file 7 mins  >--------- 2.26 %
+ActionScript   5 mins  >--------- 1.76 %
+Python         4 mins  >--------- 1.5 %
+XML            4 mins  >--------- 1.44 %
+Bash           3 mins  >--------- 1.19 %
+Markdown       2 mins  >--------- 0.89 %
+Go             2 mins  >--------- 0.72 %
+TOML           2 mins  >--------- 0.71 %
+Git Config     0 secs  >--------- 0.23 %
+Other          0 secs  >--------- 0.17 %
 HTML           0 secs  >--------- 0.01 %
 ActionScript 3 0 secs  >--------- 0.01 %
 go.mod         0 secs  ---------- 0.0 %
 
 🔥 IDE:
 
-VS Code 5 hrs 3 mins >>>>>>>>>> 96.77 %
-GoLand  10 mins      >--------- 3.23 %
+VS Code 5 hrs 17 mins >>>>>>>>>> 96.91 %
+GoLand  10 mins       >--------- 3.09 %
 
 💻 OS:
 
-Windows 5 hrs 13 mins >>>>>>>>>> 100.0 %
+Windows 5 hrs 27 mins >>>>>>>>>> 100.0 %
 ```
 <!--/WAKATIME-->
 
