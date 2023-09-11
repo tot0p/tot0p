@@ -45,22 +45,21 @@ I'm in my second year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2023-09-02T22:00:00Z to 2023-09-09T21:59:59Z
+🗓️ From 2023-09-03T22:00:00Z to 2023-09-10T21:59:59Z
 
-⌚ Total time: 16 mins
+⌚ Total time: 2 mins
 
 💬 Languages:
 
-Rust 13 mins >>>>>>>>>- 84.43 %
-Go   2 mins  >>-------- 15.57 %
+Go 2 mins >>>>>>>>>> 100.0 %
 
 🔥 IDE:
 
-VS Code 16 mins >>>>>>>>>> 100.0 %
+VS Code 2 mins >>>>>>>>>> 100.0 %
 
 💻 OS:
 
-Windows 16 mins >>>>>>>>>> 100.0 %
+Windows 2 mins >>>>>>>>>> 100.0 %
 ```
 <!--/WAKATIME-->
 
