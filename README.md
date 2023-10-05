@@ -45,38 +45,39 @@ I'm in my second year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2023-09-26T22:00:00Z to 2023-10-03T21:59:59Z
+🗓️ From 2023-09-27T22:00:00Z to 2023-10-04T21:59:59Z
 
-⌚ Total time: 8 hrs 46 mins
+⌚ Total time: 16 hrs 27 mins
 
 💬 Languages:
 
-Go             6 hrs 2 mins >>>>>>>--- 68.83 %
-Markdown       1 hr 4 mins  >>-------- 12.29 %
-JavaScript     21 mins      >--------- 4.16 %
-HTML           17 mins      >--------- 3.24 %
-JSON           16 mins      >--------- 3.04 %
-Bash           13 mins      >--------- 2.64 %
-Ezhil          11 mins      >--------- 2.16 %
-GitIgnore file 10 mins      >--------- 2.01 %
-go.mod         3 mins       >--------- 0.64 %
-.env file      2 mins       >--------- 0.55 %
-GDScript3      0 secs       >--------- 0.13 %
-CSS            0 secs       >--------- 0.13 %
-Env File       0 secs       >--------- 0.13 %
-Other          0 secs       >--------- 0.04 %
-Text           0 secs       >--------- 0.01 %
-XML            0 secs       >--------- 0.01 %
-Ecla           0 secs       >--------- 0.01 %
+Go             12 hrs 6 mins >>>>>>>>-- 73.54 %
+Markdown       1 hr 44 mins  >>-------- 10.59 %
+HTML           50 mins       >--------- 5.12 %
+JSON           25 mins       >--------- 2.58 %
+JavaScript     23 mins       >--------- 2.38 %
+Bash           14 mins       >--------- 1.49 %
+.env file      12 mins       >--------- 1.28 %
+Ezhil          11 mins       >--------- 1.2 %
+GitIgnore file 10 mins       >--------- 1.07 %
+go.mod         3 mins        >--------- 0.34 %
+Env File       1 min         >--------- 0.13 %
+CSS            1 min         >--------- 0.11 %
+GDScript3      0 secs        >--------- 0.07 %
+ActionScript 3 0 secs        >--------- 0.05 %
+Other          0 secs        >--------- 0.02 %
+Text           0 secs        >--------- 0.01 %
+XML            0 secs        ---------- 0.0 %
+Ecla           0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-GoLand  8 hrs 16 mins >>>>>>>>>> 94.21 %
-VS Code 30 mins       >--------- 5.79 %
+GoLand  15 hrs 50 mins >>>>>>>>>> 96.23 %
+VS Code 37 mins        >--------- 3.77 %
 
 💻 OS:
 
-Windows 8 hrs 46 mins >>>>>>>>>> 100.0 %
+Windows 16 hrs 27 mins >>>>>>>>>> 100.0 %
 ```
 <!--/WAKATIME-->
 
