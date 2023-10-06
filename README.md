@@ -45,26 +45,26 @@ I'm in my second year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2023-09-27T22:00:00Z to 2023-10-04T21:59:59Z
+🗓️ From 2023-09-28T22:00:00Z to 2023-10-05T21:59:59Z
 
-⌚ Total time: 16 hrs 27 mins
+⌚ Total time: 20 hrs 49 mins
 
 💬 Languages:
 
-Go             12 hrs 6 mins >>>>>>>>-- 73.54 %
-Markdown       1 hr 44 mins  >>-------- 10.59 %
-HTML           50 mins       >--------- 5.12 %
-JSON           25 mins       >--------- 2.58 %
-JavaScript     23 mins       >--------- 2.38 %
-Bash           14 mins       >--------- 1.49 %
-.env file      12 mins       >--------- 1.28 %
-Ezhil          11 mins       >--------- 1.2 %
-GitIgnore file 10 mins       >--------- 1.07 %
-go.mod         3 mins        >--------- 0.34 %
-Env File       1 min         >--------- 0.13 %
-CSS            1 min         >--------- 0.11 %
-GDScript3      0 secs        >--------- 0.07 %
-ActionScript 3 0 secs        >--------- 0.05 %
+Go             16 hrs 4 mins >>>>>>>>-- 77.16 %
+Markdown       1 hr 48 mins  >--------- 8.68 %
+HTML           1 hr 2 mins   >--------- 5.0 %
+JSON           25 mins       >--------- 2.06 %
+JavaScript     23 mins       >--------- 1.88 %
+.env file      17 mins       >--------- 1.43 %
+Bash           17 mins       >--------- 1.4 %
+Ezhil          11 mins       >--------- 0.95 %
+GitIgnore file 10 mins       >--------- 0.85 %
+go.mod         3 mins        >--------- 0.27 %
+Env File       1 min         >--------- 0.1 %
+CSS            1 min         >--------- 0.09 %
+GDScript3      0 secs        >--------- 0.06 %
+ActionScript 3 0 secs        >--------- 0.04 %
 Other          0 secs        >--------- 0.02 %
 Text           0 secs        >--------- 0.01 %
 XML            0 secs        ---------- 0.0 %
@@ -72,12 +72,12 @@ Ecla           0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-GoLand  15 hrs 50 mins >>>>>>>>>> 96.23 %
-VS Code 37 mins        >--------- 3.77 %
+GoLand  20 hrs 12 mins >>>>>>>>>> 97.02 %
+VS Code 37 mins        >--------- 2.98 %
 
 💻 OS:
 
-Windows 16 hrs 27 mins >>>>>>>>>> 100.0 %
+Windows 20 hrs 49 mins >>>>>>>>>> 100.0 %
 ```
 <!--/WAKATIME-->
 
