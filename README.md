@@ -47,7 +47,7 @@ I'm in my second year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2023-10-07T22:00:00Z to 2023-10-14T21:59:59Z
+🗓️ From 2023-10-08T22:00:00Z to 2023-10-15T21:59:59Z
 
 ⌚ Total time: 16 hrs 23 mins
 
