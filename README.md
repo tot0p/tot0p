@@ -47,41 +47,46 @@ I'm in my second year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2023-10-09T22:00:00Z to 2023-10-16T21:59:59Z
+🗓️ From 2023-10-10T22:00:00Z to 2023-10-17T21:59:59Z
 
-⌚ Total time: 12 hrs 44 mins
+⌚ Total time: 10 hrs 1 min
 
 💬 Languages:
 
-Go             6 hrs         >>>>>----- 47.19 %
-JavaScript     2 hrs 55 mins >>>------- 22.93 %
-HTML           1 hr 24 mins  >>-------- 11.12 %
-CSS            54 mins       >--------- 7.11 %
-Markdown       23 mins       >--------- 3.1 %
-Env File       13 mins       >--------- 1.71 %
-Python         12 mins       >--------- 1.65 %
-Ezhil          11 mins       >--------- 1.47 %
-go.mod         8 mins        >--------- 1.14 %
-Bash           8 mins        >--------- 1.11 %
-YAML           3 mins        >--------- 0.45 %
-GitIgnore file 3 mins        >--------- 0.39 %
-JSON           2 mins        >--------- 0.39 %
-EJS            1 min         >--------- 0.15 %
-TOML           0 secs        >--------- 0.04 %
-TypeScript     0 secs        >--------- 0.03 %
+Kotlin         3 hrs 14 mins >>>>------ 32.36 %
+JavaScript     2 hrs 40 mins >>>------- 26.72 %
+Go             2 hrs 2 mins  >>>------- 20.29 %
+XML            55 mins       >--------- 9.18 %
+Java           13 mins       >--------- 2.17 %
+Python         12 mins       >--------- 2.1 %
+Ezhil          11 mins       >--------- 1.87 %
+Markdown       10 mins       >--------- 1.73 %
+GitIgnore file 5 mins        >--------- 0.86 %
+JSON           3 mins        >--------- 0.58 %
+YAML           3 mins        >--------- 0.57 %
+Bash           2 mins        >--------- 0.48 %
+HTML           2 mins        >--------- 0.48 %
+ActionScript 3 1 min         >--------- 0.22 %
+EJS            1 min         >--------- 0.19 %
+TOML           0 secs        >--------- 0.05 %
+TypeScript     0 secs        >--------- 0.04 %
+CSS            0 secs        >--------- 0.04 %
+Properties     0 secs        >--------- 0.04 %
 Docker         0 secs        >--------- 0.01 %
-Text           0 secs        ---------- 0.0 %
+Text           0 secs        >--------- 0.01 %
+go.mod         0 secs        ---------- 0.0 %
 .env file      0 secs        ---------- 0.0 %
 Makefile       0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-GoLand  9 hrs 37 mins >>>>>>>>-- 75.51 %
-VS Code 3 hrs 7 mins  >>>------- 24.49 %
+Studio  4 hrs 26 mins >>>>>----- 44.38 %
+VS Code 3 hrs 19 mins >>>>------ 33.19 %
+GoLand  2 hrs 14 mins >>>------- 22.43 %
 
 💻 OS:
 
-Windows 12 hrs 44 mins >>>>>>>>>> 100.0 %
+Windows 10 hrs 1 min >>>>>>>>>> 100.0 %
 ```
 <!--/WAKATIME-->
 
