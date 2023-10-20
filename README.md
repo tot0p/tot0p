@@ -47,47 +47,47 @@ I'm in my second year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2023-10-11T22:00:00Z to 2023-10-18T21:59:59Z
+🗓️ From 2023-10-12T22:00:00Z to 2023-10-19T21:59:59Z
 
-⌚ Total time: 8 hrs 56 mins
+⌚ Total time: 8 hrs 44 mins
 
 💬 Languages:
 
-Kotlin         3 hrs 14 mins >>>>------ 36.26 %
-JavaScript     2 hrs 40 mins >>>------- 29.93 %
-Go             59 mins       >>-------- 11.03 %
-XML            55 mins       >>-------- 10.29 %
-Java           13 mins       >--------- 2.43 %
-Python         12 mins       >--------- 2.35 %
-Ezhil          11 mins       >--------- 2.09 %
-Markdown       10 mins       >--------- 1.9 %
-Bash           3 mins        >--------- 0.67 %
-JSON           3 mins        >--------- 0.65 %
-YAML           3 mins        >--------- 0.64 %
-HTML           2 mins        >--------- 0.53 %
-GitIgnore file 2 mins        >--------- 0.52 %
+Kotlin         3 hrs 14 mins >>>>------ 37.08 %
+JavaScript     2 hrs 40 mins >>>>------ 30.61 %
+XML            55 mins       >>-------- 10.52 %
+C++            44 mins       >--------- 8.5 %
+Java           13 mins       >--------- 2.49 %
+Python         12 mins       >--------- 2.4 %
+Ezhil          11 mins       >--------- 2.14 %
+Go             9 mins        >--------- 1.85 %
+JSON           4 mins        >--------- 0.82 %
+Bash           3 mins        >--------- 0.69 %
+CBM BASIC V2   3 mins        >--------- 0.59 %
+YAML           2 mins        >--------- 0.57 %
+HTML           2 mins        >--------- 0.55 %
+GitIgnore file 2 mins        >--------- 0.45 %
 ActionScript 3 1 min         >--------- 0.25 %
 EJS            1 min         >--------- 0.22 %
 TOML           0 secs        >--------- 0.06 %
 TypeScript     0 secs        >--------- 0.05 %
-CSS            0 secs        >--------- 0.04 %
+CSS            0 secs        >--------- 0.05 %
 Properties     0 secs        >--------- 0.04 %
 Assembly       0 secs        >--------- 0.02 %
+Other          0 secs        >--------- 0.02 %
 Docker         0 secs        >--------- 0.01 %
+Markdown       0 secs        >--------- 0.01 %
 Text           0 secs        >--------- 0.01 %
-go.mod         0 secs        ---------- 0.0 %
-.env file      0 secs        ---------- 0.0 %
-Makefile       0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-Studio  4 hrs 26 mins >>>>>----- 49.71 %
-VS Code 3 hrs 29 mins >>>>------ 38.98 %
-GoLand  1 hr          >>-------- 11.31 %
+Studio  4 hrs 26 mins >>>>>>---- 50.84 %
+VS Code 4 hrs 17 mins >>>>>----- 49.12 %
+GoLand  0 secs        >--------- 0.04 %
 
 💻 OS:
 
-Windows 8 hrs 56 mins >>>>>>>>>> 100.0 %
+Windows 8 hrs 44 mins >>>>>>>>>> 100.0 %
 ```
 <!--/WAKATIME-->
 
