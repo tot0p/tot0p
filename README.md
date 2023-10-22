@@ -47,41 +47,41 @@ I'm in my second year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2023-10-13T22:00:00Z to 2023-10-20T21:59:59Z
+🗓️ From 2023-10-14T22:00:00Z to 2023-10-21T21:59:59Z
 
-⌚ Total time: 8 hrs 14 mins
+⌚ Total time: 8 hrs 58 mins
 
 💬 Languages:
 
-Kotlin         3 hrs 14 mins >>>>------ 39.37 %
-JavaScript     2 hrs 13 mins >>>------- 27.09 %
-XML            55 mins       >>-------- 11.17 %
-C++            44 mins       >--------- 9.03 %
-Java           13 mins       >--------- 2.64 %
-Python         12 mins       >--------- 2.56 %
-Ezhil          11 mins       >--------- 2.39 %
-Go             10 mins       >--------- 2.09 %
-JSON           4 mins        >--------- 0.96 %
-CBM BASIC V2   4 mins        >--------- 0.82 %
-HTML           2 mins        >--------- 0.59 %
-GitIgnore file 2 mins        >--------- 0.48 %
-ActionScript 3 2 mins        >--------- 0.46 %
-Bash           0 secs        >--------- 0.14 %
-TOML           0 secs        >--------- 0.07 %
-Properties     0 secs        >--------- 0.05 %
+Kotlin         3 hrs 14 mins >>>>------ 36.16 %
+JavaScript     2 hrs 12 mins >>>------- 24.71 %
+Markdown       1 hr 8 mins   >>-------- 12.76 %
+XML            55 mins       >>-------- 10.26 %
+C++            44 mins       >--------- 8.29 %
+Java           13 mins       >--------- 2.43 %
+Go             10 mins       >--------- 1.92 %
+JSON           4 mins        >--------- 0.88 %
+CBM BASIC V2   4 mins        >--------- 0.75 %
+HTML           2 mins        >--------- 0.54 %
+GitIgnore file 2 mins        >--------- 0.44 %
+ActionScript 3 2 mins        >--------- 0.43 %
+Bash           0 secs        >--------- 0.13 %
+Ezhil          0 secs        >--------- 0.11 %
+TOML           0 secs        >--------- 0.06 %
+Properties     0 secs        >--------- 0.04 %
 TypeScript     0 secs        >--------- 0.04 %
 Assembly       0 secs        >--------- 0.02 %
 Other          0 secs        >--------- 0.02 %
-Markdown       0 secs        >--------- 0.01 %
+Python         0 secs        >--------- 0.02 %
 
 🔥 IDE:
 
-Studio  4 hrs 26 mins >>>>>>---- 53.98 %
-VS Code 3 hrs 47 mins >>>>>----- 46.02 %
+VS Code 4 hrs 31 mins >>>>>>---- 50.42 %
+Studio  4 hrs 26 mins >>>>>----- 49.58 %
 
 💻 OS:
 
-Windows 8 hrs 14 mins >>>>>>>>>> 100.0 %
+Windows 8 hrs 58 mins >>>>>>>>>> 100.0 %
 ```
 <!--/WAKATIME-->
 
