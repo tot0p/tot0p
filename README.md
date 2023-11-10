@@ -47,13 +47,13 @@ I'm in my second year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2023-10-31T23:00:00Z to 2023-11-07T22:59:59Z
+🗓️ From 2023-11-01T23:00:00Z to 2023-11-08T22:59:59Z
 
 ⌚ Total time: 11 hrs 22 mins
 
 💬 Languages:
 
-C++            7 hrs 16 mins >>>>>>>--- 64.06 %
+C++            7 hrs 17 mins >>>>>>>--- 64.06 %
 Markdown       3 hrs 22 mins >>>------- 29.72 %
 JSON           13 mins       >--------- 2.02 %
 SQL            11 mins       >--------- 1.62 %
