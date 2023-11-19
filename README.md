@@ -47,34 +47,34 @@ I'm in my second year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2023-11-09T23:00:00Z to 2023-11-16T22:59:59Z
+🗓️ From 2023-11-10T23:00:00Z to 2023-11-17T22:59:59Z
 
-⌚ Total time: 16 hrs 36 mins
+⌚ Total time: 16 hrs 26 mins
 
 💬 Languages:
 
-C++         10 hrs 18 mins >>>>>>>--- 62.04 %
-C#          2 hrs 15 mins  >>-------- 13.58 %
-Markdown    1 hr 50 mins   >>-------- 11.08 %
-Go          1 hr 38 mins   >--------- 9.84 %
-Python      21 mins        >--------- 2.14 %
-Git Config  5 mins         >--------- 0.6 %
-YAML        3 mins         >--------- 0.34 %
-JSON        2 mins         >--------- 0.3 %
-C           0 secs         >--------- 0.03 %
-Other       0 secs         >--------- 0.03 %
-Ecla        0 secs         >--------- 0.02 %
-Objective-C 0 secs         >--------- 0.01 %
+C++         11 hrs 1 min  >>>>>>>--- 67.12 %
+C#          2 hrs 15 mins >>-------- 13.72 %
+Go          2 hrs 5 mins  >>-------- 12.72 %
+Markdown    29 mins       >--------- 2.96 %
+Python      21 mins       >--------- 2.16 %
+Git Config  5 mins        >--------- 0.6 %
+YAML        3 mins        >--------- 0.34 %
+JSON        2 mins        >--------- 0.3 %
+C           0 secs        >--------- 0.03 %
+Other       0 secs        >--------- 0.02 %
+Ecla        0 secs        >--------- 0.02 %
+Objective-C 0 secs        >--------- 0.01 %
 
 🔥 IDE:
 
-VS Code       12 hrs 57 mins >>>>>>>>-- 78.0 %
-Visual Studio 2 hrs 15 mins  >>-------- 13.59 %
-GoLand        1 hr 23 mins   >--------- 8.4 %
+VS Code       12 hrs 19 mins >>>>>>>>-- 75.0 %
+Visual Studio 2 hrs 15 mins  >>-------- 13.73 %
+GoLand        1 hr 51 mins   >>-------- 11.27 %
 
 💻 OS:
 
-Windows 16 hrs 36 mins >>>>>>>>>> 100.0 %
+Windows 16 hrs 26 mins >>>>>>>>>> 100.0 %
 ```
 <!--/WAKATIME-->
 
