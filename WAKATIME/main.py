@@ -8,7 +8,7 @@ blc = ">-"
 configMermaid = [
     "### Pie chart of Time repartition\n"
     "```mermaid\n",	
-    "%%{init: {\"pie\": {\"textPosition\": 0.5}, \"themeVariables\": {\"pieOuterStrokeWidth\": \"5px\",\"primaryTextColor\" : \"#2F4F4F\"},\"theme\":\"base\"} }%%\n",
+    "%%{init: {\"pie\": {\"textPosition\": 0.5}, \"themeVariables\": {\"pieOuterStrokeWidth\": \"5px\",\"primaryTextColor\" : \"#778899\"},\"theme\":\"base\"} }%%\n",
     "pie\n",
 ]
 
