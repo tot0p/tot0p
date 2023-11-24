@@ -119,7 +119,7 @@ for i in temp:
 txt.append("```\n")
 configMermaid += "```"
 
-if conttemp == txt:
+if conttemp == txt + configMermaid:
     print("No change in README.md")
     exit(0)
 result = partONe + txt + configMermaid + partTwo
