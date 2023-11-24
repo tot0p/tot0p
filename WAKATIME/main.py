@@ -119,6 +119,8 @@ for i in temp:
 txt.append("```\n")
 configMermaid += "```"
 
+configMermaid = configMermaid.split("\n")
+
 if conttemp == txt + configMermaid:
     print("No change in README.md")
     exit(0)
