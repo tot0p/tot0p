@@ -5,21 +5,11 @@ import requests
 
 blc = ">-"
 
-configMermaid = """```mermaid
-%%{
-    init: 
-        {
-            "pie": 
-                {"textPosition": 0.5},
-            "themeVariables": 
-                {
-                    "pieOuterStrokeWidth": "5px",
-                } ,
-            "theme":"base" 
-        }
-}%%
-pie title Wakatime
-"""
+configMermaid = [
+    "```mermaid",	
+    "%%{init: {\"pie\": {\"textPosition\": 0.5}, \"themeVariables\": {\"pieOuterStrokeWidth\": \"5px\"}} }%%",
+    "pie title Languages time in last 7 days",
+]
 
 url = "https://wakatime.com/api/v1/users/current/stats/last_7_days?api_key="+os.environ['WAKATIME_API_KEY']
 DEL_START  ="<!--WAKATIME-->"
@@ -70,10 +60,10 @@ txt.append("\n")
 for i in r['data']['languages']:
     if len(i["name"]) > maxName:
         maxName = len(i["name"])
-        configMermaid += f"\t\"{i['name']}\": {i['percent']}\n"
     if len(i["text"]) > maxText:
         maxText = len(i["text"])
     temp.append([i['name'],i['percent'],i['text']])
+    configMermaid.append("\t\""+i['name']+"\": "+str(i['percent'])+"\n")
 
 for i in temp:
     txt.append(i[0]+(" "*(maxName-len(i[0])+1))+ i[2]+(" "*(maxText -len(i[2])+1)) +col(i[1])+"\n")
@@ -117,9 +107,8 @@ for i in temp:
     txt.append(i[0]+(" "*(maxName-len(i[0])+1))+ i[2]+(" "*(maxText -len(i[2])+1)) +col(i[1])+"\n")
 
 txt.append("```\n")
-configMermaid += "```"
+configMermaid.append("```\n")
 
-configMermaid = configMermaid.split("\n")
 
 if conttemp == txt + configMermaid:
     print("No change in README.md")
