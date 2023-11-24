@@ -7,7 +7,7 @@ blc = ">-"
 
 configMermaid = [
     "```mermaid\n",	
-    "%%{init: {\"pie\": {\"textPosition\": 0.5}, \"themeVariables\": {\"pieOuterStrokeWidth\": \"5px\"},\"theme\":\"forest\"} }%%\n",
+    "%%{init: {\"pie\": {\"textPosition\": 0.5}, \"themeVariables\": {\"pieOuterStrokeWidth\": \"5px\"},\"theme\":\"base\"} }%%\n",
     "pie title Languages time in last 7 days\n",
 ]
 
