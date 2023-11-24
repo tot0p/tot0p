@@ -74,18 +74,11 @@ GoLand  1 hr 22 mins   >>-------- 11.11 %
 Windows 12 hrs 20 mins >>>>>>>>>> 100.0 %
 ```
 ```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"},"theme":"base"} }%%
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"},"theme":"forest"} }%%
 pie title Languages time in last 7 days
 	"C++": 60.04
 	"Go": 32.82
 	"Markdown": 5.98
-	"Other": 0.51
-	"Text": 0.42
-	"GitIgnore file": 0.13
-	"Python": 0.07
-	"go.mod": 0.02
-	"JSON": 0.01
-	"Ecla": 0.0
 ```
 <!--/WAKATIME-->
 
