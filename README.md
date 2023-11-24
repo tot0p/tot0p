@@ -75,7 +75,7 @@ Windows 12 hrs 20 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#F0F0F2"},"theme":"base"} }%%
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#9C9C9C"},"theme":"base"} }%%
 pie
 	"C++": 60.04
 	"Go": 32.82
