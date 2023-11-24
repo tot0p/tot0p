@@ -70,7 +70,7 @@ txt.append("\n")
 for i in r['data']['languages']:
     if len(i["name"]) > maxName:
         maxName = len(i["name"])
-        configMermaid += f"\t\"{i['name']}\": {i['percent']},\n"
+        configMermaid += f"\t\"{i['name']}\": {i['percent']}\n"
     if len(i["text"]) > maxText:
         maxText = len(i["text"])
     temp.append([i['name'],i['percent'],i['text']])
