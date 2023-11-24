@@ -65,13 +65,13 @@ for i in r['data']['languages']:
     if len(i["text"]) > maxText:
         maxText = len(i["text"])
     temp.append([i['name'],i['percent'],i['text']])
-    if int(i['percent']) < 5:
-        other += int(i['percent'])
+    if float(i['percent']) < 5:
+        other += float(i['percent'])
     else:
         configMermaid.append("\t\""+i['name']+"\": "+str(i['percent'])+"\n")
 
 print("other : ",other)
-if other != 0:
+if other > 0:
     configMermaid.append("\t\"Other\": "+str(other)+"\n")
 
 for i in temp:
