@@ -73,7 +73,7 @@ GoLand  1 hr 22 mins   >>-------- 11.11 %
 
 Windows 12 hrs 20 mins >>>>>>>>>> 100.0 %
 ```
-```mermaid%%{    init:         {            "pie":                 {"textPosition": 0.5},            "themeVariables":                 {                    "pieOuterStrokeWidth": "5px",                } ,            "theme":"base"         }}%%pie title Wakatime	"C++": 60.04,	"Markdown": 5.98,	"GitIgnore file": 0.13,```<!--/WAKATIME-->
+```mermaid%%{    init:         {            "pie":                 {"textPosition": 0.5},            "themeVariables":                 {                    "pieOuterStrokeWidth": "5px",                } ,            "theme":"base"         }}%%pie title Wakatime	"C++": 60.04	"Markdown": 5.98	"GitIgnore file": 0.13``````mermaid%%{    init:         {            "pie":                 {"textPosition": 0.5},            "themeVariables":                 {                    "pieOuterStrokeWidth": "5px",                } ,            "theme":"base"         }}%%pie title Wakatime	"C++": 60.04,	"Markdown": 5.98,	"GitIgnore file": 0.13,```<!--/WAKATIME-->
 
 
 # Top 3 Projects By Stars
