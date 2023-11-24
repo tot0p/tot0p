@@ -7,7 +7,7 @@ blc = ">-"
 
 configMermaid = [
     "```mermaid\n",	
-    "%%{init: {\"pie\": {\"textPosition\": 0.5}, \"themeVariables\": {\"pieOuterStrokeWidth\": \"5px\"},\"theme\":\"base\"} }%%\n",
+    "%%{init: {\"pie\": {\"textPosition\": 0.5}, \"themeVariables\": {\"pieOuterStrokeWidth\": \"5px\"},\"theme\":\"forest\"} }%%\n",
     "pie title Languages time in last 7 days\n",
 ]
 
@@ -56,6 +56,7 @@ maxText = 0
 
 txt.append("💬 Languages:\n")
 txt.append("\n")
+other = 0
 
 for i in r['data']['languages']:
     if len(i["name"]) > maxName:
@@ -63,7 +64,13 @@ for i in r['data']['languages']:
     if len(i["text"]) > maxText:
         maxText = len(i["text"])
     temp.append([i['name'],i['percent'],i['text']])
-    configMermaid.append("\t\""+i['name']+"\": "+str(i['percent'])+"\n")
+    if int(i['percent']) < 5:
+        other += int(i['percent'])
+    else:
+        configMermaid.append("\t\""+i['name']+"\": "+str(i['percent'])+"\n")
+
+if other > 0:
+    configMermaid.append("\t\"Other\": "+str(other)+"\n")
 
 for i in temp:
     txt.append(i[0]+(" "*(maxName-len(i[0])+1))+ i[2]+(" "*(maxText -len(i[2])+1)) +col(i[1])+"\n")
