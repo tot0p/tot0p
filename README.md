@@ -73,9 +73,9 @@ GoLand  1 hr 22 mins   >>-------- 11.11 %
 
 Windows 12 hrs 20 mins >>>>>>>>>> 100.0 %
 ```
-## Pie chart of Time repartition
+### Pie chart of Time repartition
 ```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"},"theme":"base"} }%%
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","fontSize" : "20px"},"theme":"base"} }%%
 pie
 	"C++": 60.04
 	"Go": 32.82
