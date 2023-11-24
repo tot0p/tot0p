@@ -6,9 +6,10 @@ import requests
 blc = ">-"
 
 configMermaid = [
+    "## Pie chart of Time repartition\n"
     "```mermaid\n",	
     "%%{init: {\"pie\": {\"textPosition\": 0.5}, \"themeVariables\": {\"pieOuterStrokeWidth\": \"5px\"},\"theme\":\"base\"} }%%\n",
-    "pie title Languages time in last 7 days\n",
+    "pie\n",
 ]
 
 url = "https://wakatime.com/api/v1/users/current/stats/last_7_days?api_key="+os.environ['WAKATIME_API_KEY']
