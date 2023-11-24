@@ -70,7 +70,6 @@ for i in r['data']['languages']:
     else:
         configMermaid.append("\t\""+i['name']+"\": "+str(i['percent'])+"\n")
 
-print("other : ",other)
 if other > 0:
     configMermaid.append("\t\"Other\": "+str(other)+"\n")
 
