@@ -6,9 +6,9 @@ import requests
 blc = ">-"
 
 configMermaid = [
-    "```mermaid",	
-    "%%{init: {\"pie\": {\"textPosition\": 0.5}, \"themeVariables\": {\"pieOuterStrokeWidth\": \"5px\"}} }%%",
-    "pie title Languages time in last 7 days",
+    "```mermaid\n",	
+    "%%{init: {\"pie\": {\"textPosition\": 0.5}, \"themeVariables\": {\"pieOuterStrokeWidth\": \"5px\"}} }%%\n",
+    "pie title Languages time in last 7 days\n",
 ]
 
 url = "https://wakatime.com/api/v1/users/current/stats/last_7_days?api_key="+os.environ['WAKATIME_API_KEY']
