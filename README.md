@@ -73,7 +73,10 @@ GoLand  1 hr 22 mins   >>-------- 11.11 %
 
 Windows 12 hrs 20 mins >>>>>>>>>> 100.0 %
 ```
-```mermaid%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%pie title Languages time in last 7 days	"C++": 60.04
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie title Languages time in last 7 days
+	"C++": 60.04
 	"Go": 32.82
 	"Markdown": 5.98
 	"Other": 0.51
