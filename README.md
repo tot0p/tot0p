@@ -46,15 +46,15 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2023-11-18T23:00:00Z to 2023-11-25T22:59:59Z
+🗓️ From 2023-11-19T23:00:00Z to 2023-11-26T22:59:59Z
 
-⌚ Total time: 12 hrs 39 mins
+⌚ Total time: 12 hrs 40 mins
 
 💬 Languages:
 
-C++            6 hrs 34 mins >>>>>>---- 51.98 %
-Go             3 hrs 35 mins >>>------- 28.4 %
-Python         1 hr 28 mins  >>-------- 11.7 %
+C++            5 hrs 24 mins >>>>>----- 42.66 %
+Go             4 hrs 34 mins >>>>------ 36.14 %
+Python         1 hr 41 mins  >>-------- 13.28 %
 Markdown       44 mins       >--------- 5.91 %
 YAML           7 mins        >--------- 0.95 %
 Other          3 mins        >--------- 0.5 %
@@ -66,20 +66,20 @@ Ecla           0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-VS Code 11 hrs 44 mins >>>>>>>>>> 92.77 %
-GoLand  54 mins        >--------- 7.23 %
+VS Code 10 hrs 46 mins >>>>>>>>>- 84.99 %
+GoLand  1 hr 54 mins   >>-------- 15.01 %
 
 💻 OS:
 
-Windows 12 hrs 39 mins >>>>>>>>>> 100.0 %
+Windows 12 hrs 40 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"C++": 51.98
-	"Go": 28.4
-	"Python": 11.7
+	"C++": 42.66
+	"Go": 36.14
+	"Python": 13.28
 	"Markdown": 5.91
 	"Other": 2.01
 ```
