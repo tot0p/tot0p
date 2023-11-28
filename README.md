@@ -46,42 +46,43 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2023-11-19T23:00:00Z to 2023-11-26T22:59:59Z
+🗓️ From 2023-11-20T23:00:00Z to 2023-11-27T22:59:59Z
 
-⌚ Total time: 12 hrs 40 mins
+⌚ Total time: 8 hrs 35 mins
 
 💬 Languages:
 
-C++            5 hrs 24 mins >>>>>----- 42.66 %
-Go             4 hrs 34 mins >>>>------ 36.14 %
-Python         1 hr 41 mins  >>-------- 13.28 %
-Markdown       44 mins       >--------- 5.91 %
-YAML           7 mins        >--------- 0.95 %
-Other          3 mins        >--------- 0.5 %
-Text           3 mins        >--------- 0.41 %
-GitIgnore file 0 secs        >--------- 0.12 %
-go.mod         0 secs        >--------- 0.02 %
-JSON           0 secs        >--------- 0.01 %
+Go             4 hrs 37 mins >>>>>>---- 53.73 %
+Markdown       1 hr 57 mins  >>>------- 22.81 %
+Python         1 hr 41 mins  >>-------- 19.59 %
+YAML           7 mins        >--------- 1.4 %
+Bash           4 mins        >--------- 0.83 %
+Other          3 mins        >--------- 0.73 %
+Text           3 mins        >--------- 0.61 %
+GitIgnore file 0 secs        >--------- 0.19 %
+go.mod         0 secs        >--------- 0.06 %
+C++            0 secs        >--------- 0.02 %
+JSON           0 secs        >--------- 0.02 %
+Shell Script   0 secs        >--------- 0.01 %
 Ecla           0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-VS Code 10 hrs 46 mins >>>>>>>>>- 84.99 %
-GoLand  1 hr 54 mins   >>-------- 15.01 %
+VS Code 6 hrs 34 mins >>>>>>>>-- 76.41 %
+GoLand  2 hrs 1 min   >>>------- 23.59 %
 
 💻 OS:
 
-Windows 12 hrs 40 mins >>>>>>>>>> 100.0 %
+Windows 8 hrs 35 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"C++": 42.66
-	"Go": 36.14
-	"Python": 13.28
-	"Markdown": 5.91
-	"Other": 2.01
+	"Go": 53.73
+	"Markdown": 22.81
+	"Python": 19.59
+	"Other": 3.8699999999999997
 ```
 <!--/WAKATIME-->
 
