@@ -46,48 +46,44 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2023-11-22T23:00:00Z to 2023-11-29T22:59:59Z
+🗓️ From 2023-11-26T23:00:00Z to 2023-12-03T22:59:59Z
 
-⌚ Total time: 12 hrs 12 mins
+⌚ Total time: 9 hrs 1 min
 
 💬 Languages:
 
-Go             5 hrs 7 mins  >>>>>----- 41.94 %
-C#             2 hrs 48 mins >>>------- 23.04 %
-Markdown       1 hr 47 mins  >>-------- 14.63 %
-Python         1 hr 40 mins  >>-------- 13.73 %
-Text           14 mins       >--------- 1.92 %
-Ecla           12 mins       >--------- 1.65 %
-YAML           7 mins        >--------- 0.99 %
-Bash           4 mins        >--------- 0.64 %
-Other          3 mins        >--------- 0.51 %
-HTML           3 mins        >--------- 0.48 %
-Shell Script   0 secs        >--------- 0.13 %
-.env file      0 secs        >--------- 0.12 %
-GitIgnore file 0 secs        >--------- 0.11 %
-go.mod         0 secs        >--------- 0.09 %
-C++            0 secs        >--------- 0.01 %
-JSON           0 secs        >--------- 0.01 %
+C#             2 hrs 48 mins >>>>------ 31.16 %
+Go             2 hrs 40 mins >>>------- 29.62 %
+Markdown       2 hrs 31 mins >>>------- 27.9 %
+Ecla           34 mins       >--------- 6.45 %
+Text           10 mins       >--------- 2.02 %
+Bash           4 mins        >--------- 0.86 %
+HTML           3 mins        >--------- 0.65 %
+C++            3 mins        >--------- 0.65 %
+go.mod         0 secs        >--------- 0.18 %
+Shell Script   0 secs        >--------- 0.18 %
+GitIgnore file 0 secs        >--------- 0.17 %
+.env file      0 secs        >--------- 0.16 %
 
 🔥 IDE:
 
-VS Code       6 hrs 18 mins >>>>>>---- 51.76 %
-GoLand        3 hrs 4 mins  >>>------- 25.21 %
-Visual Studio 2 hrs 48 mins >>>------- 23.04 %
+VS Code       3 hrs 13 mins >>>>------ 35.67 %
+GoLand        2 hrs 59 mins >>>>------ 33.16 %
+Visual Studio 2 hrs 48 mins >>>>------ 31.16 %
 
 💻 OS:
 
-Windows 12 hrs 12 mins >>>>>>>>>> 100.0 %
+Windows 9 hrs 1 min >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 41.94
-	"C#": 23.04
-	"Markdown": 14.63
-	"Python": 13.73
-	"Other": 6.659999999999999
+	"C#": 31.16
+	"Go": 29.62
+	"Markdown": 27.9
+	"Ecla": 6.45
+	"Other": 4.869999999999999
 ```
 <!--/WAKATIME-->
 
