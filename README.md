@@ -46,44 +46,45 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2023-11-26T23:00:00Z to 2023-12-03T22:59:59Z
+🗓️ From 2023-11-28T23:00:00Z to 2023-12-05T22:59:59Z
 
-⌚ Total time: 9 hrs 1 min
+⌚ Total time: 8 hrs 11 mins
 
 💬 Languages:
 
-C#             2 hrs 48 mins >>>>------ 31.16 %
-Go             2 hrs 40 mins >>>------- 29.62 %
-Markdown       2 hrs 31 mins >>>------- 27.9 %
-Ecla           34 mins       >--------- 6.45 %
-Text           10 mins       >--------- 2.02 %
-Bash           4 mins        >--------- 0.86 %
-HTML           3 mins        >--------- 0.65 %
-C++            3 mins        >--------- 0.65 %
-go.mod         0 secs        >--------- 0.18 %
-Shell Script   0 secs        >--------- 0.18 %
-GitIgnore file 0 secs        >--------- 0.17 %
-.env file      0 secs        >--------- 0.16 %
+C#             2 hrs 32 mins >>>>------ 31.0 %
+Go             1 hr 51 mins  >>>------- 22.68 %
+Markdown       1 hr 40 mins  >>>------- 20.36 %
+C++            58 mins       >>-------- 11.88 %
+Ecla           34 mins       >--------- 7.11 %
+Other          22 mins       >--------- 4.64 %
+Text           10 mins       >--------- 2.23 %
+go.mod         0 secs        >--------- 0.07 %
+GitIgnore file 0 secs        >--------- 0.03 %
+Shell Script   0 secs        ---------- 0.0 %
+.env file      0 secs        ---------- 0.0 %
+HTML           0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-VS Code       3 hrs 13 mins >>>>------ 35.67 %
-GoLand        2 hrs 59 mins >>>>------ 33.16 %
-Visual Studio 2 hrs 48 mins >>>>------ 31.16 %
+VS Code       3 hrs 40 mins >>>>>----- 44.83 %
+Visual Studio 2 hrs 32 mins >>>>------ 31.0 %
+GoLand        1 hr 58 mins  >>>------- 24.17 %
 
 💻 OS:
 
-Windows 9 hrs 1 min >>>>>>>>>> 100.0 %
+Windows 8 hrs 11 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"C#": 31.16
-	"Go": 29.62
-	"Markdown": 27.9
-	"Ecla": 6.45
-	"Other": 4.869999999999999
+	"C#": 31.0
+	"Go": 22.68
+	"Markdown": 20.36
+	"C++": 11.88
+	"Ecla": 7.11
+	"Other": 6.97
 ```
 <!--/WAKATIME-->
 
