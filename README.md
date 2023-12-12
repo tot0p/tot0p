@@ -46,36 +46,37 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2023-12-02T23:00:00Z to 2023-12-09T22:59:59Z
+🗓️ From 2023-12-03T23:00:00Z to 2023-12-10T22:59:59Z
 
-⌚ Total time: 12 hrs 6 mins
+⌚ Total time: 16 hrs 53 mins
 
 💬 Languages:
 
-C++      7 hrs 8 mins  >>>>>>---- 58.93 %
-C#       2 hrs 32 mins >>>------- 20.96 %
-Markdown 1 hr 49 mins  >>-------- 15.04 %
-Other    22 mins       >--------- 3.14 %
-JSON     11 mins       >--------- 1.58 %
-Lua      2 mins        >--------- 0.35 %
+C++      10 hrs 30 mins >>>>>>>--- 62.17 %
+C#       2 hrs 32 mins  >>-------- 15.02 %
+Lua      1 hr 51 mins   >>-------- 11.02 %
+Markdown 1 hr 16 mins   >--------- 7.57 %
+Other    22 mins        >--------- 2.25 %
+JSON     20 mins        >--------- 1.98 %
 
 🔥 IDE:
 
-VS Code       9 hrs 34 mins >>>>>>>>-- 79.04 %
-Visual Studio 2 hrs 32 mins >>>------- 20.96 %
+VS Code       14 hrs 21 mins >>>>>>>>>- 84.98 %
+Visual Studio 2 hrs 32 mins  >>-------- 15.02 %
 
 💻 OS:
 
-Windows 12 hrs 6 mins >>>>>>>>>> 100.0 %
+Windows 16 hrs 53 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"C++": 58.93
-	"C#": 20.96
-	"Markdown": 15.04
-	"Other": 5.07
+	"C++": 62.17
+	"C#": 15.02
+	"Lua": 11.02
+	"Markdown": 7.57
+	"Other": 4.23
 ```
 <!--/WAKATIME-->
 
