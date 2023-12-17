@@ -46,44 +46,44 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2023-12-08T23:00:00Z to 2023-12-15T22:59:59Z
+🗓️ From 2023-12-09T23:00:00Z to 2023-12-16T22:59:59Z
 
-⌚ Total time: 17 hrs 2 mins
+⌚ Total time: 12 hrs 2 mins
 
 💬 Languages:
 
-C++            9 hrs 50 mins >>>>>>---- 57.71 %
-Go             2 hrs 30 mins >>-------- 14.72 %
-Lua            1 hr 54 mins  >>-------- 11.17 %
-Markdown       1 hr 32 mins  >--------- 9.05 %
-C#             25 mins       >--------- 2.46 %
-JSON           20 mins       >--------- 1.96 %
-Text           12 mins       >--------- 1.21 %
-Ecla           9 mins        >--------- 0.94 %
-Python         7 mins        >--------- 0.72 %
-go.mod         0 secs        >--------- 0.06 %
+C++            5 hrs 4 mins  >>>>>----- 42.11 %
+Go             2 hrs 30 mins >>>------- 20.82 %
+Lua            1 hr 51 mins  >>-------- 15.45 %
+Markdown       1 hr 32 mins  >>-------- 12.81 %
+C#             25 mins       >--------- 3.48 %
+Text           12 mins       >--------- 1.71 %
+Ecla           9 mins        >--------- 1.33 %
+JSON           8 mins        >--------- 1.19 %
+Python         7 mins        >--------- 1.01 %
+go.mod         0 secs        >--------- 0.08 %
 Other          0 secs        >--------- 0.01 %
 GitIgnore file 0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-VS Code       14 hrs        >>>>>>>>>- 82.19 %
-GoLand        2 hrs 36 mins >>-------- 15.34 %
-Visual Studio 25 mins       >--------- 2.47 %
+VS Code       9 hrs         >>>>>>>>-- 74.81 %
+GoLand        2 hrs 36 mins >>>------- 21.71 %
+Visual Studio 25 mins       >--------- 3.49 %
 
 💻 OS:
 
-Windows 17 hrs 2 mins >>>>>>>>>> 100.0 %
+Windows 12 hrs 2 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"C++": 57.71
-	"Go": 14.72
-	"Lua": 11.17
-	"Markdown": 9.05
-	"Other": 7.359999999999999
+	"C++": 42.11
+	"Go": 20.82
+	"Lua": 15.45
+	"Markdown": 12.81
+	"Other": 8.809999999999999
 ```
 <!--/WAKATIME-->
 
