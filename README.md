@@ -43,41 +43,6 @@ I'm in my third year at ynov paris
 ## Work Time of last 7 days
 
 <!--WAKATIME-->
-```text
-🌐 Time zone: Europe/Paris
-
-🗓️ From 2023-05-07T22:00:00Z to 2023-05-14T21:59:59Z
-
-⌚ Total time: 13 hrs 23 mins
-
-💬 Languages:
-
-Python         6 hrs 5 mins >>>>>----- 45.49 %
-C#             5 hrs 3 mins >>>>------ 37.81 %
-Markdown       1 hr         >--------- 7.47 %
-Ecla           35 mins      >--------- 4.43 %
-JSON           18 mins      >--------- 2.28 %
-Bash           10 mins      >--------- 1.26 %
-Text           9 mins       >--------- 1.21 %
-Go             0 secs       >--------- 0.02 %
-Other          0 secs       >--------- 0.01 %
-GitIgnore file 0 secs       >--------- 0.01 %
-Git Config     0 secs       >--------- 0.01 %
-YAML           0 secs       >--------- 0.01 %
-HTML           0 secs       ---------- 0.0 %
-.env file      0 secs       ---------- 0.0 %
-JavaScript     0 secs       ---------- 0.0 %
-
-🔥 IDE:
-
-VS Code       8 hrs 2 mins >>>>>>>--- 60.14 %
-Visual Studio 5 hrs 3 mins >>>>------ 37.81 %
-GoLand        16 mins      >--------- 2.06 %
-
-💻 OS:
-
-Windows 13 hrs 23 mins >>>>>>>>>> 100.0 %
-```
 <!--/WAKATIME-->
 
 
