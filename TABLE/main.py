@@ -56,7 +56,7 @@ for repo in r.json():
 url = "https://api.github.com/users/"+user+"/orgs"
 r = requests.get(url)
 for org in r.json():
-    url = "https://api.github.com/orgs/"+org['login']+"/repos"
+    url = "https://api.github.com/orgs/"+str(org['login'])+"/repos"
     r = requests.get(url)
     for repo in r.json():
         func = lambda : repo['license']['name'] if repo['license'] else None
