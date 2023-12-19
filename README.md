@@ -46,45 +46,42 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2023-12-10T23:00:00Z to 2023-12-17T22:59:59Z
+🗓️ From 2023-12-11T23:00:00Z to 2023-12-18T22:59:59Z
 
-⌚ Total time: 6 hrs 46 mins
+⌚ Total time: 9 hrs 10 mins
 
 💬 Languages:
 
-Go             2 hrs 48 mins >>>>>----- 41.54 %
-C++            1 hr 38 mins  >>>------- 24.27 %
-Markdown       1 hr 21 mins  >>-------- 20.0 %
-C#             25 mins       >--------- 6.18 %
-Text           12 mins       >--------- 3.04 %
-Ecla           9 mins        >--------- 2.36 %
-Python         7 mins        >--------- 1.8 %
-Lua            2 mins        >--------- 0.63 %
-go.mod         0 secs        >--------- 0.14 %
-Other          0 secs        >--------- 0.02 %
+C#             5 hrs 38 mins >>>>>>>--- 61.45 %
+Go             2 hrs 43 mins >>>------- 29.7 %
+C++            21 mins       >--------- 3.91 %
+Ecla           9 mins        >--------- 1.75 %
+Python         7 mins        >--------- 1.33 %
+Markdown       6 mins        >--------- 1.19 %
+Lua            2 mins        >--------- 0.47 %
+go.mod         0 secs        >--------- 0.11 %
+Other          0 secs        >--------- 0.09 %
 GitIgnore file 0 secs        ---------- 0.0 %
 YAML           0 secs        ---------- 0.0 %
 JSON           0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-VS Code       3 hrs 26 mins >>>>>>---- 50.7 %
-GoLand        2 hrs 55 mins >>>>>----- 43.1 %
-Visual Studio 25 mins       >--------- 6.2 %
+Visual Studio 5 hrs 38 mins >>>>>>>--- 61.54 %
+GoLand        2 hrs 55 mins >>>>------ 31.86 %
+VS Code       36 mins       >--------- 6.6 %
 
 💻 OS:
 
-Windows 6 hrs 46 mins >>>>>>>>>> 100.0 %
+Windows 9 hrs 10 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 41.54
-	"C++": 24.27
-	"Markdown": 20.0
-	"C#": 6.18
-	"Other": 7.989999999999999
+	"C#": 61.45
+	"Go": 29.7
+	"Other": 8.85
 ```
 <!--/WAKATIME-->
 
