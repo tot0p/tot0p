@@ -46,37 +46,42 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2023-12-20T23:00:00Z to 2023-12-27T22:59:59Z
+🗓️ From 2023-12-21T23:00:00Z to 2023-12-28T22:59:59Z
 
-⌚ Total time: 3 hrs 5 mins
+⌚ Total time: 2 hrs 23 mins
 
 💬 Languages:
 
-Markdown 1 hr 58 mins >>>>>>>--- 63.63 %
-Go       57 mins      >>>>------ 30.75 %
-Python   4 mins       >--------- 2.53 %
-JSON     2 mins       >--------- 1.24 %
-C        1 min        >--------- 0.68 %
-C++      1 min        >--------- 0.64 %
-go.mod   0 secs       >--------- 0.45 %
-Text     0 secs       >--------- 0.07 %
+Markdown       1 hr 31 mins >>>>>>>--- 63.21 %
+ObjectiveC     15 mins      >>-------- 10.53 %
+Go             15 mins      >>-------- 10.44 %
+C              12 mins      >--------- 8.94 %
+CMake          5 mins       >--------- 3.57 %
+JSON           2 mins       >--------- 1.6 %
+C++            1 min        >--------- 0.94 %
+Git Config     0 secs       >--------- 0.47 %
+GitIgnore file 0 secs       >--------- 0.16 %
+Text           0 secs       >--------- 0.14 %
 
 🔥 IDE:
 
-VS Code 2 hrs 7 mins >>>>>>>--- 68.55 %
-GoLand  58 mins      >>>>------ 31.45 %
+VS Code 1 hr 40 mins >>>>>>>--- 69.86 %
+CLion   28 mins      >>-------- 19.7 %
+GoLand  15 mins      >>-------- 10.44 %
 
 💻 OS:
 
-Windows 3 hrs 5 mins >>>>>>>>>> 100.0 %
+Windows 2 hrs 23 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Markdown": 63.63
-	"Go": 30.75
-	"Other": 5.609999999999999
+	"Markdown": 63.21
+	"ObjectiveC": 10.53
+	"Go": 10.44
+	"C": 8.94
+	"Other": 6.879999999999999
 ```
 <!--/WAKATIME-->
 
