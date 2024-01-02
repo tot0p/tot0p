@@ -46,42 +46,45 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2023-12-24T23:00:00Z to 2023-12-31T22:59:59Z
+🗓️ From 2023-12-25T23:00:00Z to 2024-01-01T22:59:59Z
 
-⌚ Total time: 53 mins
+⌚ Total time: 2 hrs 55 mins
 
 💬 Languages:
 
-ObjectiveC     15 mins >>>------- 28.58 %
-Go             15 mins >>>------- 28.33 %
-C              12 mins >>>------- 24.27 %
-CMake          5 mins  >--------- 9.68 %
-JSON           2 mins  >--------- 4.35 %
-C++            1 min   >--------- 2.54 %
-Git Config     0 secs  >--------- 1.29 %
-GitIgnore file 0 secs  >--------- 0.44 %
-Text           0 secs  >--------- 0.38 %
-Markdown       0 secs  >--------- 0.15 %
+Python         1 hr 52 mins >>>>>>>--- 63.95 %
+ObjectiveC     15 mins      >--------- 8.61 %
+Go             15 mins      >--------- 8.55 %
+C              12 mins      >--------- 7.32 %
+Bash           6 mins       >--------- 3.93 %
+CMake          5 mins       >--------- 2.92 %
+JSON           2 mins       >--------- 1.31 %
+Markdown       1 min        >--------- 0.99 %
+C++            1 min        >--------- 0.77 %
+Git Config     1 min        >--------- 0.66 %
+CSV            0 secs       >--------- 0.53 %
+Text           0 secs       >--------- 0.34 %
+GitIgnore file 0 secs       >--------- 0.13 %
 
 🔥 IDE:
 
-CLion   28 mins >>>>>>---- 53.48 %
-GoLand  15 mins >>>------- 28.33 %
-VS Code 9 mins  >>-------- 18.2 %
+VS Code 2 hrs 12 mins >>>>>>>>-- 75.34 %
+CLion   28 mins       >>-------- 16.12 %
+GoLand  15 mins       >--------- 8.54 %
 
 💻 OS:
 
-Windows 53 mins >>>>>>>>>> 100.0 %
+Windows 2 hrs 55 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"ObjectiveC": 28.58
-	"Go": 28.33
-	"C": 24.27
-	"CMake": 9.68
-	"Other": 9.15
+	"Python": 63.95
+	"ObjectiveC": 8.61
+	"Go": 8.55
+	"C": 7.32
+	"Other": 11.58
 ```
 <!--/WAKATIME-->
 
