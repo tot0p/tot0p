@@ -46,44 +46,42 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2023-12-26T23:00:00Z to 2024-01-02T22:59:59Z
+🗓️ From 2023-12-27T23:00:00Z to 2024-01-03T22:59:59Z
 
-⌚ Total time: 5 hrs 38 mins
+⌚ Total time: 5 hrs 18 mins
 
 💬 Languages:
 
-Python         4 hrs 25 mins >>>>>>>>-- 78.4 %
-ObjectiveC     15 mins       >--------- 4.48 %
-Go             15 mins       >--------- 4.45 %
-C              12 mins       >--------- 3.81 %
-SQL            8 mins        >--------- 2.51 %
-Bash           6 mins        >--------- 2.04 %
-CMake          5 mins        >--------- 1.52 %
-JSON           2 mins        >--------- 0.68 %
-Git Config     2 mins        >--------- 0.63 %
-Markdown       1 min         >--------- 0.52 %
-C++            1 min         >--------- 0.4 %
-CSV            0 secs        >--------- 0.27 %
-Text           0 secs        >--------- 0.18 %
+Python         4 hrs 25 mins >>>>>>>>>- 83.27 %
+ObjectiveC     15 mins       >--------- 4.76 %
+C              11 mins       >--------- 3.65 %
+SQL            8 mins        >--------- 2.67 %
+Bash           6 mins        >--------- 2.17 %
+CMake          5 mins        >--------- 1.61 %
+Git Config     2 mins        >--------- 0.67 %
+Markdown       1 min         >--------- 0.55 %
+CSV            0 secs        >--------- 0.29 %
+Text           0 secs        >--------- 0.19 %
 GitIgnore file 0 secs        >--------- 0.07 %
+C++            0 secs        >--------- 0.05 %
 Other          0 secs        >--------- 0.04 %
+Go             0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-VS Code 4 hrs 54 mins >>>>>>>>>- 87.16 %
-CLion   28 mins       >--------- 8.39 %
-GoLand  15 mins       >--------- 4.44 %
+VS Code 4 hrs 49 mins >>>>>>>>>> 91.09 %
+CLion   28 mins       >--------- 8.91 %
 
 💻 OS:
 
-Windows 5 hrs 38 mins >>>>>>>>>> 100.0 %
+Windows 5 hrs 18 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Python": 78.4
-	"Other": 21.599999999999994
+	"Python": 83.27
+	"Other": 16.72
 ```
 <!--/WAKATIME-->
 
