@@ -46,39 +46,39 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2023-12-29T23:00:00Z to 2024-01-05T22:59:59Z
+🗓️ From 2023-12-30T23:00:00Z to 2024-01-06T22:59:59Z
 
-⌚ Total time: 7 hrs 53 mins
+⌚ Total time: 9 hrs 55 mins
 
 💬 Languages:
 
-Python     5 hrs 50 mins >>>>>>>>-- 73.97 %
-C#         1 hr 39 mins  >>>------- 21.06 %
-SQL        8 mins        >--------- 1.84 %
-Bash       7 mins        >--------- 1.5 %
-Other      3 mins        >--------- 0.69 %
-Markdown   1 min         >--------- 0.35 %
-Git Config 1 min         >--------- 0.3 %
-CSV        0 secs        >--------- 0.2 %
-Text       0 secs        >--------- 0.08 %
+Python     5 hrs 50 mins >>>>>>---- 58.8 %
+C#         3 hrs 41 mins >>>>------ 37.25 %
+SQL        8 mins        >--------- 1.46 %
+Bash       7 mins        >--------- 1.19 %
+Other      3 mins        >--------- 0.55 %
+Markdown   1 min         >--------- 0.28 %
+Git Config 1 min         >--------- 0.24 %
+CSV        0 secs        >--------- 0.16 %
+Text       0 secs        >--------- 0.07 %
 Go         0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-VS Code       6 hrs 13 mins >>>>>>>>-- 78.94 %
-Visual Studio 1 hr 39 mins  >>>------- 21.06 %
+VS Code       6 hrs 13 mins >>>>>>>--- 62.75 %
+Visual Studio 3 hrs 41 mins >>>>------ 37.25 %
 
 💻 OS:
 
-Windows 7 hrs 53 mins >>>>>>>>>> 100.0 %
+Windows 9 hrs 55 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Python": 73.97
-	"C#": 21.06
-	"Other": 4.959999999999999
+	"Python": 58.8
+	"C#": 37.25
+	"Other": 3.9500000000000006
 ```
 <!--/WAKATIME-->
 
