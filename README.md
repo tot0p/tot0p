@@ -46,46 +46,45 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-01-04T23:00:00Z to 2024-01-11T22:59:59Z
+🗓️ From 2024-01-05T23:00:00Z to 2024-01-12T22:59:59Z
 
-⌚ Total time: 17 hrs 1 min
+⌚ Total time: 13 hrs 52 mins
 
 💬 Languages:
 
-C#             7 hrs 15 mins >>>>>----- 42.64 %
-C++            3 hrs 21 mins >>-------- 19.77 %
-Python         3 hrs 8 mins  >>-------- 18.45 %
-Markdown       1 hr 37 mins  >--------- 9.58 %
-Go             32 mins       >--------- 3.15 %
-F#             20 mins       >--------- 2.04 %
-Ecla           13 mins       >--------- 1.37 %
-C              11 mins       >--------- 1.15 %
-Other          10 mins       >--------- 1.05 %
-JSON           7 mins        >--------- 0.7 %
-SQL            0 secs        >--------- 0.05 %
-GitIgnore file 0 secs        >--------- 0.04 %
-Bash           0 secs        >--------- 0.02 %
+C#             5 hrs 35 mins >>>>>----- 40.31 %
+C++            3 hrs 21 mins >>>------- 24.24 %
+Python         1 hr 43 mins  >>-------- 12.4 %
+Markdown       1 hr 37 mins  >>-------- 11.74 %
+Go             32 mins       >--------- 3.86 %
+F#             20 mins       >--------- 2.5 %
+Ecla           14 mins       >--------- 1.68 %
+C              11 mins       >--------- 1.41 %
+Other          7 mins        >--------- 0.92 %
+JSON           7 mins        >--------- 0.85 %
+GitIgnore file 0 secs        >--------- 0.05 %
+SQL            0 secs        >--------- 0.03 %
 go.mod         0 secs        >--------- 0.01 %
 
 🔥 IDE:
 
-VS Code       8 hrs 58 mins >>>>>>---- 52.76 %
-Visual Studio 7 hrs 15 mins >>>>>----- 42.64 %
-GoLand        46 mins       >--------- 4.6 %
+VS Code       7 hrs 30 mins >>>>>>---- 54.05 %
+Visual Studio 5 hrs 35 mins >>>>>----- 40.31 %
+GoLand        46 mins       >--------- 5.64 %
 
 💻 OS:
 
-Windows 17 hrs 1 min >>>>>>>>>> 100.0 %
+Windows 13 hrs 52 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"C#": 42.64
-	"C++": 19.77
-	"Python": 18.45
-	"Markdown": 9.58
-	"Other": 9.579999999999998
+	"C#": 40.31
+	"C++": 24.24
+	"Python": 12.4
+	"Markdown": 11.74
+	"Other": 11.309999999999999
 ```
 <!--/WAKATIME-->
 
