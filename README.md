@@ -46,45 +46,45 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-01-05T23:00:00Z to 2024-01-12T22:59:59Z
+🗓️ From 2024-01-06T23:00:00Z to 2024-01-13T22:59:59Z
 
-⌚ Total time: 13 hrs 52 mins
+⌚ Total time: 11 hrs 50 mins
 
 💬 Languages:
 
-C#             5 hrs 35 mins >>>>>----- 40.31 %
-C++            3 hrs 21 mins >>>------- 24.24 %
-Python         1 hr 43 mins  >>-------- 12.4 %
-Markdown       1 hr 37 mins  >>-------- 11.74 %
-Go             32 mins       >--------- 3.86 %
-F#             20 mins       >--------- 2.5 %
-Ecla           14 mins       >--------- 1.68 %
-C              11 mins       >--------- 1.41 %
-Other          7 mins        >--------- 0.92 %
-JSON           7 mins        >--------- 0.85 %
+C#             3 hrs 33 mins >>>>------ 30.06 %
+C++            3 hrs 21 mins >>>------- 28.4 %
+Python         1 hr 43 mins  >>-------- 14.53 %
+Markdown       1 hr 37 mins  >>-------- 13.76 %
+Go             32 mins       >--------- 4.53 %
+F#             20 mins       >--------- 2.93 %
+Ecla           14 mins       >--------- 1.97 %
+C              11 mins       >--------- 1.66 %
+Other          7 mins        >--------- 1.07 %
+JSON           7 mins        >--------- 1.0 %
 GitIgnore file 0 secs        >--------- 0.05 %
-SQL            0 secs        >--------- 0.03 %
+SQL            0 secs        >--------- 0.04 %
 go.mod         0 secs        >--------- 0.01 %
 
 🔥 IDE:
 
-VS Code       7 hrs 30 mins >>>>>>---- 54.05 %
-Visual Studio 5 hrs 35 mins >>>>>----- 40.31 %
-GoLand        46 mins       >--------- 5.64 %
+VS Code       7 hrs 30 mins >>>>>>>--- 63.33 %
+Visual Studio 3 hrs 33 mins >>>>------ 30.06 %
+GoLand        46 mins       >--------- 6.61 %
 
 💻 OS:
 
-Windows 13 hrs 52 mins >>>>>>>>>> 100.0 %
+Windows 11 hrs 50 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"C#": 40.31
-	"C++": 24.24
-	"Python": 12.4
-	"Markdown": 11.74
-	"Other": 11.309999999999999
+	"C#": 30.06
+	"C++": 28.4
+	"Python": 14.53
+	"Markdown": 13.76
+	"Other": 13.260000000000002
 ```
 <!--/WAKATIME-->
 
