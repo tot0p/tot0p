@@ -46,45 +46,42 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-01-07T23:00:00Z to 2024-01-14T22:59:59Z
+🗓️ From 2024-01-08T23:00:00Z to 2024-01-15T22:59:59Z
 
-⌚ Total time: 11 hrs 50 mins
+⌚ Total time: 12 hrs 9 mins
 
 💬 Languages:
 
-C#             3 hrs 33 mins >>>>------ 30.06 %
-C++            3 hrs 21 mins >>>------- 28.4 %
-Python         1 hr 43 mins  >>-------- 14.53 %
-Markdown       1 hr 37 mins  >>-------- 13.76 %
-Go             32 mins       >--------- 4.53 %
-F#             20 mins       >--------- 2.93 %
-Ecla           14 mins       >--------- 1.97 %
-C              11 mins       >--------- 1.66 %
+C++            8 hrs 54 mins >>>>>>>>-- 73.16 %
+Markdown       1 hr 37 mins  >>-------- 13.4 %
+Go             32 mins       >--------- 4.41 %
+F#             21 mins       >--------- 2.99 %
+Ecla           14 mins       >--------- 1.92 %
+C              12 mins       >--------- 1.66 %
 Other          7 mins        >--------- 1.07 %
-JSON           7 mins        >--------- 1.0 %
+JSON           7 mins        >--------- 0.97 %
+Git Config     1 min         >--------- 0.26 %
+Python         0 secs        >--------- 0.07 %
 GitIgnore file 0 secs        >--------- 0.05 %
-SQL            0 secs        >--------- 0.04 %
 go.mod         0 secs        >--------- 0.01 %
+Objective-C    0 secs        >--------- 0.01 %
 
 🔥 IDE:
 
-VS Code       7 hrs 30 mins >>>>>>>--- 63.33 %
-Visual Studio 3 hrs 33 mins >>>>------ 30.06 %
-GoLand        46 mins       >--------- 6.61 %
+VS Code 11 hrs 22 mins >>>>>>>>>> 93.56 %
+GoLand  46 mins        >--------- 6.44 %
 
 💻 OS:
 
-Windows 11 hrs 50 mins >>>>>>>>>> 100.0 %
+Windows 12 hrs 9 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"C#": 30.06
-	"C++": 28.4
-	"Python": 14.53
-	"Markdown": 13.76
-	"Other": 13.260000000000002
+	"C++": 73.16
+	"Markdown": 13.4
+	"Other": 13.420000000000002
 ```
 <!--/WAKATIME-->
 
