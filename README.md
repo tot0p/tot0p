@@ -46,42 +46,44 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-01-08T23:00:00Z to 2024-01-15T22:59:59Z
+🗓️ From 2024-01-09T23:00:00Z to 2024-01-16T22:59:59Z
 
-⌚ Total time: 12 hrs 9 mins
+⌚ Total time: 9 hrs 20 mins
 
 💬 Languages:
 
-C++            8 hrs 54 mins >>>>>>>>-- 73.16 %
-Markdown       1 hr 37 mins  >>-------- 13.4 %
-Go             32 mins       >--------- 4.41 %
-F#             21 mins       >--------- 2.99 %
-Ecla           14 mins       >--------- 1.92 %
-C              12 mins       >--------- 1.66 %
-Other          7 mins        >--------- 1.07 %
-JSON           7 mins        >--------- 0.97 %
-Git Config     1 min         >--------- 0.26 %
-Python         0 secs        >--------- 0.07 %
-GitIgnore file 0 secs        >--------- 0.05 %
+C++            5 hrs 32 mins >>>>>>---- 59.23 %
+Markdown       2 hrs 5 mins  >>>------- 22.44 %
+Python         52 mins       >--------- 9.36 %
+Go             32 mins       >--------- 5.74 %
+Ecla           14 mins       >--------- 2.5 %
+Git Config     1 min         >--------- 0.34 %
+F#             1 min         >--------- 0.18 %
+GitIgnore file 0 secs        >--------- 0.07 %
+C              0 secs        >--------- 0.06 %
+Other          0 secs        >--------- 0.04 %
 go.mod         0 secs        >--------- 0.01 %
 Objective-C    0 secs        >--------- 0.01 %
+Bash           0 secs        >--------- 0.01 %
 
 🔥 IDE:
 
-VS Code 11 hrs 22 mins >>>>>>>>>> 93.56 %
-GoLand  46 mins        >--------- 6.44 %
+VS Code 8 hrs 33 mins >>>>>>>>>> 91.62 %
+GoLand  46 mins       >--------- 8.38 %
 
 💻 OS:
 
-Windows 12 hrs 9 mins >>>>>>>>>> 100.0 %
+Windows 9 hrs 20 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"C++": 73.16
-	"Markdown": 13.4
-	"Other": 13.420000000000002
+	"C++": 59.23
+	"Markdown": 22.44
+	"Python": 9.36
+	"Go": 5.74
+	"Other": 3.2199999999999993
 ```
 <!--/WAKATIME-->
 
