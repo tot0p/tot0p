@@ -46,7 +46,7 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-01-11T23:00:00Z to 2024-01-18T22:59:59Z
+🗓️ From 2024-01-12T23:00:00Z to 2024-01-19T22:59:59Z
 
 ⌚ Total time: 9 hrs 52 mins
 
@@ -63,13 +63,10 @@ F#          1 min         >--------- 0.17 %
 C           0 secs        >--------- 0.06 %
 Objective-C 0 secs        >--------- 0.01 %
 Bash        0 secs        >--------- 0.01 %
-Ecla        0 secs        ---------- 0.0 %
-Go          0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
 VS Code 9 hrs 52 mins >>>>>>>>>> 100.0 %
-GoLand  0 secs        ---------- 0.0 %
 
 💻 OS:
 
