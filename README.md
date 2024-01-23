@@ -46,44 +46,49 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-01-14T23:00:00Z to 2024-01-21T22:59:59Z
+🗓️ From 2024-01-15T23:00:00Z to 2024-01-22T22:59:59Z
 
-⌚ Total time: 10 hrs 25 mins
+⌚ Total time: 10 hrs 55 mins
 
 💬 Languages:
 
-C++            5 hrs 32 mins >>>>>>---- 53.1 %
-Python         3 hrs 12 mins >>>>------ 30.79 %
-Markdown       28 mins       >--------- 4.56 %
-Text           27 mins       >--------- 4.46 %
-Go             15 mins       >--------- 2.41 %
-Other          10 mins       >--------- 1.66 %
-SQL            9 mins        >--------- 1.55 %
-JavaScript     4 mins        >--------- 0.73 %
-Git Config     2 mins        >--------- 0.4 %
-F#             1 min         >--------- 0.16 %
-GitIgnore file 0 secs        >--------- 0.06 %
-C              0 secs        >--------- 0.06 %
+C++            5 hrs 9 mins  >>>>>----- 47.2 %
+Python         3 hrs 12 mins >>>------- 29.4 %
+Markdown       38 mins       >--------- 5.82 %
+Go             32 mins       >--------- 4.96 %
+Text           27 mins       >--------- 4.26 %
+SQL            20 mins       >--------- 3.07 %
+Other          14 mins       >--------- 2.25 %
+F#             10 mins       >--------- 1.56 %
+JavaScript     4 mins        >--------- 0.69 %
+GitIgnore file 1 min         >--------- 0.29 %
+JSON           0 secs        >--------- 0.14 %
+ObjectiveC     0 secs        >--------- 0.11 %
+Git Config     0 secs        >--------- 0.1 %
+CMake          0 secs        >--------- 0.08 %
 Ecla           0 secs        >--------- 0.05 %
+Gosu           0 secs        >--------- 0.01 %
 Objective-C    0 secs        >--------- 0.01 %
 Bash           0 secs        >--------- 0.01 %
 
 🔥 IDE:
 
-VS Code 10 hrs 9 mins >>>>>>>>>> 97.44 %
-GoLand  16 mins       >--------- 2.56 %
+VS Code 10 hrs 9 mins >>>>>>>>>> 93.09 %
+GoLand  33 mins       >--------- 5.1 %
+CLion   11 mins       >--------- 1.81 %
 
 💻 OS:
 
-Windows 10 hrs 25 mins >>>>>>>>>> 100.0 %
+Windows 10 hrs 55 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"C++": 53.1
-	"Python": 30.79
-	"Other": 16.120000000000005
+	"C++": 47.2
+	"Python": 29.4
+	"Markdown": 5.82
+	"Other": 17.590000000000003
 ```
 <!--/WAKATIME-->
 
