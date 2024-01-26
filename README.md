@@ -46,24 +46,24 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-01-17T23:00:00Z to 2024-01-24T22:59:59Z
+🗓️ From 2024-01-18T23:00:00Z to 2024-01-25T22:59:59Z
 
-⌚ Total time: 13 hrs 31 mins
+⌚ Total time: 13 hrs 54 mins
 
 💬 Languages:
 
-C++            6 hrs 12 mins >>>>>----- 45.96 %
-Go             4 hrs 6 mins  >>>>------ 30.43 %
-Python         1 hr 46 mins  >>-------- 13.12 %
-Ecla           28 mins       >--------- 3.5 %
-SQL            20 mins       >--------- 2.48 %
-Markdown       16 mins       >--------- 1.99 %
-F#             10 mins       >--------- 1.26 %
-Other          4 mins        >--------- 0.59 %
+C++            6 hrs 12 mins >>>>>----- 44.68 %
+Go             4 hrs 38 mins >>>>------ 33.41 %
+Python         1 hr 15 mins  >--------- 8.99 %
+Ecla           51 mins       >--------- 6.15 %
+SQL            20 mins       >--------- 2.41 %
+Markdown       16 mins       >--------- 1.94 %
+F#             10 mins       >--------- 1.22 %
+Other          4 mins        >--------- 0.55 %
 GitIgnore file 1 min         >--------- 0.23 %
-JSON           1 min         >--------- 0.17 %
+JSON           1 min         >--------- 0.16 %
 Git Config     0 secs        >--------- 0.1 %
-ObjectiveC     0 secs        >--------- 0.09 %
+ObjectiveC     0 secs        >--------- 0.08 %
 CMake          0 secs        >--------- 0.06 %
 Gosu           0 secs        >--------- 0.01 %
 Objective-C    0 secs        >--------- 0.01 %
@@ -71,22 +71,23 @@ go.mod         0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-VS Code 8 hrs 3 mins  >>>>>>---- 59.55 %
-GoLand  5 hrs 10 mins >>>>------ 38.24 %
-CLion   17 mins       >--------- 2.21 %
+VS Code 7 hrs 31 mins >>>>>>---- 54.11 %
+GoLand  6 hrs 5 mins  >>>>>----- 43.74 %
+CLion   17 mins       >--------- 2.15 %
 
 💻 OS:
 
-Windows 13 hrs 31 mins >>>>>>>>>> 100.0 %
+Windows 13 hrs 54 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"C++": 45.96
-	"Go": 30.43
-	"Python": 13.12
-	"Other": 10.49
+	"C++": 44.68
+	"Go": 33.41
+	"Python": 8.99
+	"Ecla": 6.15
+	"Other": 6.769999999999999
 ```
 <!--/WAKATIME-->
 
