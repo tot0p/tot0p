@@ -46,51 +46,50 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-01-21T23:00:00Z to 2024-01-28T22:59:59Z
+🗓️ From 2024-01-22T23:00:00Z to 2024-01-29T22:59:59Z
 
-⌚ Total time: 20 hrs 58 mins
+⌚ Total time: 20 hrs 43 mins
 
 💬 Languages:
 
-Go             8 hrs 1 min   >>>>------ 38.26 %
-C++            6 hrs 12 mins >>>------- 29.64 %
-Markdown       2 hrs 22 mins >>-------- 11.34 %
-Ecla           1 hr 59 mins  >--------- 9.46 %
-Python         1 hr 43 mins  >--------- 8.25 %
-SQL            10 mins       >--------- 0.83 %
-F#             10 mins       >--------- 0.81 %
-go.mod         6 mins        >--------- 0.55 %
-Other          4 mins        >--------- 0.37 %
+Go             8 hrs 17 mins >>>>------ 39.98 %
+C++            5 hrs 45 mins >>>------- 27.81 %
+Markdown       2 hrs 19 mins >>-------- 11.23 %
+Ecla           1 hr 59 mins  >--------- 9.57 %
+Python         1 hr 43 mins  >--------- 8.35 %
+ObjectiveC     17 mins       >--------- 1.44 %
+go.mod         7 mins        >--------- 0.61 %
+F#             6 mins        >--------- 0.55 %
 GitIgnore file 2 mins        >--------- 0.17 %
-JSON           1 min         >--------- 0.11 %
+CMake          1 min         >--------- 0.12 %
 XML            0 secs        >--------- 0.07 %
-ObjectiveC     0 secs        >--------- 0.06 %
-CMake          0 secs        >--------- 0.04 %
+JSON           0 secs        >--------- 0.04 %
 PostScript     0 secs        >--------- 0.02 %
+Objective-C    0 secs        >--------- 0.02 %
 Git Config     0 secs        >--------- 0.02 %
-Gosu           0 secs        >--------- 0.01 %
-Objective-C    0 secs        ---------- 0.0 %
+Other          0 secs        >--------- 0.01 %
+C              0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-VS Code 10 hrs 20 mins >>>>>----- 49.34 %
-GoLand  10 hrs 19 mins >>>>>----- 49.24 %
-CLion   17 mins        >--------- 1.42 %
+GoLand  10 hrs 40 mins >>>>>>---- 51.49 %
+VS Code 8 hrs 21 mins  >>>>>----- 40.31 %
+CLion   1 hr 42 mins   >--------- 8.21 %
 
 💻 OS:
 
-Windows 20 hrs 58 mins >>>>>>>>>> 100.0 %
+Windows 20 hrs 43 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 38.26
-	"C++": 29.64
-	"Markdown": 11.34
-	"Ecla": 9.46
-	"Python": 8.25
-	"Other": 3.06
+	"Go": 39.98
+	"C++": 27.81
+	"Markdown": 11.23
+	"Ecla": 9.57
+	"Python": 8.35
+	"Other": 3.0699999999999994
 ```
 <!--/WAKATIME-->
 
