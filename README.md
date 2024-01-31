@@ -46,22 +46,22 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-01-22T23:00:00Z to 2024-01-29T22:59:59Z
+🗓️ From 2024-01-23T23:00:00Z to 2024-01-30T22:59:59Z
 
-⌚ Total time: 20 hrs 43 mins
+⌚ Total time: 19 hrs 7 mins
 
 💬 Languages:
 
-Go             8 hrs 17 mins >>>>------ 39.98 %
-C++            5 hrs 45 mins >>>------- 27.81 %
-Markdown       2 hrs 19 mins >>-------- 11.23 %
-Ecla           1 hr 59 mins  >--------- 9.57 %
-Python         1 hr 43 mins  >--------- 8.35 %
-ObjectiveC     17 mins       >--------- 1.44 %
-go.mod         7 mins        >--------- 0.61 %
-F#             6 mins        >--------- 0.55 %
-GitIgnore file 2 mins        >--------- 0.17 %
-CMake          1 min         >--------- 0.12 %
+Go             7 hrs 55 mins >>>>>----- 41.47 %
+C++            4 hrs 42 mins >>>------- 24.59 %
+Markdown       2 hrs 13 mins >>-------- 11.62 %
+Ecla           1 hr 59 mins  >>-------- 10.37 %
+Python         1 hr 38 mins  >--------- 8.62 %
+ObjectiveC     17 mins       >--------- 1.56 %
+go.mod         7 mins        >--------- 0.67 %
+F#             6 mins        >--------- 0.6 %
+GitIgnore file 2 mins        >--------- 0.18 %
+CMake          1 min         >--------- 0.13 %
 XML            0 secs        >--------- 0.07 %
 JSON           0 secs        >--------- 0.04 %
 PostScript     0 secs        >--------- 0.02 %
@@ -72,24 +72,24 @@ C              0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-GoLand  10 hrs 40 mins >>>>>>---- 51.49 %
-VS Code 8 hrs 21 mins  >>>>>----- 40.31 %
-CLion   1 hr 42 mins   >--------- 8.21 %
+GoLand  10 hrs 18 mins >>>>>>---- 53.95 %
+VS Code 7 hrs 12 mins  >>>>------ 37.69 %
+CLion   1 hr 36 mins   >--------- 8.37 %
 
 💻 OS:
 
-Windows 20 hrs 43 mins >>>>>>>>>> 100.0 %
+Windows 19 hrs 7 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 39.98
-	"C++": 27.81
-	"Markdown": 11.23
-	"Ecla": 9.57
-	"Python": 8.35
-	"Other": 3.0699999999999994
+	"Go": 41.47
+	"C++": 24.59
+	"Markdown": 11.62
+	"Ecla": 10.37
+	"Python": 8.62
+	"Other": 3.32
 ```
 <!--/WAKATIME-->
 
