@@ -46,52 +46,51 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-01-24T23:00:00Z to 2024-01-31T22:59:59Z
+🗓️ From 2024-01-25T23:00:00Z to 2024-02-01T22:59:59Z
 
-⌚ Total time: 16 hrs 39 mins
+⌚ Total time: 20 hrs 48 mins
 
 💬 Languages:
 
-Go             5 hrs 38 mins >>>>------ 33.88 %
-C++            4 hrs 49 mins >>>------- 29.02 %
-Markdown       3 hrs 6 mins  >>-------- 18.64 %
-Ecla           1 hr 30 mins  >--------- 9.1 %
-Python         53 mins       >--------- 5.39 %
-ObjectiveC     17 mins       >--------- 1.79 %
-go.mod         7 mins        >--------- 0.76 %
-F#             6 mins        >--------- 0.69 %
-GitIgnore file 2 mins        >--------- 0.21 %
-C#             1 min         >--------- 0.2 %
-CMake          1 min         >--------- 0.15 %
-XML            0 secs        >--------- 0.08 %
-PostScript     0 secs        >--------- 0.03 %
+Markdown       8 hrs 9 mins  >>>>------ 39.18 %
+Go             5 hrs 7 mins  >>>------- 24.65 %
+C++            4 hrs 49 mins >>>------- 23.23 %
+Ecla           1 hr 7 mins   >--------- 5.45 %
+Python         53 mins       >--------- 4.31 %
+ObjectiveC     17 mins       >--------- 1.43 %
+go.mod         7 mins        >--------- 0.61 %
+F#             6 mins        >--------- 0.55 %
+GitIgnore file 2 mins        >--------- 0.17 %
+C#             1 min         >--------- 0.16 %
+CMake          1 min         >--------- 0.12 %
+XML            0 secs        >--------- 0.07 %
+PostScript     0 secs        >--------- 0.02 %
 Objective-C    0 secs        >--------- 0.02 %
-CSV            0 secs        >--------- 0.02 %
+CSV            0 secs        >--------- 0.01 %
 Other          0 secs        >--------- 0.01 %
-C              0 secs        >--------- 0.01 %
+C              0 secs        ---------- 0.0 %
 Git Config     0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-VS Code       8 hrs 1 min   >>>>>----- 48.24 %
-GoLand        6 hrs 59 mins >>>>>----- 41.96 %
-CLion         1 hr 36 mins  >--------- 9.61 %
-Visual Studio 1 min         >--------- 0.2 %
+VS Code       13 hrs 4 mins >>>>>>>--- 62.87 %
+GoLand        6 hrs 5 mins  >>>------- 29.28 %
+CLion         1 hr 36 mins  >--------- 7.69 %
+Visual Studio 1 min         >--------- 0.16 %
 
 💻 OS:
 
-Windows 16 hrs 39 mins >>>>>>>>>> 100.0 %
+Windows 20 hrs 48 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 33.88
-	"C++": 29.02
-	"Markdown": 18.64
-	"Ecla": 9.1
-	"Python": 5.39
-	"Other": 3.9699999999999993
+	"Markdown": 39.18
+	"Go": 24.65
+	"C++": 23.23
+	"Ecla": 5.45
+	"Other": 7.479999999999999
 ```
 <!--/WAKATIME-->
 
