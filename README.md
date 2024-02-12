@@ -46,24 +46,23 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-02-03T23:00:00Z to 2024-02-10T22:59:59Z
+🗓️ From 2024-02-04T23:00:00Z to 2024-02-11T22:59:59Z
 
-⌚ Total time: 15 hrs 12 mins
+⌚ Total time: 14 hrs 53 mins
 
 💬 Languages:
 
-Go             7 hrs 28 mins >>>>>----- 49.17 %
-C++            5 hrs 45 mins >>>>------ 37.91 %
-Python         58 mins       >--------- 6.38 %
-C#             18 mins       >--------- 2.01 %
-ObjectiveC     11 mins       >--------- 1.22 %
-CSV            10 mins       >--------- 1.18 %
-JSON           4 mins        >--------- 0.5 %
-Markdown       3 mins        >--------- 0.37 %
+Go             7 hrs 28 mins >>>>>>---- 50.18 %
+C++            5 hrs 45 mins >>>>------ 38.69 %
+Python         58 mins       >--------- 6.51 %
+ObjectiveC     11 mins       >--------- 1.25 %
+CSV            10 mins       >--------- 1.2 %
+JSON           4 mins        >--------- 0.51 %
+Markdown       3 mins        >--------- 0.38 %
 go.mod         2 mins        >--------- 0.32 %
-CMake          2 mins        >--------- 0.27 %
-Ecla           2 mins        >--------- 0.25 %
-Rust           1 min         >--------- 0.2 %
+CMake          2 mins        >--------- 0.28 %
+Ecla           2 mins        >--------- 0.26 %
+Rust           1 min         >--------- 0.21 %
 Git Config     0 secs        >--------- 0.1 %
 Bash           0 secs        >--------- 0.09 %
 C              0 secs        >--------- 0.02 %
@@ -74,23 +73,22 @@ TOML           0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-GoLand        7 hrs 20 mins >>>>>----- 48.25 %
-VS Code       7 hrs         >>>>>----- 46.11 %
-CLion         33 mins       >--------- 3.63 %
-Visual Studio 18 mins       >--------- 2.01 %
+GoLand  7 hrs 20 mins >>>>>----- 49.24 %
+VS Code 7 hrs         >>>>>----- 47.05 %
+CLion   33 mins       >--------- 3.7 %
 
 💻 OS:
 
-Windows 15 hrs 12 mins >>>>>>>>>> 100.0 %
+Windows 14 hrs 53 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 49.17
-	"C++": 37.91
-	"Python": 6.38
-	"Other": 6.559999999999998
+	"Go": 50.18
+	"C++": 38.69
+	"Python": 6.51
+	"Other": 4.649999999999998
 ```
 <!--/WAKATIME-->
 
