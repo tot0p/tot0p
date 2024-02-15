@@ -46,40 +46,40 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-02-06T23:00:00Z to 2024-02-13T22:59:59Z
+🗓️ From 2024-02-07T23:00:00Z to 2024-02-14T22:59:59Z
 
-⌚ Total time: 9 hrs 50 mins
+⌚ Total time: 9 hrs 51 mins
 
 💬 Languages:
 
-Go             5 hrs 51 mins >>>>>>---- 59.59 %
-Ecla           3 hrs 6 mins  >>>>------ 31.61 %
-Python         34 mins       >--------- 5.86 %
-CSV            10 mins       >--------- 1.82 %
+Go             5 hrs 47 mins >>>>>>---- 58.76 %
+Ecla           3 hrs 14 mins >>>>------ 32.87 %
+Python         34 mins       >--------- 5.84 %
+CSV            10 mins       >--------- 1.81 %
 JSON           3 mins        >--------- 0.58 %
-go.mod         2 mins        >--------- 0.45 %
-Markdown       0 secs        >--------- 0.09 %
+Markdown       0 secs        >--------- 0.1 %
+go.mod         0 secs        >--------- 0.02 %
+GitIgnore file 0 secs        >--------- 0.02 %
 Text           0 secs        >--------- 0.01 %
-GitIgnore file 0 secs        ---------- 0.0 %
 .env file      0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-GoLand  6 hrs 6 mins  >>>>>>>--- 62.18 %
-VS Code 3 hrs 43 mins >>>>------ 37.82 %
+GoLand  6 hrs 26 mins >>>>>>>--- 65.36 %
+VS Code 3 hrs 25 mins >>>>------ 34.64 %
 
 💻 OS:
 
-Windows 9 hrs 50 mins >>>>>>>>>> 100.0 %
+Windows 9 hrs 51 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 59.59
-	"Ecla": 31.61
-	"Python": 5.86
-	"Other": 2.9499999999999997
+	"Go": 58.76
+	"Ecla": 32.87
+	"Python": 5.84
+	"Other": 2.54
 ```
 <!--/WAKATIME-->
 
