@@ -46,49 +46,45 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-02-18T23:00:00Z to 2024-02-25T22:59:59Z
+🗓️ From 2024-02-19T23:00:00Z to 2024-02-26T22:59:59Z
 
-⌚ Total time: 22 hrs 57 mins
+⌚ Total time: 21 hrs 36 mins
 
 💬 Languages:
 
-Go             10 hrs 53 mins >>>>>----- 47.43 %
-Python         4 hrs 16 mins  >>-------- 18.62 %
-C++            3 hrs 49 mins  >>-------- 16.67 %
-Ecla           1 hr 23 mins   >--------- 6.05 %
-Markdown       48 mins        >--------- 3.49 %
-JSON           30 mins        >--------- 2.22 %
-ObjectiveC     30 mins        >--------- 2.22 %
-CMake          18 mins        >--------- 1.35 %
-.env file      12 mins        >--------- 0.88 %
-Git Config     4 mins         >--------- 0.35 %
-Batchfile      4 mins         >--------- 0.33 %
-Text           2 mins         >--------- 0.21 %
-GitIgnore file 0 secs         >--------- 0.07 %
-go.mod         0 secs         >--------- 0.05 %
-Other          0 secs         >--------- 0.05 %
-C              0 secs         ---------- 0.0 %
+Go             12 hrs 15 mins >>>>>>---- 56.75 %
+Python         4 hrs 16 mins  >>-------- 19.77 %
+Markdown       1 hr 33 mins   >--------- 7.24 %
+Ecla           1 hr 33 mins   >--------- 7.19 %
+YAML           1 hr 8 mins    >--------- 5.28 %
+JSON           27 mins        >--------- 2.16 %
+.env file      12 mins        >--------- 0.93 %
+Text           4 mins         >--------- 0.32 %
+Git Config     3 mins         >--------- 0.25 %
+go.mod         0 secs         >--------- 0.06 %
+Other          0 secs         >--------- 0.04 %
 Bash           0 secs         ---------- 0.0 %
+GitIgnore file 0 secs         ---------- 0.0 %
 
 🔥 IDE:
 
-GoLand  12 hrs 42 mins >>>>>>---- 55.34 %
-VS Code 8 hrs 33 mins  >>>>------ 37.3 %
-CLion   1 hr 41 mins   >--------- 7.36 %
+GoLand  14 hrs 33 mins >>>>>>>--- 67.4 %
+VS Code 7 hrs 2 mins   >>>>------ 32.6 %
 
 💻 OS:
 
-Windows 22 hrs 57 mins >>>>>>>>>> 100.0 %
+Windows 21 hrs 36 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 47.43
-	"Python": 18.62
-	"C++": 16.67
-	"Ecla": 6.05
-	"Other": 11.220000000000004
+	"Go": 56.75
+	"Python": 19.77
+	"Markdown": 7.24
+	"Ecla": 7.19
+	"YAML": 5.28
+	"Other": 3.7600000000000002
 ```
 <!--/WAKATIME-->
 
