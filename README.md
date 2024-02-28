@@ -46,45 +46,46 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-02-19T23:00:00Z to 2024-02-26T22:59:59Z
+🗓️ From 2024-02-20T23:00:00Z to 2024-02-27T22:59:59Z
 
-⌚ Total time: 21 hrs 36 mins
+⌚ Total time: 16 hrs 47 mins
 
 💬 Languages:
 
-Go             12 hrs 15 mins >>>>>>---- 56.75 %
-Python         4 hrs 16 mins  >>-------- 19.77 %
-Markdown       1 hr 33 mins   >--------- 7.24 %
-Ecla           1 hr 33 mins   >--------- 7.19 %
-YAML           1 hr 8 mins    >--------- 5.28 %
-JSON           27 mins        >--------- 2.16 %
-.env file      12 mins        >--------- 0.93 %
-Text           4 mins         >--------- 0.32 %
-Git Config     3 mins         >--------- 0.25 %
-go.mod         0 secs         >--------- 0.06 %
-Other          0 secs         >--------- 0.04 %
-Bash           0 secs         ---------- 0.0 %
-GitIgnore file 0 secs         ---------- 0.0 %
+Go             6 hrs 43 mins >>>>>----- 40.06 %
+Python         4 hrs 16 mins >>>------- 25.43 %
+YAML           1 hr 57 mins  >>-------- 11.67 %
+Markdown       1 hr 20 mins  >--------- 8.0 %
+Ecla           1 hr 4 mins   >--------- 6.42 %
+Docker         48 mins       >--------- 4.84 %
+JSON           27 mins       >--------- 2.77 %
+Text           4 mins        >--------- 0.42 %
+Git Config     3 mins        >--------- 0.32 %
+Other          0 secs        >--------- 0.05 %
+go.mod         0 secs        >--------- 0.01 %
+Bash           0 secs        >--------- 0.01 %
+GitIgnore file 0 secs        ---------- 0.0 %
+.env file      0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-GoLand  14 hrs 33 mins >>>>>>>--- 67.4 %
-VS Code 7 hrs 2 mins   >>>>------ 32.6 %
+VS Code 8 hrs 30 mins >>>>>>---- 50.64 %
+GoLand  8 hrs 17 mins >>>>>----- 49.36 %
 
 💻 OS:
 
-Windows 21 hrs 36 mins >>>>>>>>>> 100.0 %
+Windows 16 hrs 47 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 56.75
-	"Python": 19.77
-	"Markdown": 7.24
-	"Ecla": 7.19
-	"YAML": 5.28
-	"Other": 3.7600000000000002
+	"Go": 40.06
+	"Python": 25.43
+	"YAML": 11.67
+	"Markdown": 8.0
+	"Ecla": 6.42
+	"Other": 8.42
 ```
 <!--/WAKATIME-->
 
