@@ -46,46 +46,43 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-02-20T23:00:00Z to 2024-02-27T22:59:59Z
+🗓️ From 2024-02-21T23:00:00Z to 2024-02-28T22:59:59Z
 
-⌚ Total time: 16 hrs 47 mins
+⌚ Total time: 13 hrs 25 mins
 
 💬 Languages:
 
-Go             6 hrs 43 mins >>>>>----- 40.06 %
-Python         4 hrs 16 mins >>>------- 25.43 %
-YAML           1 hr 57 mins  >>-------- 11.67 %
-Markdown       1 hr 20 mins  >--------- 8.0 %
-Ecla           1 hr 4 mins   >--------- 6.42 %
-Docker         48 mins       >--------- 4.84 %
-JSON           27 mins       >--------- 2.77 %
-Text           4 mins        >--------- 0.42 %
-Git Config     3 mins        >--------- 0.32 %
-Other          0 secs        >--------- 0.05 %
+Go             8 hrs 31 mins >>>>>>>--- 63.52 %
+YAML           1 hr 57 mins  >>-------- 14.6 %
+Ecla           1 hr 10 mins  >--------- 8.71 %
+Markdown       54 mins       >--------- 6.76 %
+Docker         48 mins       >--------- 6.06 %
+Text           1 min         >--------- 0.16 %
+Python         1 min         >--------- 0.15 %
+Git Config     0 secs        >--------- 0.03 %
 go.mod         0 secs        >--------- 0.01 %
-Bash           0 secs        >--------- 0.01 %
 GitIgnore file 0 secs        ---------- 0.0 %
 .env file      0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-VS Code 8 hrs 30 mins >>>>>>---- 50.64 %
-GoLand  8 hrs 17 mins >>>>>----- 49.36 %
+GoLand  10 hrs 7 mins >>>>>>>>-- 75.4 %
+VS Code 3 hrs 18 mins >>>------- 24.6 %
 
 💻 OS:
 
-Windows 16 hrs 47 mins >>>>>>>>>> 100.0 %
+Windows 13 hrs 25 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 40.06
-	"Python": 25.43
-	"YAML": 11.67
-	"Markdown": 8.0
-	"Ecla": 6.42
-	"Other": 8.42
+	"Go": 63.52
+	"YAML": 14.6
+	"Ecla": 8.71
+	"Markdown": 6.76
+	"Docker": 6.06
+	"Other": 0.35
 ```
 <!--/WAKATIME-->
 
