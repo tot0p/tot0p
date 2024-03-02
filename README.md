@@ -46,42 +46,47 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-02-22T23:00:00Z to 2024-02-29T22:59:59Z
+🗓️ From 2024-02-23T23:00:00Z to 2024-03-01T22:59:59Z
 
-⌚ Total time: 12 hrs 20 mins
+⌚ Total time: 12 hrs 6 mins
 
 💬 Languages:
 
-Go         7 hrs 35 mins >>>>>>>--- 61.52 %
-YAML       1 hr 57 mins  >>-------- 15.88 %
-Ecla       1 hr 7 mins   >--------- 9.06 %
-Markdown   48 mins       >--------- 6.61 %
-Docker     48 mins       >--------- 6.59 %
-Text       1 min         >--------- 0.17 %
-Python     0 secs        >--------- 0.11 %
-Git Config 0 secs        >--------- 0.03 %
-go.mod     0 secs        >--------- 0.01 %
-.env file  0 secs        ---------- 0.0 %
+Go             6 hrs 58 mins >>>>>>---- 57.55 %
+YAML           1 hr 57 mins  >>-------- 16.19 %
+Ecla           1 hr 3 mins   >--------- 8.76 %
+Markdown       48 mins       >--------- 6.74 %
+Docker         48 mins       >--------- 6.72 %
+Java           26 mins       >--------- 3.65 %
+Text           1 min         >--------- 0.17 %
+Python         0 secs        >--------- 0.11 %
+GitIgnore file 0 secs        >--------- 0.05 %
+Git Config     0 secs        >--------- 0.03 %
+go.mod         0 secs        >--------- 0.01 %
+Groovy         0 secs        >--------- 0.01 %
+.env file      0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-GoLand  9 hrs 2 mins  >>>>>>>>-- 73.19 %
-VS Code 3 hrs 18 mins >>>------- 26.81 %
+GoLand       8 hrs 21 mins >>>>>>>--- 68.97 %
+VS Code      3 hrs 18 mins >>>------- 27.33 %
+Intellijidea 19 mins       >--------- 2.62 %
+IntelliJ     7 mins        >--------- 1.09 %
 
 💻 OS:
 
-Windows 12 hrs 20 mins >>>>>>>>>> 100.0 %
+Windows 12 hrs 6 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 61.52
-	"YAML": 15.88
-	"Ecla": 9.06
-	"Markdown": 6.61
-	"Docker": 6.59
-	"Other": 0.32000000000000006
+	"Go": 57.55
+	"YAML": 16.19
+	"Ecla": 8.76
+	"Markdown": 6.74
+	"Docker": 6.72
+	"Other": 4.029999999999999
 ```
 <!--/WAKATIME-->
 
