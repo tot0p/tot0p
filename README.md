@@ -46,47 +46,46 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-02-23T23:00:00Z to 2024-03-01T22:59:59Z
+🗓️ From 2024-02-24T23:00:00Z to 2024-03-02T22:59:59Z
 
-⌚ Total time: 12 hrs 6 mins
+⌚ Total time: 11 hrs 9 mins
 
 💬 Languages:
 
-Go             6 hrs 58 mins >>>>>>---- 57.55 %
-YAML           1 hr 57 mins  >>-------- 16.19 %
-Ecla           1 hr 3 mins   >--------- 8.76 %
-Markdown       48 mins       >--------- 6.74 %
-Docker         48 mins       >--------- 6.72 %
-Java           26 mins       >--------- 3.65 %
-Text           1 min         >--------- 0.17 %
-Python         0 secs        >--------- 0.11 %
-GitIgnore file 0 secs        >--------- 0.05 %
-Git Config     0 secs        >--------- 0.03 %
-go.mod         0 secs        >--------- 0.01 %
-Groovy         0 secs        >--------- 0.01 %
-.env file      0 secs        ---------- 0.0 %
+Go             6 hrs 7 mins >>>>>>---- 54.9 %
+YAML           1 hr 57 mins >>-------- 17.58 %
+Ecla           57 mins      >--------- 8.66 %
+Markdown       48 mins      >--------- 7.31 %
+Docker         48 mins      >--------- 7.3 %
+Java           26 mins      >--------- 3.96 %
+Text           1 min        >--------- 0.19 %
+GitIgnore file 0 secs       >--------- 0.06 %
+Git Config     0 secs       >--------- 0.03 %
+Groovy         0 secs       >--------- 0.01 %
+.env file      0 secs       ---------- 0.0 %
+go.mod         0 secs       ---------- 0.0 %
 
 🔥 IDE:
 
-GoLand       8 hrs 21 mins >>>>>>>--- 68.97 %
-VS Code      3 hrs 18 mins >>>------- 27.33 %
-Intellijidea 19 mins       >--------- 2.62 %
-IntelliJ     7 mins        >--------- 1.09 %
+GoLand       7 hrs 24 mins >>>>>>>--- 66.43 %
+VS Code      3 hrs 17 mins >>>------- 29.55 %
+Intellijidea 19 mins       >--------- 2.84 %
+IntelliJ     7 mins        >--------- 1.18 %
 
 💻 OS:
 
-Windows 12 hrs 6 mins >>>>>>>>>> 100.0 %
+Windows 11 hrs 8 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 57.55
-	"YAML": 16.19
-	"Ecla": 8.76
-	"Markdown": 6.74
-	"Docker": 6.72
-	"Other": 4.029999999999999
+	"Go": 54.9
+	"YAML": 17.58
+	"Ecla": 8.66
+	"Markdown": 7.31
+	"Docker": 7.3
+	"Other": 4.25
 ```
 <!--/WAKATIME-->
 
