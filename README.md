@@ -46,41 +46,43 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-02-27T23:00:00Z to 2024-03-05T22:59:59Z
+🗓️ From 2024-02-28T23:00:00Z to 2024-03-06T22:59:59Z
 
-⌚ Total time: 6 hrs 18 mins
+⌚ Total time: 7 hrs 4 mins
 
 💬 Languages:
 
-Go             5 hrs 16 mins >>>>>>>>>- 83.71 %
-Java           26 mins       >--------- 7.0 %
-Text           11 mins       >--------- 3.11 %
-YAML           11 mins       >--------- 2.91 %
-Ecla           10 mins       >--------- 2.86 %
-Markdown       0 secs        >--------- 0.18 %
-Python         0 secs        >--------- 0.12 %
-GitIgnore file 0 secs        >--------- 0.1 %
-Groovy         0 secs        >--------- 0.01 %
-go.mod         0 secs        ---------- 0.0 %
+Go             4 hrs 7 mins >>>>>>---- 58.37 %
+C#             2 hrs        >>>------- 28.41 %
+Java           26 mins      >--------- 6.23 %
+Text           11 mins      >--------- 2.77 %
+YAML           11 mins      >--------- 2.59 %
+Ecla           5 mins       >--------- 1.26 %
+Markdown       0 secs       >--------- 0.16 %
+Python         0 secs       >--------- 0.11 %
+GitIgnore file 0 secs       >--------- 0.09 %
+Groovy         0 secs       >--------- 0.01 %
 
 🔥 IDE:
 
-GoLand       5 hrs 23 mins >>>>>>>>>- 85.52 %
-VS Code      27 mins       >--------- 7.38 %
-Intellijidea 19 mins       >--------- 5.02 %
-IntelliJ     7 mins        >--------- 2.09 %
+GoLand        4 hrs 13 mins >>>>>>---- 59.63 %
+Visual Studio 2 hrs         >>>------- 28.41 %
+VS Code       23 mins       >--------- 5.63 %
+Intellijidea  19 mins       >--------- 4.47 %
+IntelliJ      7 mins        >--------- 1.86 %
 
 💻 OS:
 
-Windows 6 hrs 18 mins >>>>>>>>>> 100.0 %
+Windows 7 hrs 4 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 83.71
-	"Java": 7.0
-	"Other": 9.289999999999997
+	"Go": 58.37
+	"C#": 28.41
+	"Java": 6.23
+	"Other": 6.989999999999999
 ```
 <!--/WAKATIME-->
 
