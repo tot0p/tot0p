@@ -46,43 +46,41 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-02-28T23:00:00Z to 2024-03-06T22:59:59Z
+🗓️ From 2024-02-29T23:00:00Z to 2024-03-07T22:59:59Z
 
-⌚ Total time: 7 hrs 4 mins
+⌚ Total time: 9 hrs 18 mins
 
 💬 Languages:
 
-Go             4 hrs 7 mins >>>>>>---- 58.37 %
-C#             2 hrs        >>>------- 28.41 %
-Java           26 mins      >--------- 6.23 %
-Text           11 mins      >--------- 2.77 %
-YAML           11 mins      >--------- 2.59 %
-Ecla           5 mins       >--------- 1.26 %
-Markdown       0 secs       >--------- 0.16 %
-Python         0 secs       >--------- 0.11 %
-GitIgnore file 0 secs       >--------- 0.09 %
-Groovy         0 secs       >--------- 0.01 %
+C#             4 hrs 14 mins >>>>>----- 45.63 %
+Go             4 hrs 7 mins  >>>>>----- 44.43 %
+Java           26 mins       >--------- 4.75 %
+Text           11 mins       >--------- 2.11 %
+YAML           11 mins       >--------- 1.97 %
+Ecla           5 mins        >--------- 0.96 %
+Python         0 secs        >--------- 0.08 %
+GitIgnore file 0 secs        >--------- 0.07 %
+Groovy         0 secs        >--------- 0.01 %
 
 🔥 IDE:
 
-GoLand        4 hrs 13 mins >>>>>>---- 59.63 %
-Visual Studio 2 hrs         >>>------- 28.41 %
-VS Code       23 mins       >--------- 5.63 %
-Intellijidea  19 mins       >--------- 4.47 %
-IntelliJ      7 mins        >--------- 1.86 %
+Visual Studio 4 hrs 14 mins >>>>>----- 45.63 %
+GoLand        4 hrs 13 mins >>>>>----- 45.38 %
+VS Code       23 mins       >--------- 4.16 %
+Intellijidea  19 mins       >--------- 3.41 %
+IntelliJ      7 mins        >--------- 1.41 %
 
 💻 OS:
 
-Windows 7 hrs 4 mins >>>>>>>>>> 100.0 %
+Windows 9 hrs 18 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 58.37
-	"C#": 28.41
-	"Java": 6.23
-	"Other": 6.989999999999999
+	"C#": 45.63
+	"Go": 44.43
+	"Other": 9.95
 ```
 <!--/WAKATIME-->
 
