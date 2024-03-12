@@ -46,35 +46,35 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-03-03T23:00:00Z to 2024-03-10T22:59:59Z
+🗓️ From 2024-03-04T23:00:00Z to 2024-03-11T22:59:59Z
 
-⌚ Total time: 11 hrs 26 mins
+⌚ Total time: 11 hrs 30 mins
 
 💬 Languages:
 
-C#     6 hrs 47 mins >>>>>>---- 59.44 %
-Go     4 hrs 12 mins >>>>------ 36.75 %
-Ecla   14 mins       >--------- 2.13 %
+C#     6 hrs 52 mins >>>>>>---- 59.69 %
+Go     4 hrs 12 mins >>>>------ 36.53 %
+Ecla   14 mins       >--------- 2.12 %
 YAML   11 mins       >--------- 1.6 %
 Python 0 secs        >--------- 0.07 %
 
 🔥 IDE:
 
-Visual Studio 6 hrs 47 mins >>>>>>---- 59.44 %
-GoLand        4 hrs 26 mins >>>>------ 38.89 %
-VS Code       11 mins       >--------- 1.67 %
+Visual Studio 6 hrs 52 mins >>>>>>---- 59.69 %
+GoLand        4 hrs 26 mins >>>>------ 38.65 %
+VS Code       11 mins       >--------- 1.66 %
 
 💻 OS:
 
-Windows 11 hrs 26 mins >>>>>>>>>> 100.0 %
+Windows 11 hrs 30 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"C#": 59.44
-	"Go": 36.75
-	"Other": 3.8
+	"C#": 59.69
+	"Go": 36.53
+	"Other": 3.79
 ```
 <!--/WAKATIME-->
 
