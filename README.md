@@ -46,44 +46,43 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-03-26T23:00:00Z to 2024-04-02T21:59:59Z
+🗓️ From 2024-03-27T23:00:00Z to 2024-04-03T21:59:59Z
 
-⌚ Total time: 7 hrs 58 mins
+⌚ Total time: 5 hrs 33 mins
 
 💬 Languages:
 
-Go             5 hrs 26 mins >>>>>>>--- 68.2 %
-C#             1 hr 13 mins  >>-------- 15.41 %
-Rust           54 mins       >>-------- 11.36 %
-Markdown       12 mins       >--------- 2.65 %
-C++            9 mins        >--------- 1.91 %
-GitIgnore file 0 secs        >--------- 0.18 %
-Ecla           0 secs        >--------- 0.15 %
-TOML           0 secs        >--------- 0.12 %
-R              0 secs        >--------- 0.02 %
-Other          0 secs        >--------- 0.01 %
-CMake          0 secs        ---------- 0.0 %
+Rust     3 hrs 10 mins >>>>>>---- 57.04 %
+C#       1 hr 13 mins  >>>------- 22.14 %
+Go       47 mins       >>-------- 14.14 %
+Markdown 11 mins       >--------- 3.35 %
+C++      9 mins        >--------- 2.74 %
+TOML     1 min         >--------- 0.36 %
+Ecla     0 secs        >--------- 0.18 %
+R        0 secs        >--------- 0.02 %
+Other    0 secs        >--------- 0.01 %
+CMake    0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-GoLand        5 hrs 31 mins >>>>>>>--- 69.16 %
-Visual Studio 1 hr 13 mins  >>-------- 15.41 %
-VS Code       59 mins       >>-------- 12.52 %
-CLion         9 mins        >--------- 1.91 %
-Rustrover     4 mins        >--------- 1.01 %
+VS Code       3 hrs 16 mins >>>>>>---- 58.9 %
+Visual Studio 1 hr 13 mins  >>>------- 22.14 %
+GoLand        49 mins       >>-------- 14.77 %
+CLion         9 mins        >--------- 2.74 %
+Rustrover     4 mins        >--------- 1.45 %
 
 💻 OS:
 
-Windows 7 hrs 58 mins >>>>>>>>>> 100.0 %
+Windows 5 hrs 33 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 68.2
-	"C#": 15.41
-	"Rust": 11.36
-	"Other": 5.039999999999999
+	"Rust": 57.04
+	"C#": 22.14
+	"Go": 14.14
+	"Other": 6.659999999999999
 ```
 <!--/WAKATIME-->
 
