@@ -46,43 +46,41 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-03-29T23:00:00Z to 2024-04-05T21:59:59Z
+🗓️ From 2024-03-30T23:00:00Z to 2024-04-06T21:59:59Z
 
-⌚ Total time: 4 hrs 57 mins
+⌚ Total time: 4 hrs 9 mins
 
 💬 Languages:
 
-Rust     3 hrs 10 mins >>>>>>>--- 63.81 %
-Go       47 mins       >>-------- 15.82 %
-C#       38 mins       >>-------- 13.08 %
-Markdown 10 mins       >--------- 3.58 %
-C++      9 mins        >--------- 3.06 %
-TOML     1 min         >--------- 0.4 %
-Ecla     0 secs        >--------- 0.2 %
+Rust     3 hrs 10 mins >>>>>>>>-- 76.09 %
+C#       38 mins       >>-------- 15.6 %
+Markdown 9 mins        >--------- 3.67 %
+C++      9 mins        >--------- 3.65 %
+TOML     1 min         >--------- 0.48 %
+Go       1 min         >--------- 0.46 %
 R        0 secs        >--------- 0.03 %
-Other    0 secs        >--------- 0.01 %
+Other    0 secs        >--------- 0.02 %
 CMake    0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-VS Code       3 hrs 15 mins >>>>>>>--- 65.71 %
-GoLand        49 mins       >>-------- 16.52 %
-Visual Studio 38 mins       >>-------- 13.08 %
-CLion         9 mins        >--------- 3.07 %
-Rustrover     4 mins        >--------- 1.62 %
+VS Code       3 hrs 15 mins >>>>>>>>-- 78.35 %
+Visual Studio 38 mins       >>-------- 15.6 %
+CLion         9 mins        >--------- 3.66 %
+Rustrover     4 mins        >--------- 1.93 %
+GoLand        1 min         >--------- 0.46 %
 
 💻 OS:
 
-Windows 4 hrs 57 mins >>>>>>>>>> 100.0 %
+Windows 4 hrs 9 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Rust": 63.81
-	"Go": 15.82
-	"C#": 13.08
-	"Other": 7.280000000000001
+	"Rust": 76.09
+	"C#": 15.6
+	"Other": 8.31
 ```
 <!--/WAKATIME-->
 
