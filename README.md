@@ -46,41 +46,45 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-03-30T23:00:00Z to 2024-04-06T21:59:59Z
+🗓️ From 2024-03-31T22:00:00Z to 2024-04-07T21:59:59Z
 
-⌚ Total time: 4 hrs 9 mins
+⌚ Total time: 4 hrs 38 mins
 
 💬 Languages:
 
-Rust     3 hrs 10 mins >>>>>>>>-- 76.09 %
-C#       38 mins       >>-------- 15.6 %
-Markdown 9 mins        >--------- 3.67 %
-C++      9 mins        >--------- 3.65 %
-TOML     1 min         >--------- 0.48 %
-Go       1 min         >--------- 0.46 %
-R        0 secs        >--------- 0.03 %
-Other    0 secs        >--------- 0.02 %
-CMake    0 secs        ---------- 0.0 %
+Rust       3 hrs 10 mins >>>>>>>--- 68.23 %
+C#         38 mins       >>-------- 13.99 %
+TOML       16 mins       >--------- 5.86 %
+JSON       12 mins       >--------- 4.41 %
+Markdown   9 mins        >--------- 3.29 %
+C++        9 mins        >--------- 3.28 %
+Git Config 1 min         >--------- 0.46 %
+Go         1 min         >--------- 0.41 %
+HTML       0 secs        >--------- 0.03 %
+R          0 secs        >--------- 0.03 %
+Other      0 secs        >--------- 0.02 %
+CMake      0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-VS Code       3 hrs 15 mins >>>>>>>>-- 78.35 %
-Visual Studio 38 mins       >>-------- 15.6 %
-CLion         9 mins        >--------- 3.66 %
-Rustrover     4 mins        >--------- 1.93 %
-GoLand        1 min         >--------- 0.46 %
+VS Code       3 hrs 44 mins >>>>>>>>>- 80.59 %
+Visual Studio 38 mins       >>-------- 13.99 %
+CLion         9 mins        >--------- 3.28 %
+Rustrover     4 mins        >--------- 1.73 %
+GoLand        1 min         >--------- 0.41 %
 
 💻 OS:
 
-Windows 4 hrs 9 mins >>>>>>>>>> 100.0 %
+Windows 4 hrs 38 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Rust": 76.09
-	"C#": 15.6
-	"Other": 8.31
+	"Rust": 68.23
+	"C#": 13.99
+	"TOML": 5.86
+	"Other": 11.93
 ```
 <!--/WAKATIME-->
 
