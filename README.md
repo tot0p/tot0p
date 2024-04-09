@@ -46,45 +46,48 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-03-31T22:00:00Z to 2024-04-07T21:59:59Z
+🗓️ From 2024-04-01T22:00:00Z to 2024-04-08T21:59:59Z
 
-⌚ Total time: 4 hrs 38 mins
+⌚ Total time: 6 hrs 6 mins
 
 💬 Languages:
 
-Rust       3 hrs 10 mins >>>>>>>--- 68.23 %
-C#         38 mins       >>-------- 13.99 %
-TOML       16 mins       >--------- 5.86 %
-JSON       12 mins       >--------- 4.41 %
-Markdown   9 mins        >--------- 3.29 %
-C++        9 mins        >--------- 3.28 %
-Git Config 1 min         >--------- 0.46 %
-Go         1 min         >--------- 0.41 %
-HTML       0 secs        >--------- 0.03 %
-R          0 secs        >--------- 0.03 %
-Other      0 secs        >--------- 0.02 %
-CMake      0 secs        ---------- 0.0 %
+Rust        4 hrs 16 mins >>>>>>>--- 69.81 %
+C#          51 mins       >>-------- 14.16 %
+TOML        18 mins       >--------- 5.09 %
+JSON        13 mins       >--------- 3.59 %
+Markdown    10 mins       >--------- 2.73 %
+C++         9 mins        >--------- 2.49 %
+JavaScript  2 mins        >--------- 0.75 %
+Git Config  2 mins        >--------- 0.56 %
+Go          1 min         >--------- 0.31 %
+CSS         0 secs        >--------- 0.26 %
+HTML        0 secs        >--------- 0.19 %
+Image (svg) 0 secs        >--------- 0.03 %
+R           0 secs        >--------- 0.02 %
+Other       0 secs        >--------- 0.01 %
+CMake       0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-VS Code       3 hrs 44 mins >>>>>>>>>- 80.59 %
-Visual Studio 38 mins       >>-------- 13.99 %
-CLion         9 mins        >--------- 3.28 %
-Rustrover     4 mins        >--------- 1.73 %
-GoLand        1 min         >--------- 0.41 %
+VS Code       4 hrs 59 mins >>>>>>>>>- 81.72 %
+Visual Studio 51 mins       >>-------- 14.16 %
+CLion         9 mins        >--------- 2.49 %
+Rustrover     4 mins        >--------- 1.31 %
+GoLand        1 min         >--------- 0.31 %
 
 💻 OS:
 
-Windows 4 hrs 38 mins >>>>>>>>>> 100.0 %
+Windows 6 hrs 6 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Rust": 68.23
-	"C#": 13.99
-	"TOML": 5.86
-	"Other": 11.93
+	"Rust": 69.81
+	"C#": 14.16
+	"TOML": 5.09
+	"Other": 10.94
 ```
 <!--/WAKATIME-->
 
