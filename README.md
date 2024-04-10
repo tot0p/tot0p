@@ -46,48 +46,41 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-04-01T22:00:00Z to 2024-04-08T21:59:59Z
+🗓️ From 2024-04-02T22:00:00Z to 2024-04-09T21:59:59Z
 
-⌚ Total time: 6 hrs 6 mins
+⌚ Total time: 5 hrs 4 mins
 
 💬 Languages:
 
-Rust        4 hrs 16 mins >>>>>>>--- 69.81 %
-C#          51 mins       >>-------- 14.16 %
-TOML        18 mins       >--------- 5.09 %
-JSON        13 mins       >--------- 3.59 %
-Markdown    10 mins       >--------- 2.73 %
-C++         9 mins        >--------- 2.49 %
-JavaScript  2 mins        >--------- 0.75 %
-Git Config  2 mins        >--------- 0.56 %
-Go          1 min         >--------- 0.31 %
-CSS         0 secs        >--------- 0.26 %
-HTML        0 secs        >--------- 0.19 %
+Rust        3 hrs 21 mins >>>>>>>--- 66.16 %
+C#          55 mins       >>-------- 18.34 %
+TOML        18 mins       >--------- 5.93 %
+JSON        13 mins       >--------- 4.32 %
+Markdown    9 mins        >--------- 3.09 %
+JavaScript  2 mins        >--------- 0.9 %
+Git Config  2 mins        >--------- 0.67 %
+CSS         0 secs        >--------- 0.31 %
+HTML        0 secs        >--------- 0.23 %
 Image (svg) 0 secs        >--------- 0.03 %
-R           0 secs        >--------- 0.02 %
-Other       0 secs        >--------- 0.01 %
-CMake       0 secs        ---------- 0.0 %
+Other       0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-VS Code       4 hrs 59 mins >>>>>>>>>- 81.72 %
-Visual Studio 51 mins       >>-------- 14.16 %
-CLion         9 mins        >--------- 2.49 %
-Rustrover     4 mins        >--------- 1.31 %
-GoLand        1 min         >--------- 0.31 %
+VS Code       4 hrs 8 mins >>>>>>>>>- 81.66 %
+Visual Studio 55 mins      >>-------- 18.34 %
 
 💻 OS:
 
-Windows 6 hrs 6 mins >>>>>>>>>> 100.0 %
+Windows 5 hrs 4 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Rust": 69.81
-	"C#": 14.16
-	"TOML": 5.09
-	"Other": 10.94
+	"Rust": 66.16
+	"C#": 18.34
+	"TOML": 5.93
+	"Other": 9.55
 ```
 <!--/WAKATIME-->
 
