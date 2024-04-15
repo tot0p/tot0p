@@ -46,45 +46,43 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-04-06T22:00:00Z to 2024-04-13T21:59:59Z
+🗓️ From 2024-04-07T22:00:00Z to 2024-04-14T21:59:59Z
 
-⌚ Total time: 2 hrs 54 mins
+⌚ Total time: 2 hrs 25 mins
 
 💬 Languages:
 
-Rust        1 hr 6 mins >>>>------ 37.8 %
-C#          55 mins     >>>>------ 32.02 %
-TOML        17 mins     >--------- 10.0 %
-JSON        13 mins     >--------- 7.54 %
-Go          11 mins     >--------- 6.46 %
-Ecla        3 mins      >--------- 1.94 %
-JavaScript  2 mins      >--------- 1.58 %
-Git Config  2 mins      >--------- 1.17 %
-CSS         0 secs      >--------- 0.55 %
-Markdown    0 secs      >--------- 0.49 %
-HTML        0 secs      >--------- 0.4 %
-Image (svg) 0 secs      >--------- 0.06 %
+Rust        1 hr 5 mins >>>>>----- 45.25 %
+C#          55 mins     >>>>------ 38.35 %
+Go          11 mins     >--------- 7.73 %
+Ecla        3 mins      >--------- 2.32 %
+JavaScript  2 mins      >--------- 1.89 %
+TOML        2 mins      >--------- 1.6 %
+CSS         0 secs      >--------- 0.65 %
+JSON        0 secs      >--------- 0.6 %
+Markdown    0 secs      >--------- 0.58 %
+Git Config  0 secs      >--------- 0.53 %
+HTML        0 secs      >--------- 0.41 %
+Image (svg) 0 secs      >--------- 0.07 %
 
 🔥 IDE:
 
-VS Code       1 hr 44 mins >>>>>>---- 59.58 %
-Visual Studio 55 mins      >>>>------ 32.02 %
-GoLand        14 mins      >--------- 8.4 %
+VS Code       1 hr 15 mins >>>>>>---- 51.59 %
+Visual Studio 55 mins      >>>>------ 38.35 %
+GoLand        14 mins      >>-------- 10.06 %
 
 💻 OS:
 
-Windows 2 hrs 54 mins >>>>>>>>>> 100.0 %
+Windows 2 hrs 25 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Rust": 37.8
-	"C#": 32.02
-	"TOML": 10.0
-	"JSON": 7.54
-	"Go": 6.46
-	"Other": 6.1899999999999995
+	"Rust": 45.25
+	"C#": 38.35
+	"Go": 7.73
+	"Other": 8.65
 ```
 <!--/WAKATIME-->
 
