@@ -46,43 +46,32 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-04-07T22:00:00Z to 2024-04-14T21:59:59Z
+🗓️ From 2024-04-08T22:00:00Z to 2024-04-15T21:59:59Z
 
-⌚ Total time: 2 hrs 25 mins
+⌚ Total time: 57 mins
 
 💬 Languages:
 
-Rust        1 hr 5 mins >>>>>----- 45.25 %
-C#          55 mins     >>>>------ 38.35 %
-Go          11 mins     >--------- 7.73 %
-Ecla        3 mins      >--------- 2.32 %
-JavaScript  2 mins      >--------- 1.89 %
-TOML        2 mins      >--------- 1.6 %
-CSS         0 secs      >--------- 0.65 %
-JSON        0 secs      >--------- 0.6 %
-Markdown    0 secs      >--------- 0.58 %
-Git Config  0 secs      >--------- 0.53 %
-HTML        0 secs      >--------- 0.41 %
-Image (svg) 0 secs      >--------- 0.07 %
+C#   42 mins >>>>>>>>-- 74.54 %
+Go   11 mins >>-------- 19.58 %
+Ecla 3 mins  >--------- 5.88 %
 
 🔥 IDE:
 
-VS Code       1 hr 15 mins >>>>>>---- 51.59 %
-Visual Studio 55 mins      >>>>------ 38.35 %
-GoLand        14 mins      >>-------- 10.06 %
+Visual Studio 42 mins >>>>>>>>-- 74.54 %
+GoLand        14 mins >>>------- 25.46 %
 
 💻 OS:
 
-Windows 2 hrs 25 mins >>>>>>>>>> 100.0 %
+Windows 57 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Rust": 45.25
-	"C#": 38.35
-	"Go": 7.73
-	"Other": 8.65
+	"C#": 74.54
+	"Go": 19.58
+	"Ecla": 5.88
 ```
 <!--/WAKATIME-->
 
