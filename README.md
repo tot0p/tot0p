@@ -46,46 +46,45 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-04-21T22:00:00Z to 2024-04-28T21:59:59Z
+🗓️ From 2024-04-22T22:00:00Z to 2024-04-29T21:59:59Z
 
-⌚ Total time: 3 hrs 13 mins
+⌚ Total time: 4 hrs 34 mins
 
 💬 Languages:
 
-Docker         1 hr 37 mins >>>>>>---- 50.64 %
-C#             31 mins      >>-------- 16.22 %
-JavaScript     20 mins      >>-------- 10.45 %
-Ecla           16 mins      >--------- 8.49 %
-Go             13 mins      >--------- 7.17 %
-Markdown       12 mins      >--------- 6.69 %
-C++            0 secs       >--------- 0.19 %
-HTML           0 secs       >--------- 0.13 %
+Docker         1 hr 37 mins >>>>------ 35.72 %
+JavaScript     1 hr 27 mins >>>>------ 32.07 %
+C#             31 mins      >>-------- 11.44 %
+Ecla           16 mins      >--------- 5.99 %
+Go             13 mins      >--------- 5.06 %
+HTML           13 mins      >--------- 4.85 %
+Markdown       12 mins      >--------- 4.72 %
+C++            0 secs       >--------- 0.14 %
 Other          0 secs       >--------- 0.01 %
 ObjectiveC     0 secs       ---------- 0.0 %
 GitIgnore file 0 secs       ---------- 0.0 %
 
 🔥 IDE:
 
-VS Code       2 hrs 11 mins >>>>>>>--- 67.92 %
-Visual Studio 31 mins       >>-------- 16.22 %
-GoLand        30 mins       >>-------- 15.66 %
-CLion         0 secs        >--------- 0.2 %
+VS Code       3 hrs 32 mins >>>>>>>>-- 77.37 %
+Visual Studio 31 mins       >>-------- 11.44 %
+GoLand        30 mins       >>-------- 11.04 %
+CLion         0 secs        >--------- 0.14 %
 
 💻 OS:
 
-Windows 3 hrs 13 mins >>>>>>>>>> 100.0 %
+Windows 4 hrs 34 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Docker": 50.64
-	"C#": 16.22
-	"JavaScript": 10.45
-	"Ecla": 8.49
-	"Go": 7.17
-	"Markdown": 6.69
-	"Other": 0.33
+	"Docker": 35.72
+	"JavaScript": 32.07
+	"C#": 11.44
+	"Ecla": 5.99
+	"Go": 5.06
+	"Other": 9.72
 ```
 <!--/WAKATIME-->
 
