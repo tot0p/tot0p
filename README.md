@@ -46,44 +46,39 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-04-23T22:00:00Z to 2024-04-30T21:59:59Z
+🗓️ From 2024-04-24T22:00:00Z to 2024-05-01T21:59:59Z
 
-⌚ Total time: 4 hrs 48 mins
+⌚ Total time: 2 hrs 29 mins
 
 💬 Languages:
 
-JavaScript     1 hr 58 mins >>>>>----- 41.2 %
-Docker         1 hr 37 mins >>>>------ 33.94 %
-Ecla           16 mins      >--------- 5.69 %
-C#             14 mins      >--------- 5.13 %
-Go             13 mins      >--------- 4.81 %
-HTML           13 mins      >--------- 4.61 %
-Markdown       12 mins      >--------- 4.48 %
-C++            0 secs       >--------- 0.13 %
-Other          0 secs       >--------- 0.01 %
-ObjectiveC     0 secs       ---------- 0.0 %
+JavaScript     1 hr 58 mins >>>>>>>>-- 79.79 %
+C#             14 mins      >--------- 9.93 %
+HTML           13 mins      >--------- 8.92 %
+Markdown       1 min        >--------- 0.7 %
+C++            0 secs       >--------- 0.63 %
+Other          0 secs       >--------- 0.03 %
+ObjectiveC     0 secs       >--------- 0.01 %
 GitIgnore file 0 secs       ---------- 0.0 %
 
 🔥 IDE:
 
-VS Code       4 hrs 3 mins >>>>>>>>>- 84.25 %
-GoLand        30 mins      >>-------- 10.49 %
-Visual Studio 14 mins      >--------- 5.13 %
-CLion         0 secs       >--------- 0.13 %
+VS Code       2 hrs 13 mins >>>>>>>>>- 89.82 %
+Visual Studio 14 mins       >--------- 9.93 %
+CLion         0 secs        >--------- 0.26 %
 
 💻 OS:
 
-Windows 4 hrs 48 mins >>>>>>>>>> 100.0 %
+Windows 2 hrs 29 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"JavaScript": 41.2
-	"Docker": 33.94
-	"Ecla": 5.69
-	"C#": 5.13
-	"Other": 14.040000000000001
+	"JavaScript": 79.79
+	"C#": 9.93
+	"HTML": 8.92
+	"Other": 1.37
 ```
 <!--/WAKATIME-->
 
