@@ -46,35 +46,33 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-04-28T22:00:00Z to 2024-05-05T21:59:59Z
+🗓️ From 2024-04-29T22:00:00Z to 2024-05-06T21:59:59Z
 
-⌚ Total time: 2 hrs 11 mins
+⌚ Total time: 50 mins
 
 💬 Languages:
 
-JavaScript 1 hr 43 mins >>>>>>>>-- 78.73 %
-C#         14 mins      >>-------- 11.23 %
-HTML       13 mins      >--------- 9.95 %
-Markdown   0 secs       >--------- 0.08 %
-Other      0 secs       >--------- 0.01 %
+JavaScript 35 mins >>>>>>>>-- 70.62 %
+C#         14 mins >>>------- 29.06 %
+Markdown   0 secs  >--------- 0.2 %
+HTML       0 secs  >--------- 0.12 %
 
 🔥 IDE:
 
-VS Code       1 hr 56 mins >>>>>>>>>- 88.77 %
-Visual Studio 14 mins      >>-------- 11.23 %
+VS Code       36 mins >>>>>>>>-- 70.94 %
+Visual Studio 14 mins >>>------- 29.06 %
 
 💻 OS:
 
-Windows 2 hrs 11 mins >>>>>>>>>> 100.0 %
+Windows 50 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"JavaScript": 78.73
-	"C#": 11.23
-	"HTML": 9.95
-	"Other": 0.09
+	"JavaScript": 70.62
+	"C#": 29.06
+	"Other": 0.32
 ```
 <!--/WAKATIME-->
 
