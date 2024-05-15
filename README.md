@@ -46,39 +46,38 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-05-06T22:00:00Z to 2024-05-13T21:59:59Z
+🗓️ From 2024-05-07T22:00:00Z to 2024-05-14T21:59:59Z
 
-⌚ Total time: 46 mins
+⌚ Total time: 31 mins
 
 💬 Languages:
 
-C#             16 mins >>>>------ 35.93 %
-Markdown       15 mins >>>>------ 33.1 %
-Go             6 mins  >>-------- 13.5 %
-GitIgnore file 3 mins  >--------- 7.9 %
-HTML           2 mins  >--------- 5.66 %
-go.mod         1 min   >--------- 3.03 %
-.env file      0 secs  >--------- 0.88 %
+Markdown       15 mins >>>>>----- 49.07 %
+Go             6 mins  >>>------- 20.41 %
+GitIgnore file 3 mins  >>-------- 11.71 %
+HTML           2 mins  >--------- 8.39 %
+Ecla           1 min   >--------- 4.62 %
+go.mod         1 min   >--------- 4.49 %
+.env file      0 secs  >--------- 1.3 %
 
 🔥 IDE:
 
-GoLand        29 mins >>>>>>>--- 64.07 %
-Visual Studio 16 mins >>>>------ 35.93 %
+GoLand  30 mins >>>>>>>>>> 96.44 %
+VS Code 1 min   >--------- 3.56 %
 
 💻 OS:
 
-Windows 46 mins >>>>>>>>>> 100.0 %
+Windows 31 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"C#": 35.93
-	"Markdown": 33.1
-	"Go": 13.5
-	"GitIgnore file": 7.9
-	"HTML": 5.66
-	"Other": 3.9099999999999997
+	"Markdown": 49.07
+	"Go": 20.41
+	"GitIgnore file": 11.71
+	"HTML": 8.39
+	"Other": 10.41
 ```
 <!--/WAKATIME-->
 
