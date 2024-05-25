@@ -46,40 +46,47 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-05-16T22:00:00Z to 2024-05-23T21:59:59Z
+🗓️ From 2024-05-17T22:00:00Z to 2024-05-24T21:59:59Z
 
-⌚ Total time: 2 hrs 22 mins
+⌚ Total time: 3 hrs 19 mins
 
 💬 Languages:
 
-Go             2 hrs 1 min >>>>>>>>>- 85.6 %
-GitIgnore file 13 mins     >--------- 9.8 %
-Text           2 mins      >--------- 1.84 %
-Markdown       1 min       >--------- 1.24 %
-Git Config     1 min       >--------- 0.71 %
-Docker         0 secs      >--------- 0.5 %
-JSON           0 secs      >--------- 0.12 %
-Python         0 secs      >--------- 0.11 %
-C#             0 secs      >--------- 0.05 %
-CSV            0 secs      >--------- 0.03 %
+Go             1 hr 50 mins >>>>>>---- 55.18 %
+Docker         34 mins      >>-------- 17.47 %
+HTML           22 mins      >>-------- 11.49 %
+GitIgnore file 14 mins      >--------- 7.04 %
+Ruby           10 mins      >--------- 5.28 %
+Git Config     2 mins       >--------- 1.04 %
+Markdown       1 min        >--------- 0.93 %
+go.mod         1 min        >--------- 0.7 %
+YAML           0 secs       >--------- 0.33 %
+Rust           0 secs       >--------- 0.24 %
+TOML           0 secs       >--------- 0.17 %
+Python         0 secs       >--------- 0.08 %
+C#             0 secs       >--------- 0.03 %
+Text           0 secs       >--------- 0.02 %
 
 🔥 IDE:
 
-VS Code       1 hr 30 mins >>>>>>>--- 63.65 %
-GoLand        51 mins      >>>>------ 36.31 %
-Visual Studio 0 secs       >--------- 0.05 %
+GoLand        3 hrs   >>>>>>>>>> 90.56 %
+VS Code       18 mins >--------- 9.41 %
+Visual Studio 0 secs  >--------- 0.03 %
 
 💻 OS:
 
-Windows 2 hrs 21 mins >>>>>>>>>> 100.0 %
+Windows 3 hrs 19 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 85.6
-	"GitIgnore file": 9.8
-	"Other": 4.6000000000000005
+	"Go": 55.18
+	"Docker": 17.47
+	"HTML": 11.49
+	"GitIgnore file": 7.04
+	"Ruby": 5.28
+	"Other": 3.54
 ```
 <!--/WAKATIME-->
 
