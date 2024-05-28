@@ -62,7 +62,7 @@ if __name__ == "__main__":
     os.system('git config --local user.email "github-actions[bot]@users.noreply.github.com"')
     os.system('git config --local user.name "github-actions[bot]"')
     os.system('git add .')
-    os.system(f'git commit -m "🦆 Quack by {os.environ["ISSUE_OWNER"]} #{os.environ["ISSUE_NUMBER"]}"')
+    os.system(f'git commit -m "🦆 Quack by @{os.environ["ISSUE_OWNER"]} #{os.environ["ISSUE_NUMBER"]}"')
     os.system('git push')
 
 
