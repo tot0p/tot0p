@@ -111,8 +111,8 @@ pie
 <div align="center">
 
 <!--DUCK-->
-### Duck changed by [Llelepipede](https://github.com/Llelepipede)
-[![Duck](https://random-d.uk/api/103.jpg)](https://github.com/tot0p/tot0p/issues/new?title=%F0%9F%A6%86%20Quack)
+### Duck changed by [Itstritix](https://github.com/Itstritix)
+[![Duck](https://random-d.uk/api/207.jpg)](https://github.com/tot0p/tot0p/issues/new?title=%F0%9F%A6%86%20Quack)
 <!--/DUCK-->
 
 [Change the duck](https://github.com/tot0p/tot0p/issues/new?title=%F0%9F%A6%86%20Quack)
