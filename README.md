@@ -109,6 +109,7 @@ pie
 
 
 <!--DUCK-->
+![Duck](https://random-d.uk/api/242.jpg)
 <!--/DUCK-->
 
 
