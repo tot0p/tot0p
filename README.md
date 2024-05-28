@@ -103,7 +103,6 @@ pie
 
 <!--/TABLE-->
 
-![](https://visitor-badge.laobi.icu/badge?page_id=tot0p.tot0p)
   
 </div>
 
@@ -120,9 +119,7 @@ pie
 > just click on and submit the issue to change the duck 🦆
 > :warning: The duck will be changed only if the title is `🦆 Quack` :warning:
 
+
+![](https://visitor-badge.laobi.icu/badge?page_id=tot0p.tot0p)
+
 </div>
-
-
-
-
-
