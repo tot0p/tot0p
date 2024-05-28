@@ -36,5 +36,5 @@ jobs:
           uses: peter-evans/close-issue@v1
           with:
             issue-number: ${{ github.event.issue.number }}
-            comment: "Issue Closed by Duck"
+            comment: "Quack! Quack!"
     
