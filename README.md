@@ -120,6 +120,7 @@ pie
 > just click on and submit the issue to change the duck 🦆
 
 > [!WARNING]
+
 > :warning: The duck will be changed only if the title is `🦆 Quack` :warning:
 
 </div>
