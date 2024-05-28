@@ -17,7 +17,7 @@ def get_duck():
 
 if __name__ == "__main__":
     if os.environ['ISSUE_TITLE'] != None and os.environ['ISSUE_OWNER'] != None and os.environ['ISSUE_NUMBER'] != None:
-        if os.ISSUE_TITLE != magicTitle:
+        if os.environ['ISSUE_TITLE'] != magicTitle:
             print(f"I don't understand the issue title{os.environ['ISSUE_TITLE']}")
             exit(0)
     else:

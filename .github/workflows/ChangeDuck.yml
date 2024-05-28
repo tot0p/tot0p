@@ -5,7 +5,7 @@ on:
       types: [opened]
 
 jobs:
-    table-update:
+    duck-update:
         runs-on: ubuntu-latest
     
         steps:
@@ -28,4 +28,13 @@ jobs:
             ISSUE_NUMBER : ${{ github.event.issue.number }}
             ISSUE_OWNER : ${{ github.event.issue.user.login }}
 
+    close-issue:
+        runs-on: ubuntu-latest
+        needs: duck-update
+        steps:
+        - name: Close Issue
+          uses: peter-evans/close-issue@v1
+          with:
+            issue-number: ${{ github.event.issue.number }}
+            comment: "Issue Closed by Duck"
     
