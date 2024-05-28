@@ -49,7 +49,7 @@ if __name__ == "__main__":
         print("Error: Duck not found")
         exit(1)
 
-    conttemp = f"![Duck]({url})\n"
+    conttemp = [f"![Duck]({url})\n"]
 
     result = partONe + conttemp + partTwo
 
