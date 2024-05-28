@@ -49,7 +49,9 @@ if __name__ == "__main__":
         print("Error: Duck not found")
         exit(1)
 
-    conttemp = [f"[![Duck]({url})](https://github.com/tot0p/tot0p/issues/new?title=%F0%9F%A6%86%20Quack)\n"]
+    conttemp = [f"### Duck changed by [{os.environ['ISSUE_OWNER']}](https://github.com/{os.environ['ISSUE_OWNER']})\n",
+    f"[![Duck]({url})](https://github.com/tot0p/tot0p/issues/new?title=%F0%9F%A6%86%20Quack)\n",
+    ]
 
     result = partONe + conttemp + partTwo
 
