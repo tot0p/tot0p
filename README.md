@@ -118,9 +118,6 @@ pie
 [Change the duck](https://github.com/tot0p/tot0p/issues/new?title=%F0%9F%A6%86%20Quack)
 
 > just click on and submit the issue to change the duck 🦆
-
-> [!WARNING]
-
 > :warning: The duck will be changed only if the title is `🦆 Quack` :warning:
 
 </div>
