@@ -46,46 +46,48 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-05-20T22:00:00Z to 2024-05-27T21:59:59Z
+🗓️ From 2024-05-21T22:00:00Z to 2024-05-28T21:59:59Z
 
-⌚ Total time: 4 hrs 57 mins
+⌚ Total time: 5 hrs 57 mins
 
 💬 Languages:
 
-Go             2 hrs 22 mins >>>>>----- 47.98 %
-Bash           52 mins       >>-------- 17.77 %
-Docker         34 mins       >>-------- 11.76 %
-HTML           22 mins       >--------- 7.72 %
-GitIgnore file 16 mins       >--------- 5.51 %
-Ruby           10 mins       >--------- 3.55 %
-YAML           10 mins       >--------- 3.53 %
-Markdown       2 mins        >--------- 0.71 %
-Git Config     2 mins        >--------- 0.7 %
-go.mod         1 min         >--------- 0.47 %
-Rust           0 secs        >--------- 0.16 %
-TOML           0 secs        >--------- 0.11 %
+Go             2 hrs 22 mins >>>>------ 39.83 %
+Bash           52 mins       >>-------- 14.75 %
+Docker         34 mins       >--------- 9.76 %
+YAML           30 mins       >--------- 8.43 %
+Python         29 mins       >--------- 8.28 %
+HTML           22 mins       >--------- 6.41 %
+GitIgnore file 16 mins       >--------- 4.58 %
+Markdown       12 mins       >--------- 3.54 %
+Ruby           10 mins       >--------- 2.95 %
+Git Config     2 mins        >--------- 0.58 %
+go.mod         1 min         >--------- 0.39 %
+Text           1 min         >--------- 0.28 %
+Rust           0 secs        >--------- 0.13 %
+TOML           0 secs        >--------- 0.09 %
 Ecla           0 secs        >--------- 0.01 %
-Text           0 secs        >--------- 0.01 %
 
 🔥 IDE:
 
-GoLand  3 hrs 35 mins >>>>>>>>-- 72.63 %
-VS Code 1 hr 21 mins  >>>------- 27.37 %
+GoLand  3 hrs 35 mins >>>>>>>--- 60.29 %
+VS Code 2 hrs 22 mins >>>>------ 39.71 %
 
 💻 OS:
 
-Windows 4 hrs 57 mins >>>>>>>>>> 100.0 %
+Windows 5 hrs 57 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 47.98
-	"Bash": 17.77
-	"Docker": 11.76
-	"HTML": 7.72
-	"GitIgnore file": 5.51
-	"Other": 9.25
+	"Go": 39.83
+	"Bash": 14.75
+	"Docker": 9.76
+	"YAML": 8.43
+	"Python": 8.28
+	"HTML": 6.41
+	"Other": 12.55
 ```
 <!--/WAKATIME-->
 
