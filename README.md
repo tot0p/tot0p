@@ -46,41 +46,33 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-05-26T22:00:00Z to 2024-06-02T21:59:59Z
+🗓️ From 2024-05-27T22:00:00Z to 2024-06-03T21:59:59Z
 
-⌚ Total time: 2 hrs 25 mins
+⌚ Total time: 1 hr
 
 💬 Languages:
 
-Bash           52 mins >>>>------ 36.3 %
-Python         29 mins >>>------- 20.37 %
-YAML           29 mins >>>------- 20.28 %
-Go             21 mins >>-------- 14.73 %
-Markdown       10 mins >--------- 7.31 %
-Text           0 secs  >--------- 0.68 %
-GitIgnore file 0 secs  >--------- 0.27 %
-Docker         0 secs  >--------- 0.05 %
-Ecla           0 secs  >--------- 0.03 %
+Python   29 mins >>>>>----- 48.69 %
+YAML     19 mins >>>>------ 32.35 %
+Markdown 10 mins >>-------- 17.34 %
+Text     0 secs  >--------- 1.61 %
 
 🔥 IDE:
 
-VS Code 2 hrs 3 mins >>>>>>>>>- 84.93 %
-GoLand  21 mins      >>-------- 15.07 %
+VS Code 1 hr >>>>>>>>>> 100.0 %
 
 💻 OS:
 
-Windows 2 hrs 25 mins >>>>>>>>>> 100.0 %
+Windows 1 hr >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Bash": 36.3
-	"Python": 20.37
-	"YAML": 20.28
-	"Go": 14.73
-	"Markdown": 7.31
-	"Other": 1.03
+	"Python": 48.69
+	"YAML": 32.35
+	"Markdown": 17.34
+	"Other": 1.61
 ```
 <!--/WAKATIME-->
 
