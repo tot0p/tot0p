@@ -40,9 +40,10 @@ I'm in my third year at ynov paris
 <img src="https://github-readme-stats.vercel.app/api?username=tot0p&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false" height="192px"/>
 </details>
 
+<!--WAKATIME-->
+
 ## Work Time of last 7 days
 
-<!--WAKATIME-->
 ```text
 🌐 Time zone: Europe/Paris
 

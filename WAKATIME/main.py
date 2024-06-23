@@ -49,7 +49,7 @@ def col(pers):
     return result + " " + str(pers) + " %"
 
 
-txt = ["```text\n","🌐 Time zone: "+r["data"]["timezone"]+"\n","\n","🗓️ From "+r["data"]["start"]+" to "+r["data"]["end"]+"\n","\n","⌚ Total time: "+r["data"]["human_readable_total_including_other_language"]+"\n","\n"]
+txt = ["## Work Time of last 7 days\n\n"+"```text\n","🌐 Time zone: "+r["data"]["timezone"]+"\n","\n","🗓️ From "+r["data"]["start"]+" to "+r["data"]["end"]+"\n","\n","⌚ Total time: "+r["data"]["human_readable_total_including_other_language"]+"\n","\n"]
 
 temp = []
 maxName = 0
@@ -59,69 +59,73 @@ txt.append("💬 Languages:\n")
 txt.append("\n")
 other = 0
 
-for i in r['data']['languages']:
-    if len(i["name"]) > maxName:
-        maxName = len(i["name"])
-    if len(i["text"]) > maxText:
-        maxText = len(i["text"])
-    temp.append([i['name'],i['percent'],i['text']])
-    if float(i['percent']) < 5:
-        other += float(i['percent'])
-    else:
-        configMermaid.append("\t\""+i['name']+"\": "+str(i['percent'])+"\n")
 
-if other > 0:
-    configMermaid.append("\t\"Other\": "+str(other)+"\n")
+if len(r['data']['languages']) == 0:
+    result = partONe +  partTwo
+else:
+    for i in r['data']['languages']:
+        if len(i["name"]) > maxName:
+            maxName = len(i["name"])
+        if len(i["text"]) > maxText:
+            maxText = len(i["text"])
+        temp.append([i['name'],i['percent'],i['text']])
+        if float(i['percent']) < 5:
+            other += float(i['percent'])
+        else:
+            configMermaid.append("\t\""+i['name']+"\": "+str(i['percent'])+"\n")
 
-for i in temp:
-    txt.append(i[0]+(" "*(maxName-len(i[0])+1))+ i[2]+(" "*(maxText -len(i[2])+1)) +col(i[1])+"\n")
+    if other > 0:
+        configMermaid.append("\t\"Other\": "+str(other)+"\n")
 
-
-txt.append("\n")
-txt.append("🔥 IDE:\n")
-txt.append("\n")
-
-temp = []
-maxName = 0
-maxText = 0
-
-for i in r['data']['editors']:
-    if len(i["name"]) > maxName:
-        maxName = len(i["name"])
-    if len(i["text"]) > maxText:
-        maxText = len(i["text"])
-    temp.append([i['name'],i['percent'],i['text']])
-
-for i in temp:
-    txt.append(i[0]+(" "*(maxName-len(i[0])+1))+ i[2]+(" "*(maxText -len(i[2])+1)) +col(i[1])+"\n")
+    for i in temp:
+        txt.append(i[0]+(" "*(maxName-len(i[0])+1))+ i[2]+(" "*(maxText -len(i[2])+1)) +col(i[1])+"\n")
 
 
-txt.append("\n")
-txt.append("💻 OS:\n")
-txt.append("\n")
+    txt.append("\n")
+    txt.append("🔥 IDE:\n")
+    txt.append("\n")
 
-temp = []
-maxName = 0
-maxText = 0
+    temp = []
+    maxName = 0
+    maxText = 0
 
-for i in r['data']['operating_systems']:
-    if len(i["name"]) > maxName:
-        maxName = len(i["name"])
-    if len(i["text"]) > maxText:
-        maxText = len(i["text"])
-    temp.append([i['name'],i['percent'],i['text']])
+    for i in r['data']['editors']:
+        if len(i["name"]) > maxName:
+            maxName = len(i["name"])
+        if len(i["text"]) > maxText:
+            maxText = len(i["text"])
+        temp.append([i['name'],i['percent'],i['text']])
 
-for i in temp:
-    txt.append(i[0]+(" "*(maxName-len(i[0])+1))+ i[2]+(" "*(maxText -len(i[2])+1)) +col(i[1])+"\n")
-
-txt.append("```\n")
-configMermaid.append("```\n")
+    for i in temp:
+        txt.append(i[0]+(" "*(maxName-len(i[0])+1))+ i[2]+(" "*(maxText -len(i[2])+1)) +col(i[1])+"\n")
 
 
-if conttemp == txt + configMermaid:
-    print("No change in README.md")
-    exit(0)
-result = partONe + txt + configMermaid + partTwo
+    txt.append("\n")
+    txt.append("💻 OS:\n")
+    txt.append("\n")
+
+    temp = []
+    maxName = 0
+    maxText = 0
+
+    for i in r['data']['operating_systems']:
+        if len(i["name"]) > maxName:
+            maxName = len(i["name"])
+        if len(i["text"]) > maxText:
+            maxText = len(i["text"])
+        temp.append([i['name'],i['percent'],i['text']])
+
+    for i in temp:
+        txt.append(i[0]+(" "*(maxName-len(i[0])+1))+ i[2]+(" "*(maxText -len(i[2])+1)) +col(i[1])+"\n")
+
+    txt.append("```\n")
+    configMermaid.append("```\n")
+
+
+    if conttemp == txt + configMermaid:
+        print("No change in README.md")
+        exit(0)
+    result = partONe + txt + configMermaid + partTwo
 readmefile=open('README.md','w',encoding="utf-8")
 readmefile.writelines(result)
 readmefile.close()
