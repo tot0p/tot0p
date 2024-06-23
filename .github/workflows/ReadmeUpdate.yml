@@ -6,6 +6,9 @@ name: Update Readme
 on:
   schedule:
   - cron:  '0 7 * * *'
+  push:
+    branches:
+      - main
 
 jobs:
   table-update:
