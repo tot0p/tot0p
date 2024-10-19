@@ -46,41 +46,43 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-10-10T22:00:00Z to 2024-10-17T21:59:59Z
+🗓️ From 2024-10-11T22:00:00Z to 2024-10-18T21:59:59Z
 
-⌚ Total time: 4 hrs 24 mins
+⌚ Total time: 7 hrs 42 mins
 
 💬 Languages:
 
-Go             2 hrs 58 mins >>>>>>>--- 67.34 %
-SQL            52 mins       >>-------- 19.74 %
-Assembly       16 mins       >--------- 6.23 %
-Docker         3 mins        >--------- 1.43 %
-JSON           3 mins        >--------- 1.25 %
-Python         2 mins        >--------- 1.03 %
-Text           2 mins        >--------- 0.79 %
-GitIgnore file 2 mins        >--------- 0.77 %
-Other          1 min         >--------- 0.62 %
-Markdown       1 min         >--------- 0.47 %
-Git Config     0 secs        >--------- 0.34 %
+Go             5 hrs 58 mins >>>>>>>>-- 77.64 %
+SQL            52 mins       >>-------- 11.3 %
+Assembly       16 mins       >--------- 3.56 %
+Bash           7 mins        >--------- 1.71 %
+GitIgnore file 5 mins        >--------- 1.18 %
+Markdown       4 mins        >--------- 0.87 %
+Docker         3 mins        >--------- 0.82 %
+JSON           3 mins        >--------- 0.72 %
+Python         2 mins        >--------- 0.59 %
+go.mod         2 mins        >--------- 0.54 %
+Text           2 mins        >--------- 0.45 %
+Other          1 min         >--------- 0.36 %
+Git Config     0 secs        >--------- 0.19 %
+textmate       0 secs        >--------- 0.06 %
 
 🔥 IDE:
 
-GoLand  3 hrs 2 mins >>>>>>>--- 68.89 %
-VS Code 1 hr 22 mins >>>>------ 31.11 %
+GoLand  6 hrs 19 mins >>>>>>>>>- 82.19 %
+VS Code 1 hr 22 mins  >>-------- 17.81 %
 
 💻 OS:
 
-Windows 4 hrs 24 mins >>>>>>>>>> 100.0 %
+Windows 7 hrs 42 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 67.34
-	"SQL": 19.74
-	"Assembly": 6.23
-	"Other": 6.699999999999999
+	"Go": 77.64
+	"SQL": 11.3
+	"Other": 11.049999999999997
 ```
 <!--/WAKATIME-->
 
