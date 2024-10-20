@@ -46,43 +46,41 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-10-11T22:00:00Z to 2024-10-18T21:59:59Z
+🗓️ From 2024-10-12T22:00:00Z to 2024-10-19T21:59:59Z
 
-⌚ Total time: 7 hrs 42 mins
+⌚ Total time: 5 hrs 14 mins
 
 💬 Languages:
 
-Go             5 hrs 58 mins >>>>>>>>-- 77.64 %
-SQL            52 mins       >>-------- 11.3 %
-Assembly       16 mins       >--------- 3.56 %
-Bash           7 mins        >--------- 1.71 %
-GitIgnore file 5 mins        >--------- 1.18 %
-Markdown       4 mins        >--------- 0.87 %
-Docker         3 mins        >--------- 0.82 %
-JSON           3 mins        >--------- 0.72 %
-Python         2 mins        >--------- 0.59 %
-go.mod         2 mins        >--------- 0.54 %
-Text           2 mins        >--------- 0.45 %
-Other          1 min         >--------- 0.36 %
-Git Config     0 secs        >--------- 0.19 %
-textmate       0 secs        >--------- 0.06 %
+Go             3 hrs 49 mins >>>>>>>>-- 72.79 %
+SQL            52 mins       >>-------- 16.58 %
+Bash           7 mins        >--------- 2.52 %
+GitIgnore file 5 mins        >--------- 1.66 %
+Docker         3 mins        >--------- 1.2 %
+JSON           3 mins        >--------- 1.05 %
+Text           3 mins        >--------- 1.03 %
+Markdown       2 mins        >--------- 0.89 %
+Python         2 mins        >--------- 0.88 %
+go.mod         2 mins        >--------- 0.8 %
+Other          1 min         >--------- 0.52 %
+textmate       0 secs        >--------- 0.09 %
 
 🔥 IDE:
 
-GoLand  6 hrs 19 mins >>>>>>>>>- 82.19 %
-VS Code 1 hr 22 mins  >>-------- 17.81 %
+GoLand  4 hrs 8 mins >>>>>>>>-- 79.01 %
+VS Code 1 hr 6 mins  >>>------- 20.99 %
 
 💻 OS:
 
-Windows 7 hrs 42 mins >>>>>>>>>> 100.0 %
+Windows 5 hrs 14 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 77.64
-	"SQL": 11.3
-	"Other": 11.049999999999997
+	"Go": 72.79
+	"SQL": 16.58
+	"Other": 10.64
 ```
 <!--/WAKATIME-->
 
