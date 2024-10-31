@@ -46,36 +46,36 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-10-22T22:00:00Z to 2024-10-29T22:59:59Z
+🗓️ From 2024-10-23T22:00:00Z to 2024-10-30T22:59:59Z
 
-⌚ Total time: 3 hrs 15 mins
+⌚ Total time: 3 hrs 36 mins
 
 💬 Languages:
 
-Go             2 hrs 57 mins >>>>>>>>>> 91.07 %
-go.mod         7 mins        >--------- 3.86 %
-Markdown       6 mins        >--------- 3.1 %
-Other          1 min         >--------- 0.99 %
-Env File       0 secs        >--------- 0.48 %
-GitIgnore file 0 secs        >--------- 0.32 %
-Bash           0 secs        >--------- 0.11 %
-Text           0 secs        >--------- 0.06 %
-textmate       0 secs        >--------- 0.03 %
+Go             3 hrs 19 mins >>>>>>>>>> 91.93 %
+go.mod         7 mins        >--------- 3.48 %
+Markdown       6 mins        >--------- 2.79 %
+Other          1 min         >--------- 0.89 %
+Env File       0 secs        >--------- 0.45 %
+GitIgnore file 0 secs        >--------- 0.28 %
+Bash           0 secs        >--------- 0.1 %
+Text           0 secs        >--------- 0.05 %
+textmate       0 secs        >--------- 0.02 %
 
 🔥 IDE:
 
-GoLand 3 hrs 15 mins >>>>>>>>>> 100.0 %
+GoLand 3 hrs 36 mins >>>>>>>>>> 100.0 %
 
 💻 OS:
 
-Windows 3 hrs 15 mins >>>>>>>>>> 100.0 %
+Windows 3 hrs 36 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 91.07
-	"Other": 8.95
+	"Go": 91.93
+	"Other": 8.059999999999999
 ```
 <!--/WAKATIME-->
 
