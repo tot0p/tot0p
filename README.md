@@ -46,40 +46,42 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-10-30T23:00:00Z to 2024-11-06T22:59:59Z
+🗓️ From 2024-10-31T23:00:00Z to 2024-11-07T22:59:59Z
 
-⌚ Total time: 8 hrs 27 mins
+⌚ Total time: 11 hrs 50 mins
 
 💬 Languages:
 
-Go             7 hrs 21 mins >>>>>>>>>- 86.87 %
-Docker         23 mins       >--------- 4.7 %
-SQL            12 mins       >--------- 2.55 %
-Text           9 mins        >--------- 1.92 %
-Bash           7 mins        >--------- 1.45 %
-GitIgnore file 3 mins        >--------- 0.74 %
-Python         2 mins        >--------- 0.56 %
-JSON           2 mins        >--------- 0.47 %
-Markdown       1 min         >--------- 0.34 %
-textmate       1 min         >--------- 0.24 %
-Env File       0 secs        >--------- 0.15 %
-go.mod         0 secs        ---------- 0.0 %
+Go             9 hrs 5 mins >>>>>>>>-- 76.86 %
+Python         1 hr 19 mins >>-------- 11.17 %
+Docker         40 mins      >--------- 5.67 %
+SQL            12 mins      >--------- 1.82 %
+Bash           10 mins      >--------- 1.44 %
+Text           9 mins       >--------- 1.37 %
+GitIgnore file 3 mins       >--------- 0.53 %
+textmate       3 mins       >--------- 0.44 %
+JSON           2 mins       >--------- 0.33 %
+Markdown       1 min        >--------- 0.25 %
+Env File       0 secs       >--------- 0.11 %
+go.mod         0 secs       >--------- 0.01 %
 
 🔥 IDE:
 
-GoLand  7 hrs 57 mins >>>>>>>>>> 93.97 %
-VS Code 30 mins       >--------- 6.03 %
+GoLand  10 hrs 3 mins >>>>>>>>>- 84.92 %
+VS Code 1 hr 47 mins  >>-------- 15.08 %
 
 💻 OS:
 
-Windows 8 hrs 27 mins >>>>>>>>>> 100.0 %
+Windows 11 hrs 50 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 86.87
-	"Other": 13.120000000000001
+	"Go": 76.86
+	"Python": 11.17
+	"Docker": 5.67
+	"Other": 6.300000000000001
 ```
 <!--/WAKATIME-->
 
