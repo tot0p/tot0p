@@ -46,42 +46,41 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-10-31T23:00:00Z to 2024-11-07T22:59:59Z
+🗓️ From 2024-11-01T23:00:00Z to 2024-11-08T22:59:59Z
 
-⌚ Total time: 11 hrs 50 mins
+⌚ Total time: 14 hrs 46 mins
 
 💬 Languages:
 
-Go             9 hrs 5 mins >>>>>>>>-- 76.86 %
-Python         1 hr 19 mins >>-------- 11.17 %
-Docker         40 mins      >--------- 5.67 %
-SQL            12 mins      >--------- 1.82 %
-Bash           10 mins      >--------- 1.44 %
-Text           9 mins       >--------- 1.37 %
-GitIgnore file 3 mins       >--------- 0.53 %
-textmate       3 mins       >--------- 0.44 %
-JSON           2 mins       >--------- 0.33 %
-Markdown       1 min        >--------- 0.25 %
-Env File       0 secs       >--------- 0.11 %
-go.mod         0 secs       >--------- 0.01 %
+Go             11 hrs 41 mins >>>>>>>>-- 79.11 %
+Python         1 hr 36 mins   >>-------- 10.85 %
+Docker         42 mins        >--------- 4.81 %
+SQL            12 mins        >--------- 1.46 %
+Bash           11 mins        >--------- 1.26 %
+Text           9 mins         >--------- 1.1 %
+GitIgnore file 3 mins         >--------- 0.42 %
+textmate       3 mins         >--------- 0.4 %
+JSON           2 mins         >--------- 0.29 %
+Markdown       1 min          >--------- 0.2 %
+Env File       0 secs         >--------- 0.09 %
+go.mod         0 secs         >--------- 0.01 %
 
 🔥 IDE:
 
-GoLand  10 hrs 3 mins >>>>>>>>>- 84.92 %
-VS Code 1 hr 47 mins  >>-------- 15.08 %
+GoLand  12 hrs 42 mins >>>>>>>>>- 85.99 %
+VS Code 2 hrs 4 mins   >>-------- 14.01 %
 
 💻 OS:
 
-Windows 11 hrs 50 mins >>>>>>>>>> 100.0 %
+Windows 14 hrs 46 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 76.86
-	"Python": 11.17
-	"Docker": 5.67
-	"Other": 6.300000000000001
+	"Go": 79.11
+	"Python": 10.85
+	"Other": 10.039999999999997
 ```
 <!--/WAKATIME-->
 
