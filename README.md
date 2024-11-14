@@ -46,37 +46,37 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-11-05T23:00:00Z to 2024-11-12T22:59:59Z
+🗓️ From 2024-11-06T23:00:00Z to 2024-11-13T22:59:59Z
 
-⌚ Total time: 10 hrs 3 mins
+⌚ Total time: 6 hrs 19 mins
 
 💬 Languages:
 
-Go       8 hrs        >>>>>>>>-- 79.65 %
-Python   1 hr 33 mins >>-------- 15.47 %
-Docker   20 mins      >--------- 3.36 %
-Bash     6 mins       >--------- 1.09 %
-textmate 2 mins       >--------- 0.39 %
-JSON     0 secs       >--------- 0.04 %
-go.mod   0 secs       >--------- 0.01 %
-Text     0 secs       ---------- 0.0 %
+Go       4 hrs 20 mins >>>>>>>--- 68.58 %
+Python   1 hr 33 mins  >>>------- 24.78 %
+Docker   18 mins       >--------- 4.95 %
+Bash     3 mins        >--------- 1.0 %
+textmate 2 mins        >--------- 0.61 %
+JSON     0 secs        >--------- 0.06 %
+go.mod   0 secs        >--------- 0.02 %
+Text     0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-GoLand  8 hrs 29 mins >>>>>>>>>- 84.49 %
-VS Code 1 hr 33 mins  >>-------- 15.51 %
+GoLand  4 hrs 45 mins >>>>>>>>-- 75.16 %
+VS Code 1 hr 34 mins  >>>------- 24.84 %
 
 💻 OS:
 
-Windows 10 hrs 3 mins >>>>>>>>>> 100.0 %
+Windows 6 hrs 19 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 79.65
-	"Python": 15.47
-	"Other": 4.89
+	"Go": 68.58
+	"Python": 24.78
+	"Other": 6.64
 ```
 <!--/WAKATIME-->
 
