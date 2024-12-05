@@ -46,37 +46,30 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2024-11-26T23:00:00Z to 2024-12-03T22:59:59Z
+🗓️ From 2024-11-27T23:00:00Z to 2024-12-04T22:59:59Z
 
-⌚ Total time: 5 hrs 48 mins
+⌚ Total time: 52 mins
 
 💬 Languages:
 
-Go                   4 hrs 41 mins >>>>>>>>>- 80.82 %
-Markdown             48 mins       >>-------- 14.0 %
-Bash                 7 mins        >--------- 2.23 %
-GitIgnore file       2 mins        >--------- 0.8 %
-Python               2 mins        >--------- 0.74 %
-SQL                  2 mins        >--------- 0.71 %
-textmate             2 mins        >--------- 0.65 %
-Sqlite Database File 0 secs        >--------- 0.05 %
+Markdown 47 mins >>>>>>>>>> 90.24 %
+Python   2 mins  >--------- 4.9 %
+Bash     2 mins  >--------- 4.86 %
 
 🔥 IDE:
 
-GoLand  4 hrs 56 mins >>>>>>>>>- 84.91 %
-VS Code 52 mins       >>-------- 15.09 %
+VS Code 52 mins >>>>>>>>>> 100.0 %
 
 💻 OS:
 
-Windows 5 hrs 48 mins >>>>>>>>>> 100.0 %
+Windows 52 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 80.82
-	"Markdown": 14.0
-	"Other": 5.180000000000001
+	"Markdown": 90.24
+	"Other": 9.760000000000002
 ```
 <!--/WAKATIME-->
 
