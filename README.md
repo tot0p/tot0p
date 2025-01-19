@@ -23,7 +23,7 @@ I'm in my third year at ynov paris
 
 ## 📊GitHub Stats :
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=tot0p&theme=react-dark)
+![](https://github-readme-activity-graph.vercel.app/graph?username=tot0p&theme=react-dark)
 
 ### 🔥 Streak stats
 
