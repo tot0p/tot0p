@@ -1,2 +1,0 @@
-requests
-git+https://github.com/tot0p/MarkdownTableGenerator
