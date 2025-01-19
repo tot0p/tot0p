@@ -16,7 +16,7 @@ jobs:
 
     steps:
     - name: List top repositories
-      uses: tot0p/top-repo-action@v1
+      uses: tot0p/top-repo-action@main
       with:
           username: tot0p
           include_org_repos: true # Optional (default: false)
