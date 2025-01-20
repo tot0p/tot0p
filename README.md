@@ -41,6 +41,43 @@ I'm in my third year at ynov paris
 </details>
 
 <!--WAKATIME-->
+## Work Time of last 7 days
+
+```text
+🌐 Time zone: Europe/Paris
+
+🗓️ From 2025-01-12T23:00:00Z to 2025-01-19T22:59:59Z
+
+⌚ Total time: 2 hrs 40 mins
+
+💬 Languages:
+
+YAML     1 hr 29 mins >>>>>>---- 55.95 %
+Markdown 33 mins      >>>------- 20.61 %
+Python   24 mins      >>-------- 15.4 %
+TOML     12 mins      >--------- 7.7 %
+JSON     0 secs       >--------- 0.17 %
+Text     0 secs       >--------- 0.14 %
+Other    0 secs       >--------- 0.03 %
+
+🔥 IDE:
+
+VS Code 2 hrs 40 mins >>>>>>>>>> 100.0 %
+
+💻 OS:
+
+Windows 2 hrs 40 mins >>>>>>>>>> 100.0 %
+```
+### Pie chart of Time repartition
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
+pie
+	"YAML": 55.95
+	"Markdown": 20.61
+	"Python": 15.4
+	"TOML": 7.7
+	"Other": 0.3400000000000001
+```
 <!--/WAKATIME-->
 
 
