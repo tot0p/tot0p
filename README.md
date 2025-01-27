@@ -46,47 +46,45 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2025-01-18T23:00:00Z to 2025-01-25T22:59:59Z
+🗓️ From 2025-01-19T23:00:00Z to 2025-01-26T22:59:59Z
 
-⌚ Total time: 20 hrs 28 mins
+⌚ Total time: 17 hrs 47 mins
 
 💬 Languages:
 
-Go             13 hrs 23 mins >>>>>>>--- 65.47 %
-YAML           3 hrs          >>-------- 14.73 %
-Markdown       1 hr 44 mins   >--------- 8.48 %
-Docker         1 hr 1 min     >--------- 5.02 %
-Python         24 mins        >--------- 2.01 %
-JSON           13 mins        >--------- 1.11 %
-TOML           12 mins        >--------- 1.01 %
-Bash           10 mins        >--------- 0.82 %
-SQL            8 mins         >--------- 0.67 %
-GitIgnore file 2 mins         >--------- 0.21 %
-Env File       2 mins         >--------- 0.18 %
-textmate       1 min          >--------- 0.13 %
+Go             13 hrs 23 mins >>>>>>>>-- 75.3 %
+YAML           1 hr 31 mins   >--------- 8.54 %
+Markdown       1 hr 11 mins   >--------- 6.65 %
+Docker         1 hr 1 min     >--------- 5.77 %
+JSON           13 mins        >--------- 1.25 %
+Bash           10 mins        >--------- 0.94 %
+SQL            8 mins         >--------- 0.77 %
+GitIgnore file 2 mins         >--------- 0.24 %
+Env File       2 mins         >--------- 0.2 %
+textmate       1 min          >--------- 0.15 %
 Text           1 min          >--------- 0.1 %
-Other          0 secs         >--------- 0.07 %
+Other          0 secs         >--------- 0.08 %
 go.mod         0 secs         >--------- 0.01 %
-TSConfig       0 secs         ---------- 0.0 %
+TSConfig       0 secs         >--------- 0.01 %
 
 🔥 IDE:
 
-GoLand  15 hrs 25 mins >>>>>>>>-- 75.4 %
-VS Code 5 hrs 2 mins   >>>------- 24.6 %
+GoLand  15 hrs 25 mins >>>>>>>>>- 86.73 %
+VS Code 2 hrs 21 mins  >>-------- 13.27 %
 
 💻 OS:
 
-Windows 20 hrs 28 mins >>>>>>>>>> 100.0 %
+Windows 17 hrs 47 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 65.47
-	"YAML": 14.73
-	"Markdown": 8.48
-	"Docker": 5.02
-	"Other": 6.319999999999999
+	"Go": 75.3
+	"YAML": 8.54
+	"Markdown": 6.65
+	"Docker": 5.77
+	"Other": 3.75
 ```
 <!--/WAKATIME-->
 
