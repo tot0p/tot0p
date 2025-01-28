@@ -46,45 +46,44 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2025-01-19T23:00:00Z to 2025-01-26T22:59:59Z
+🗓️ From 2025-01-20T23:00:00Z to 2025-01-27T22:59:59Z
 
-⌚ Total time: 17 hrs 47 mins
+⌚ Total time: 9 hrs 42 mins
 
 💬 Languages:
 
-Go             13 hrs 23 mins >>>>>>>>-- 75.3 %
-YAML           1 hr 31 mins   >--------- 8.54 %
-Markdown       1 hr 11 mins   >--------- 6.65 %
-Docker         1 hr 1 min     >--------- 5.77 %
-JSON           13 mins        >--------- 1.25 %
-Bash           10 mins        >--------- 0.94 %
-SQL            8 mins         >--------- 0.77 %
-GitIgnore file 2 mins         >--------- 0.24 %
-Env File       2 mins         >--------- 0.2 %
-textmate       1 min          >--------- 0.15 %
-Text           1 min          >--------- 0.1 %
-Other          0 secs         >--------- 0.08 %
-go.mod         0 secs         >--------- 0.01 %
-TSConfig       0 secs         >--------- 0.01 %
+Go             6 hrs 5 mins >>>>>>>--- 62.72 %
+YAML           1 hr 31 mins >>-------- 15.66 %
+Docker         51 mins      >--------- 8.8 %
+Markdown       48 mins      >--------- 8.28 %
+JSON           13 mins      >--------- 2.29 %
+Bash           9 mins       >--------- 1.58 %
+Env File       2 mins       >--------- 0.37 %
+GitIgnore file 1 min        >--------- 0.26 %
+textmate       0 secs       >--------- 0.03 %
+TSConfig       0 secs       >--------- 0.01 %
+SQL            0 secs       ---------- 0.0 %
+go.mod         0 secs       ---------- 0.0 %
+Text           0 secs       ---------- 0.0 %
 
 🔥 IDE:
 
-GoLand  15 hrs 25 mins >>>>>>>>>- 86.73 %
-VS Code 2 hrs 21 mins  >>-------- 13.27 %
+GoLand  7 hrs 20 mins >>>>>>>>-- 75.73 %
+VS Code 2 hrs 21 mins >>>------- 24.27 %
 
 💻 OS:
 
-Windows 17 hrs 47 mins >>>>>>>>>> 100.0 %
+Windows 9 hrs 42 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 75.3
-	"YAML": 8.54
-	"Markdown": 6.65
-	"Docker": 5.77
-	"Other": 3.75
+	"Go": 62.72
+	"YAML": 15.66
+	"Docker": 8.8
+	"Markdown": 8.28
+	"Other": 4.54
 ```
 <!--/WAKATIME-->
 
