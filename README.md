@@ -41,40 +41,6 @@ I'm in my third year at ynov paris
 </details>
 
 <!--WAKATIME-->
-## Work Time of last 7 days
-
-```text
-🌐 Time zone: Europe/Paris
-
-🗓️ From 2025-01-21T23:00:00Z to 2025-01-28T22:59:59Z
-
-⌚ Total time: 5 hrs 21 mins
-
-💬 Languages:
-
-Go             5 hrs 8 mins >>>>>>>>>> 95.93 %
-Bash           9 mins       >--------- 2.85 %
-Env File       2 mins       >--------- 0.67 %
-GitIgnore file 1 min        >--------- 0.47 %
-Markdown       0 secs       >--------- 0.08 %
-Text           0 secs       ---------- 0.0 %
-Docker         0 secs       ---------- 0.0 %
-
-🔥 IDE:
-
-GoLand 5 hrs 21 mins >>>>>>>>>> 100.0 %
-
-💻 OS:
-
-Windows 5 hrs 21 mins >>>>>>>>>> 100.0 %
-```
-### Pie chart of Time repartition
-```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
-pie
-	"Go": 95.93
-	"Other": 4.07
-```
 <!--/WAKATIME-->
 
 
