@@ -94,8 +94,8 @@ pie
 <div align="center">
 
 <!--DUCK-->
-### Duck changed by [kiprokoala](https://github.com/kiprokoala)
-[![Duck](https://random-d.uk/api/70.jpg)](https://github.com/tot0p/tot0p/issues/new?title=%F0%9F%A6%86%20Quack)
+### Duck changed by [gaelboisson](https://github.com/gaelboisson)
+[![Duck](https://random-d.uk/api/13.gif)](https://github.com/tot0p/tot0p/issues/new?title=%F0%9F%A6%86%20Quack)
 <!--/DUCK-->
 
 [Change the duck](https://github.com/tot0p/tot0p/issues/new?title=%F0%9F%A6%86%20Quack)
