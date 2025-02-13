@@ -46,43 +46,44 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2025-02-04T23:00:00Z to 2025-02-11T22:59:59Z
+🗓️ From 2025-02-05T23:00:00Z to 2025-02-12T22:59:59Z
 
-⌚ Total time: 44 mins
+⌚ Total time: 5 hrs 13 mins
 
 💬 Languages:
 
-Markdown       23 mins >>>>>>---- 53.17 %
-Go             8 mins  >>-------- 18.02 %
-Binary         7 mins  >>-------- 17.61 %
-YAML           2 mins  >--------- 5.62 %
-C#             1 min   >--------- 3.76 %
-Git Config     0 secs  >--------- 1.03 %
-Other          0 secs  >--------- 0.44 %
-SQL            0 secs  >--------- 0.18 %
-JSON           0 secs  >--------- 0.16 %
-GitIgnore file 0 secs  >--------- 0.01 %
-Docker         0 secs  ---------- 0.0 %
+Go             3 hrs 59 mins >>>>>>>>-- 76.41 %
+Markdown       42 mins       >>-------- 13.48 %
+go.mod         11 mins       >--------- 3.72 %
+YAML           8 mins        >--------- 2.66 %
+Binary         7 mins        >--------- 2.49 %
+C#             1 min         >--------- 0.53 %
+Makefile       1 min         >--------- 0.35 %
+Git Config     0 secs        >--------- 0.17 %
+Other          0 secs        >--------- 0.06 %
+Text           0 secs        >--------- 0.06 %
+JSON           0 secs        >--------- 0.03 %
+SQL            0 secs        >--------- 0.03 %
+GitIgnore file 0 secs        ---------- 0.0 %
+Docker         0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-VS Code       26 mins >>>>>>---- 58.66 %
-Visual Studio 9 mins  >>>------- 21.9 %
-GoLand        8 mins  >>-------- 19.44 %
+GoLand        4 hrs 37 mins >>>>>>>>>- 88.57 %
+VS Code       26 mins       >--------- 8.33 %
+Visual Studio 9 mins        >--------- 3.1 %
 
 💻 OS:
 
-Windows 44 mins >>>>>>>>>> 100.0 %
+Windows 5 hrs 13 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Markdown": 53.17
-	"Go": 18.02
-	"Binary": 17.61
-	"YAML": 5.62
-	"Other": 5.58
+	"Go": 76.41
+	"Markdown": 13.48
+	"Other": 10.1
 ```
 <!--/WAKATIME-->
 
