@@ -46,46 +46,47 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2025-02-06T23:00:00Z to 2025-02-13T22:59:59Z
+🗓️ From 2025-02-07T23:00:00Z to 2025-02-14T22:59:59Z
 
-⌚ Total time: 8 hrs 6 mins
+⌚ Total time: 12 hrs 32 mins
 
 💬 Languages:
 
-Go             3 hrs 55 mins >>>>>----- 48.39 %
-C#             2 hrs 3 mins  >>>------- 25.34 %
-Markdown       42 mins       >--------- 8.69 %
-Binary         21 mins       >--------- 4.38 %
-XML            16 mins       >--------- 3.37 %
-Other          14 mins       >--------- 2.97 %
-go.mod         11 mins       >--------- 2.4 %
-JSON           10 mins       >--------- 2.17 %
-YAML           8 mins        >--------- 1.72 %
-Makefile       1 min         >--------- 0.23 %
-SQL            0 secs        >--------- 0.19 %
-Git Config     0 secs        >--------- 0.11 %
-Text           0 secs        >--------- 0.04 %
+Go             7 hrs 32 mins >>>>>>>--- 60.13 %
+C#             2 hrs 3 mins  >>-------- 16.38 %
+Markdown       54 mins       >--------- 7.23 %
+YAML           42 mins       >--------- 5.71 %
+Binary         21 mins       >--------- 2.83 %
+XML            16 mins       >--------- 2.18 %
+Other          14 mins       >--------- 1.92 %
+go.mod         13 mins       >--------- 1.85 %
+JSON           10 mins       >--------- 1.41 %
+Makefile       1 min         >--------- 0.15 %
+SQL            0 secs        >--------- 0.12 %
+Git Config     0 secs        >--------- 0.07 %
+Text           0 secs        >--------- 0.02 %
 GitIgnore file 0 secs        ---------- 0.0 %
 Docker         0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-GoLand        4 hrs 32 mins >>>>>>---- 56.12 %
-Visual Studio 2 hrs 57 mins >>>>------ 36.43 %
-VS Code       36 mins       >--------- 7.45 %
+GoLand        8 hrs 58 mins >>>>>>>>-- 71.64 %
+Visual Studio 2 hrs 57 mins >>>------- 23.55 %
+VS Code       36 mins       >--------- 4.81 %
 
 💻 OS:
 
-Windows 8 hrs 6 mins >>>>>>>>>> 100.0 %
+Windows 12 hrs 32 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 48.39
-	"C#": 25.34
-	"Markdown": 8.69
-	"Other": 17.580000000000002
+	"Go": 60.13
+	"C#": 16.38
+	"Markdown": 7.23
+	"YAML": 5.71
+	"Other": 10.549999999999999
 ```
 <!--/WAKATIME-->
 
