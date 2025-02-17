@@ -46,21 +46,22 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2025-02-07T23:00:00Z to 2025-02-14T22:59:59Z
+🗓️ From 2025-02-09T23:00:00Z to 2025-02-16T22:59:59Z
 
-⌚ Total time: 12 hrs 32 mins
+⌚ Total time: 12 hrs 39 mins
 
 💬 Languages:
 
-Go             7 hrs 32 mins >>>>>>>--- 60.13 %
-C#             2 hrs 3 mins  >>-------- 16.38 %
-Markdown       54 mins       >--------- 7.23 %
-YAML           42 mins       >--------- 5.71 %
-Binary         21 mins       >--------- 2.83 %
-XML            16 mins       >--------- 2.18 %
-Other          14 mins       >--------- 1.92 %
-go.mod         13 mins       >--------- 1.85 %
-JSON           10 mins       >--------- 1.41 %
+Go             7 hrs 32 mins >>>>>>---- 59.56 %
+C#             2 hrs 3 mins  >>-------- 16.22 %
+Markdown       54 mins       >--------- 7.16 %
+YAML           42 mins       >--------- 5.66 %
+Binary         21 mins       >--------- 2.81 %
+XML            16 mins       >--------- 2.16 %
+Other          14 mins       >--------- 1.9 %
+go.mod         13 mins       >--------- 1.83 %
+JSON           10 mins       >--------- 1.39 %
+Python         7 mins        >--------- 0.94 %
 Makefile       1 min         >--------- 0.15 %
 SQL            0 secs        >--------- 0.12 %
 Git Config     0 secs        >--------- 0.07 %
@@ -70,23 +71,23 @@ Docker         0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-GoLand        8 hrs 58 mins >>>>>>>>-- 71.64 %
-Visual Studio 2 hrs 57 mins >>>------- 23.55 %
-VS Code       36 mins       >--------- 4.81 %
+GoLand        8 hrs 58 mins >>>>>>>>-- 70.96 %
+Visual Studio 2 hrs 57 mins >>>------- 23.33 %
+VS Code       43 mins       >--------- 5.71 %
 
 💻 OS:
 
-Windows 12 hrs 32 mins >>>>>>>>>> 100.0 %
+Windows 12 hrs 39 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 60.13
-	"C#": 16.38
-	"Markdown": 7.23
-	"YAML": 5.71
-	"Other": 10.549999999999999
+	"Go": 59.56
+	"C#": 16.22
+	"Markdown": 7.16
+	"YAML": 5.66
+	"Other": 11.39
 ```
 <!--/WAKATIME-->
 
