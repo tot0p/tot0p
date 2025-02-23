@@ -41,33 +41,6 @@ I'm in my third year at ynov paris
 </details>
 
 <!--WAKATIME-->
-## Work Time of last 7 days
-
-```text
-🌐 Time zone: Europe/Paris
-
-🗓️ From 2025-02-14T23:00:00Z to 2025-02-21T22:59:59Z
-
-⌚ Total time: 7 mins
-
-💬 Languages:
-
-Python 7 mins >>>>>>>>>> 100.0 %
-
-🔥 IDE:
-
-VS Code 7 mins >>>>>>>>>> 100.0 %
-
-💻 OS:
-
-Windows 7 mins >>>>>>>>>> 100.0 %
-```
-### Pie chart of Time repartition
-```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
-pie
-	"Python": 100.0
-```
 <!--/WAKATIME-->
 
 
