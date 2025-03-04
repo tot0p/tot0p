@@ -41,6 +41,39 @@ I'm in my third year at ynov paris
 </details>
 
 <!--WAKATIME-->
+## Work Time of last 7 days
+
+```text
+🌐 Time zone: Europe/Paris
+
+🗓️ From 2025-02-24T23:00:00Z to 2025-03-03T22:59:59Z
+
+⌚ Total time: 1 hr 46 mins
+
+💬 Languages:
+
+C#     1 hr 22 mins >>>>>>>>-- 76.7 %
+Binary 17 mins      >>-------- 16.12 %
+XML    6 mins       >--------- 6.13 %
+JSON   1 min        >--------- 1.04 %
+
+🔥 IDE:
+
+Visual Studio 1 hr 46 mins >>>>>>>>>> 100.0 %
+
+💻 OS:
+
+Windows 1 hr 46 mins >>>>>>>>>> 100.0 %
+```
+### Pie chart of Time repartition
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
+pie
+	"C#": 76.7
+	"Binary": 16.12
+	"XML": 6.13
+	"Other": 1.04
+```
 <!--/WAKATIME-->
 
 
