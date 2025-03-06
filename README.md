@@ -46,33 +46,39 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2025-02-25T23:00:00Z to 2025-03-04T22:59:59Z
+🗓️ From 2025-02-26T23:00:00Z to 2025-03-05T22:59:59Z
 
-⌚ Total time: 4 hrs 55 mins
+⌚ Total time: 7 hrs 35 mins
 
 💬 Languages:
 
-C#     3 hrs 55 mins >>>>>>>>-- 79.48 %
-Binary 48 mins       >>-------- 16.25 %
-XML    6 mins        >--------- 2.24 %
-Other  4 mins        >--------- 1.65 %
-JSON   1 min         >--------- 0.38 %
+C#             3 hrs 55 mins >>>>>>---- 51.63 %
+Go             2 hrs 20 mins >>>>------ 30.77 %
+Binary         48 mins       >>-------- 10.56 %
+Markdown       14 mins       >--------- 3.2 %
+XML            6 mins        >--------- 1.45 %
+Other          4 mins        >--------- 1.07 %
+go.mod         4 mins        >--------- 1.05 %
+JSON           1 min         >--------- 0.24 %
+GitIgnore file 0 secs        >--------- 0.03 %
 
 🔥 IDE:
 
-Visual Studio 4 hrs 55 mins >>>>>>>>>> 100.0 %
+Visual Studio 4 hrs 55 mins >>>>>>>--- 64.96 %
+GoLand        2 hrs 39 mins >>>>------ 35.04 %
 
 💻 OS:
 
-Windows 4 hrs 55 mins >>>>>>>>>> 100.0 %
+Windows 7 hrs 35 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"C#": 79.48
-	"Binary": 16.25
-	"Other": 4.2700000000000005
+	"C#": 51.63
+	"Go": 30.77
+	"Binary": 10.56
+	"Other": 7.040000000000001
 ```
 <!--/WAKATIME-->
 
