@@ -46,14 +46,14 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2025-02-27T23:00:00Z to 2025-03-06T22:59:59Z
+🗓️ From 2025-02-28T23:00:00Z to 2025-03-07T22:59:59Z
 
 ⌚ Total time: 7 hrs 35 mins
 
 💬 Languages:
 
 C#             3 hrs 55 mins >>>>>>---- 51.63 %
-Go             2 hrs 20 mins >>>>------ 30.77 %
+Go             2 hrs 20 mins >>>>------ 30.78 %
 Binary         48 mins       >>-------- 10.56 %
 Markdown       14 mins       >--------- 3.2 %
 XML            6 mins        >--------- 1.45 %
@@ -64,8 +64,8 @@ GitIgnore file 0 secs        >--------- 0.03 %
 
 🔥 IDE:
 
-Visual Studio 4 hrs 55 mins >>>>>>>--- 64.96 %
-GoLand        2 hrs 39 mins >>>>------ 35.04 %
+Visual Studio 4 hrs 55 mins >>>>>>>--- 64.95 %
+GoLand        2 hrs 39 mins >>>>------ 35.05 %
 
 💻 OS:
 
@@ -76,7 +76,7 @@ Windows 7 hrs 35 mins >>>>>>>>>> 100.0 %
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
 	"C#": 51.63
-	"Go": 30.77
+	"Go": 30.78
 	"Binary": 10.56
 	"Other": 7.040000000000001
 ```
