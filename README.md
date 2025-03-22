@@ -93,7 +93,7 @@ pie
 
 <!--DUCK-->
 ### Duck changed by [tot0p](https://github.com/tot0p)
-[![Duck](https://random-d.uk/api/289.jpg)](https://github.com/tot0p/tot0p/issues/new?title=%F0%9F%A6%86%20Quack)
+[![Duck](https://random-d.uk/api/206.jpg)](https://github.com/tot0p/tot0p/issues/new?title=%F0%9F%A6%86%20Quack)
 <!--/DUCK-->
 
 [Change the duck](https://github.com/tot0p/tot0p/issues/new?title=%F0%9F%A6%86%20Quack)
