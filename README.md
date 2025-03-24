@@ -46,31 +46,35 @@ I'm in my third year at ynov paris
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2025-03-15T23:00:00Z to 2025-03-22T22:59:59Z
+🗓️ From 2025-03-16T23:00:00Z to 2025-03-23T22:59:59Z
 
-⌚ Total time: 2 mins
+⌚ Total time: 52 mins
 
 💬 Languages:
 
-Go       2 mins >>>>>>>>>> 94.17 %
-Markdown 0 secs >--------- 4.82 %
-YAML     0 secs >--------- 0.97 %
-go.mod   0 secs >--------- 0.04 %
+Go       23 mins >>>>>----- 44.98 %
+Docker   17 mins >>>>------ 33.18 %
+Markdown 7 mins  >>-------- 14.7 %
+YAML     2 mins  >--------- 4.63 %
+Other    1 min   >--------- 2.34 %
+go.mod   0 secs  >--------- 0.18 %
 
 🔥 IDE:
 
-GoLand 2 mins >>>>>>>>>> 100.0 %
+GoLand 52 mins >>>>>>>>>> 100.0 %
 
 💻 OS:
 
-Windows 2 mins >>>>>>>>>> 100.0 %
+Windows 52 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 94.17
-	"Other": 5.83
+	"Go": 44.98
+	"Docker": 33.18
+	"Markdown": 14.7
+	"Other": 7.1499999999999995
 ```
 <!--/WAKATIME-->
 
