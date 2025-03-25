@@ -5,7 +5,6 @@
 </div>
 
 # [Hi 👋, I'm tot0p](https://tot0p.github.io/tot0p/) :
-I'm in my third year at ynov paris
 
 [Ecla](https://github.com/Eclalang) , V1.0.0 is [here](https://github.com/Eclalang/Ecla) !!!!!!!!!
 
