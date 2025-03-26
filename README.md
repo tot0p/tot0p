@@ -45,41 +45,51 @@
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2025-03-17T23:00:00Z to 2025-03-24T22:59:59Z
+🗓️ From 2025-03-18T23:00:00Z to 2025-03-25T22:59:59Z
 
-⌚ Total time: 3 hrs 8 mins
+⌚ Total time: 6 hrs 46 mins
 
 💬 Languages:
 
-Markdown 58 mins >>>>------ 30.88 %
-Go       42 mins >>>------- 22.42 %
-YAML     35 mins >>-------- 18.81 %
-Python   27 mins >>-------- 14.36 %
-Docker   20 mins >>-------- 10.89 %
-go.mod   2 mins  >--------- 1.44 %
-Other    1 min   >--------- 0.78 %
-Text     0 secs  >--------- 0.32 %
-JSON     0 secs  >--------- 0.1 %
+C#         2 hrs 6 mins >>>>------ 31.16 %
+Markdown   58 mins      >>-------- 14.45 %
+CMake      56 mins      >>-------- 13.96 %
+Go         42 mins      >>-------- 10.41 %
+YAML       35 mins      >--------- 8.73 %
+Python     27 mins      >--------- 6.67 %
+Docker     20 mins      >--------- 5.05 %
+Binary     17 mins      >--------- 4.29 %
+C++        15 mins      >--------- 3.7 %
+go.mod     2 mins       >--------- 0.67 %
+Other      1 min        >--------- 0.36 %
+Text       0 secs       >--------- 0.22 %
+Makefile   0 secs       >--------- 0.12 %
+JSON       0 secs       >--------- 0.11 %
+Git Config 0 secs       >--------- 0.06 %
+XML        0 secs       >--------- 0.03 %
 
 🔥 IDE:
 
-GoLand  1 hr 43 mins >>>>>>---- 54.81 %
-VS Code 1 hr 25 mins >>>>>----- 45.19 %
+VS Code       2 hrs 38 mins >>>>------ 39.08 %
+Visual Studio 2 hrs 24 mins >>>>------ 35.47 %
+GoLand        1 hr 43 mins  >>>------- 25.44 %
 
 💻 OS:
 
-Windows 3 hrs 8 mins >>>>>>>>>> 100.0 %
+Windows 6 hrs 46 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Markdown": 30.88
-	"Go": 22.42
-	"YAML": 18.81
-	"Python": 14.36
-	"Docker": 10.89
-	"Other": 2.6399999999999997
+	"C#": 31.16
+	"Markdown": 14.45
+	"CMake": 13.96
+	"Go": 10.41
+	"YAML": 8.73
+	"Python": 6.67
+	"Docker": 5.05
+	"Other": 9.559999999999999
 ```
 <!--/WAKATIME-->
 
