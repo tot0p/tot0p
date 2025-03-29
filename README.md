@@ -45,51 +45,52 @@
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2025-03-20T23:00:00Z to 2025-03-27T22:59:59Z
+🗓️ From 2025-03-21T23:00:00Z to 2025-03-28T22:59:59Z
 
-⌚ Total time: 15 hrs 26 mins
+⌚ Total time: 15 hrs 28 mins
 
 💬 Languages:
 
-Go             6 hrs 1 min   >>>>------ 39.02 %
-CMake          3 hrs 10 mins >>>------- 20.62 %
-C#             2 hrs 17 mins >>-------- 14.82 %
-Markdown       1 hr 10 mins  >--------- 7.63 %
-C++            51 mins       >--------- 5.56 %
-YAML           35 mins       >--------- 3.83 %
+Go             6 hrs 1 min   >>>>------ 38.92 %
+CMake          3 hrs 10 mins >>>------- 20.57 %
+C#             2 hrs 17 mins >>-------- 14.78 %
+Markdown       1 hr 10 mins  >--------- 7.61 %
+C++            51 mins       >--------- 5.54 %
+YAML           35 mins       >--------- 3.82 %
 Python         27 mins       >--------- 2.92 %
-Docker         20 mins       >--------- 2.22 %
-Binary         17 mins       >--------- 1.91 %
+Docker         20 mins       >--------- 2.21 %
+Binary         17 mins       >--------- 1.9 %
 go.mod         3 mins        >--------- 0.41 %
-JSON           3 mins        >--------- 0.35 %
+JSON           3 mins        >--------- 0.37 %
 Other          2 mins        >--------- 0.23 %
 Text           2 mins        >--------- 0.22 %
+Git Config     1 min         >--------- 0.2 %
 Makefile       1 min         >--------- 0.16 %
+JavaScript     0 secs        >--------- 0.07 %
 C              0 secs        >--------- 0.05 %
-Git Config     0 secs        >--------- 0.04 %
 XML            0 secs        >--------- 0.02 %
 GitIgnore file 0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-GoLand        7 hrs 3 mins  >>>>>----- 45.68 %
-VS Code       5 hrs 46 mins >>>>------ 37.42 %
-Visual Studio 2 hrs 36 mins >>-------- 16.9 %
+GoLand        7 hrs 2 mins  >>>>>----- 45.55 %
+VS Code       5 hrs 49 mins >>>>------ 37.59 %
+Visual Studio 2 hrs 36 mins >>-------- 16.86 %
 
 💻 OS:
 
-Windows 15 hrs 26 mins >>>>>>>>>> 100.0 %
+Windows 15 hrs 28 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 39.02
-	"CMake": 20.62
-	"C#": 14.82
-	"Markdown": 7.63
-	"C++": 5.56
-	"Other": 12.360000000000001
+	"Go": 38.92
+	"CMake": 20.57
+	"C#": 14.78
+	"Markdown": 7.61
+	"C++": 5.54
+	"Other": 12.58
 ```
 <!--/WAKATIME-->
 
