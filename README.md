@@ -45,23 +45,23 @@
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2025-03-21T23:00:00Z to 2025-03-28T22:59:59Z
+🗓️ From 2025-03-22T23:00:00Z to 2025-03-29T22:59:59Z
 
-⌚ Total time: 15 hrs 28 mins
+⌚ Total time: 15 hrs 31 mins
 
 💬 Languages:
 
-Go             6 hrs 1 min   >>>>------ 38.92 %
-CMake          3 hrs 10 mins >>>------- 20.57 %
-C#             2 hrs 17 mins >>-------- 14.78 %
-Markdown       1 hr 10 mins  >--------- 7.61 %
+Go             6 hrs 1 min   >>>>------ 38.79 %
+CMake          3 hrs 10 mins >>>------- 20.5 %
+C#             2 hrs 17 mins >>-------- 14.73 %
+Markdown       1 hr 10 mins  >--------- 7.59 %
 C++            51 mins       >--------- 5.54 %
-YAML           35 mins       >--------- 3.82 %
-Python         27 mins       >--------- 2.92 %
-Docker         20 mins       >--------- 2.21 %
+YAML           36 mins       >--------- 3.87 %
+Python         27 mins       >--------- 2.91 %
+Docker         21 mins       >--------- 2.33 %
 Binary         17 mins       >--------- 1.9 %
-go.mod         3 mins        >--------- 0.41 %
-JSON           3 mins        >--------- 0.37 %
+JSON           4 mins        >--------- 0.49 %
+go.mod         3 mins        >--------- 0.4 %
 Other          2 mins        >--------- 0.23 %
 Text           2 mins        >--------- 0.22 %
 Git Config     1 min         >--------- 0.2 %
@@ -73,24 +73,24 @@ GitIgnore file 0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-GoLand        7 hrs 2 mins  >>>>>----- 45.55 %
-VS Code       5 hrs 49 mins >>>>------ 37.59 %
-Visual Studio 2 hrs 36 mins >>-------- 16.86 %
+GoLand        7 hrs 2 mins  >>>>>----- 45.33 %
+VS Code       5 hrs 51 mins >>>>------ 37.74 %
+Visual Studio 2 hrs 37 mins >>-------- 16.93 %
 
 💻 OS:
 
-Windows 15 hrs 28 mins >>>>>>>>>> 100.0 %
+Windows 15 hrs 31 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 38.92
-	"CMake": 20.57
-	"C#": 14.78
-	"Markdown": 7.61
+	"Go": 38.79
+	"CMake": 20.5
+	"C#": 14.73
+	"Markdown": 7.59
 	"C++": 5.54
-	"Other": 12.58
+	"Other": 12.850000000000001
 ```
 <!--/WAKATIME-->
 
