@@ -45,48 +45,47 @@
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2025-03-24T23:00:00Z to 2025-03-31T21:59:59Z
+🗓️ From 2025-03-25T23:00:00Z to 2025-04-01T21:59:59Z
 
-⌚ Total time: 12 hrs 23 mins
+⌚ Total time: 8 hrs 44 mins
 
 💬 Languages:
 
-Go             5 hrs 20 mins >>>>>----- 43.18 %
-CMake          3 hrs 10 mins >>>------- 25.69 %
-C#             2 hrs 17 mins >>-------- 18.46 %
-C++            51 mins       >--------- 6.94 %
-Binary         17 mins       >--------- 2.38 %
-Markdown       12 mins       >--------- 1.69 %
-JSON           4 mins        >--------- 0.59 %
-Git Config     1 min         >--------- 0.25 %
-Makefile       1 min         >--------- 0.2 %
-Text           1 min         >--------- 0.19 %
-go.mod         1 min         >--------- 0.14 %
-Other          0 secs        >--------- 0.09 %
-JavaScript     0 secs        >--------- 0.09 %
-C              0 secs        >--------- 0.06 %
-XML            0 secs        >--------- 0.02 %
-GitIgnore file 0 secs        ---------- 0.0 %
+Go             5 hrs 20 mins >>>>>>>--- 61.2 %
+CMake          2 hrs 14 mins >>>------- 25.6 %
+C++            36 mins       >--------- 6.97 %
+Markdown       12 mins       >--------- 2.3 %
+C#             10 mins       >--------- 2.04 %
+JSON           2 mins        >--------- 0.56 %
+Git Config     1 min         >--------- 0.32 %
+Text           1 min         >--------- 0.21 %
+go.mod         1 min         >--------- 0.2 %
+Makefile       0 secs        >--------- 0.18 %
+Other          0 secs        >--------- 0.13 %
+JavaScript     0 secs        >--------- 0.13 %
+C              0 secs        >--------- 0.09 %
+Binary         0 secs        >--------- 0.05 %
+GitIgnore file 0 secs        >--------- 0.01 %
+XML            0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-GoLand        5 hrs 19 mins >>>>>----- 43.02 %
-VS Code       4 hrs 25 mins >>>>------ 35.76 %
-Visual Studio 2 hrs 37 mins >>>------- 21.22 %
+GoLand        5 hrs 19 mins >>>>>>>--- 60.97 %
+VS Code       3 hrs 12 mins >>>>------ 36.65 %
+Visual Studio 12 mins       >--------- 2.38 %
 
 💻 OS:
 
-Windows 12 hrs 23 mins >>>>>>>>>> 100.0 %
+Windows 8 hrs 44 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 43.18
-	"CMake": 25.69
-	"C#": 18.46
-	"C++": 6.94
-	"Other": 5.699999999999999
+	"Go": 61.2
+	"CMake": 25.6
+	"C++": 6.97
+	"Other": 6.22
 ```
 <!--/WAKATIME-->
 
