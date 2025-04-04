@@ -45,47 +45,37 @@
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2025-03-26T23:00:00Z to 2025-04-02T21:59:59Z
+🗓️ From 2025-03-27T23:00:00Z to 2025-04-03T21:59:59Z
 
-⌚ Total time: 3 hrs 10 mins
+⌚ Total time: 2 mins
 
 💬 Languages:
 
-CMake          2 hrs 1 min >>>>>>>--- 63.68 %
-C++            36 mins     >>-------- 19.06 %
-Markdown       11 mins     >--------- 6.23 %
-C#             10 mins     >--------- 5.61 %
-JSON           2 mins      >--------- 1.55 %
-Git Config     1 min       >--------- 0.87 %
-Go             1 min       >--------- 0.8 %
-Text           1 min       >--------- 0.59 %
-Makefile       0 secs      >--------- 0.51 %
-Other          0 secs      >--------- 0.36 %
-JavaScript     0 secs      >--------- 0.35 %
-C              0 secs      >--------- 0.25 %
-Binary         0 secs      >--------- 0.13 %
-GitIgnore file 0 secs      >--------- 0.02 %
-XML            0 secs      >--------- 0.01 %
+Git Config     1 min  >>>>>>---- 59.83 %
+JavaScript     0 secs >>>------- 27.23 %
+JSON           0 secs >--------- 6.34 %
+Markdown       0 secs >--------- 5.75 %
+Go             0 secs >--------- 0.83 %
+GitIgnore file 0 secs >--------- 0.02 %
 
 🔥 IDE:
 
-VS Code       2 hrs 56 mins >>>>>>>>>> 92.64 %
-Visual Studio 12 mins       >--------- 6.54 %
-GoLand        1 min         >--------- 0.82 %
+VS Code 2 mins >>>>>>>>>> 99.14 %
+GoLand  0 secs >--------- 0.86 %
 
 💻 OS:
 
-Windows 3 hrs 10 mins >>>>>>>>>> 100.0 %
+Windows 2 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"CMake": 63.68
-	"C++": 19.06
-	"Markdown": 6.23
-	"C#": 5.61
-	"Other": 5.439999999999999
+	"Git Config": 59.83
+	"JavaScript": 27.23
+	"JSON": 6.34
+	"Markdown": 5.75
+	"Other": 0.85
 ```
 <!--/WAKATIME-->
 
