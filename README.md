@@ -40,43 +40,6 @@
 </details>
 
 <!--WAKATIME-->
-## Work Time of last 7 days
-
-```text
-🌐 Time zone: Europe/Paris
-
-🗓️ From 2025-03-27T23:00:00Z to 2025-04-03T21:59:59Z
-
-⌚ Total time: 2 mins
-
-💬 Languages:
-
-Git Config     1 min  >>>>>>---- 59.83 %
-JavaScript     0 secs >>>------- 27.23 %
-JSON           0 secs >--------- 6.34 %
-Markdown       0 secs >--------- 5.75 %
-Go             0 secs >--------- 0.83 %
-GitIgnore file 0 secs >--------- 0.02 %
-
-🔥 IDE:
-
-VS Code 2 mins >>>>>>>>>> 99.14 %
-GoLand  0 secs >--------- 0.86 %
-
-💻 OS:
-
-Windows 2 mins >>>>>>>>>> 100.0 %
-```
-### Pie chart of Time repartition
-```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
-pie
-	"Git Config": 59.83
-	"JavaScript": 27.23
-	"JSON": 6.34
-	"Markdown": 5.75
-	"Other": 0.85
-```
 <!--/WAKATIME-->
 
 
