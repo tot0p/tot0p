@@ -40,6 +40,39 @@
 </details>
 
 <!--WAKATIME-->
+## Work Time of last 7 days
+
+```text
+🌐 Time zone: Europe/Paris
+
+🗓️ From 2025-04-01T22:00:00Z to 2025-04-08T21:59:59Z
+
+⌚ Total time: 1 hr 6 mins
+
+💬 Languages:
+
+Go             41 mins >>>>>>>--- 61.54 %
+Bash           23 mins >>>>------ 35.66 %
+Markdown       0 secs  >--------- 1.36 %
+GitIgnore file 0 secs  >--------- 1.22 %
+go.mod         0 secs  >--------- 0.21 %
+
+🔥 IDE:
+
+GoLand 1 hr 6 mins >>>>>>>>>> 100.0 %
+
+💻 OS:
+
+Windows 1 hr 6 mins >>>>>>>>>> 100.0 %
+```
+### Pie chart of Time repartition
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
+pie
+	"Go": 61.54
+	"Bash": 35.66
+	"Other": 2.79
+```
 <!--/WAKATIME-->
 
 
