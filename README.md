@@ -45,7 +45,7 @@
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2025-04-01T22:00:00Z to 2025-04-08T21:59:59Z
+🗓️ From 2025-04-02T22:00:00Z to 2025-04-09T21:59:59Z
 
 ⌚ Total time: 1 hr 6 mins
 
