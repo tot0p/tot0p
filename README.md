@@ -45,33 +45,43 @@
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2025-04-04T22:00:00Z to 2025-04-11T21:59:59Z
+🗓️ From 2025-04-05T22:00:00Z to 2025-04-12T21:59:59Z
 
-⌚ Total time: 1 hr 6 mins
+⌚ Total time: 1 hr 27 mins
 
 💬 Languages:
 
-Go             41 mins >>>>>>>--- 61.54 %
-Bash           23 mins >>>>------ 35.66 %
-Markdown       0 secs  >--------- 1.36 %
-GitIgnore file 0 secs  >--------- 1.22 %
-go.mod         0 secs  >--------- 0.21 %
+Go             41 mins >>>>>----- 47.26 %
+Bash           23 mins >>>------- 27.38 %
+TypeScript     7 mins  >--------- 9.05 %
+JSON           6 mins  >--------- 7.65 %
+HTML           5 mins  >--------- 6.3 %
+Markdown       0 secs  >--------- 1.04 %
+GitIgnore file 0 secs  >--------- 0.94 %
+go.mod         0 secs  >--------- 0.16 %
+TSConfig       0 secs  >--------- 0.16 %
+JavaScript     0 secs  >--------- 0.04 %
+CSS            0 secs  >--------- 0.01 %
 
 🔥 IDE:
 
-GoLand 1 hr 6 mins >>>>>>>>>> 100.0 %
+GoLand  1 hr 6 mins >>>>>>>>-- 76.79 %
+VS Code 20 mins     >>>------- 23.21 %
 
 💻 OS:
 
-Windows 1 hr 6 mins >>>>>>>>>> 100.0 %
+Windows 1 hr 27 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 61.54
-	"Bash": 35.66
-	"Other": 2.79
+	"Go": 47.26
+	"Bash": 27.38
+	"TypeScript": 9.05
+	"JSON": 7.65
+	"HTML": 6.3
+	"Other": 2.35
 ```
 <!--/WAKATIME-->
 
