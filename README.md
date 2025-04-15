@@ -45,43 +45,46 @@
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2025-04-06T22:00:00Z to 2025-04-13T21:59:59Z
+🗓️ From 2025-04-07T22:00:00Z to 2025-04-14T21:59:59Z
 
-⌚ Total time: 1 hr 27 mins
+⌚ Total time: 5 hrs 15 mins
 
 💬 Languages:
 
-Go             41 mins >>>>>----- 47.26 %
-Bash           23 mins >>>------- 27.38 %
-TypeScript     7 mins  >--------- 9.05 %
-JSON           6 mins  >--------- 7.65 %
-HTML           5 mins  >--------- 6.3 %
-Markdown       0 secs  >--------- 1.04 %
-GitIgnore file 0 secs  >--------- 0.94 %
-go.mod         0 secs  >--------- 0.16 %
-TSConfig       0 secs  >--------- 0.16 %
-JavaScript     0 secs  >--------- 0.04 %
-CSS            0 secs  >--------- 0.01 %
+TypeScript     1 hr 23 mins >>>------- 26.56 %
+Go             1 hr 21 mins >>>------- 25.75 %
+JSON           1 hr 4 mins  >>>------- 20.44 %
+Bash           35 mins      >>-------- 11.23 %
+JavaScript     14 mins      >--------- 4.45 %
+Other          7 mins       >--------- 2.28 %
+Shell Script   6 mins       >--------- 2.03 %
+SCSS           5 mins       >--------- 1.84 %
+HTML           5 mins       >--------- 1.74 %
+Git Config     5 mins       >--------- 1.59 %
+TSConfig       3 mins       >--------- 1.14 %
+Markdown       1 min        >--------- 0.49 %
+GitIgnore file 1 min        >--------- 0.35 %
+go.mod         0 secs       >--------- 0.06 %
+CSS            0 secs       >--------- 0.04 %
 
 🔥 IDE:
 
-GoLand  1 hr 6 mins >>>>>>>>-- 76.79 %
-VS Code 20 mins     >>>------- 23.21 %
+VS Code 3 hrs 9 mins >>>>>>>--- 60.09 %
+GoLand  2 hrs 5 mins >>>>------ 39.91 %
 
 💻 OS:
 
-Windows 1 hr 27 mins >>>>>>>>>> 100.0 %
+Windows 5 hrs 15 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 47.26
-	"Bash": 27.38
-	"TypeScript": 9.05
-	"JSON": 7.65
-	"HTML": 6.3
-	"Other": 2.35
+	"TypeScript": 26.56
+	"Go": 25.75
+	"JSON": 20.44
+	"Bash": 11.23
+	"Other": 16.01
 ```
 <!--/WAKATIME-->
 
