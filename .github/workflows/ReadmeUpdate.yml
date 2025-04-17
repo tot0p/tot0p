@@ -27,8 +27,6 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
-    - name: Pull
-      run: git pull
     - name: wakatime update
       uses: tot0p/wakatime-readme@v1
       with:
