@@ -88,6 +88,59 @@ I'm excited to announce that [Ecla](https://github.com/Eclalang) v1.0.0 is now a
 </details>
 
 <!--WAKATIME-->
+## Work Time of last 7 days
+
+```text
+🌐 Time zone: Europe/Paris
+
+🗓️ From 2025-04-09T22:00:00Z to 2025-04-16T21:59:59Z
+
+⌚ Total time: 7 hrs 36 mins
+
+💬 Languages:
+
+YAML           1 hr 35 mins >>>------- 20.95 %
+Go             1 hr 30 mins >>-------- 19.91 %
+TypeScript     1 hr 23 mins >>-------- 18.36 %
+JSON           1 hr 4 mins  >>-------- 14.13 %
+Docker         24 mins      >--------- 5.42 %
+HTML           17 mins      >--------- 3.73 %
+Bash           14 mins      >--------- 3.16 %
+JavaScript     14 mins      >--------- 3.08 %
+SCSS           13 mins      >--------- 2.89 %
+Shell Script   12 mins      >--------- 2.71 %
+Other          7 mins       >--------- 1.58 %
+Git Config     5 mins       >--------- 1.1 %
+Markdown       4 mins       >--------- 0.99 %
+GitIgnore file 4 mins       >--------- 0.89 %
+TSConfig       3 mins       >--------- 0.79 %
+go.mod         0 secs       >--------- 0.09 %
+CSS            0 secs       >--------- 0.09 %
+Text           0 secs       >--------- 0.06 %
+Mustache       0 secs       >--------- 0.04 %
+CMake          0 secs       >--------- 0.02 %
+C++            0 secs       >--------- 0.02 %
+
+🔥 IDE:
+
+VS Code 4 hrs 55 mins >>>>>>>--- 64.73 %
+GoLand  2 hrs 40 mins >>>>------ 35.27 %
+
+💻 OS:
+
+Windows 7 hrs 36 mins >>>>>>>>>> 100.0 %
+```
+### Pie chart of Time repartition
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
+pie
+	"YAML": 20.95
+	"Go": 19.91
+	"TypeScript": 18.36
+	"JSON": 14.13
+	"Docker": 5.42
+	"Other": 21.239999999999995
+```
 <!--/WAKATIME-->
 
 
