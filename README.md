@@ -93,53 +93,47 @@ I'm excited to announce that [Ecla](https://github.com/Eclalang) v1.0.0 is now a
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2025-04-13T22:00:00Z to 2025-04-20T21:59:59Z
+🗓️ From 2025-04-14T22:00:00Z to 2025-04-21T21:59:59Z
 
-⌚ Total time: 7 hrs 16 mins
+⌚ Total time: 3 hrs 27 mins
 
 💬 Languages:
 
-YAML           1 hr 35 mins >>>------- 21.92 %
-Go             1 hr 30 mins >>>------- 20.83 %
-TypeScript     1 hr 15 mins >>-------- 17.41 %
-JSON           57 mins      >>-------- 13.25 %
-Docker         24 mins      >--------- 5.67 %
-Bash           14 mins      >--------- 3.31 %
-JavaScript     14 mins      >--------- 3.21 %
-SCSS           13 mins      >--------- 3.03 %
-Shell Script   12 mins      >--------- 2.83 %
-HTML           11 mins      >--------- 2.64 %
-Other          7 mins       >--------- 1.65 %
-Git Config     5 mins       >--------- 1.16 %
-Markdown       4 mins       >--------- 1.03 %
-GitIgnore file 4 mins       >--------- 0.93 %
-TSConfig       3 mins       >--------- 0.8 %
-go.mod         0 secs       >--------- 0.1 %
-CSS            0 secs       >--------- 0.09 %
-Text           0 secs       >--------- 0.06 %
-Mustache       0 secs       >--------- 0.04 %
-CMake          0 secs       >--------- 0.02 %
-C++            0 secs       >--------- 0.02 %
+YAML           1 hr 35 mins >>>>>----- 46.0 %
+Go             50 mins      >>>------- 24.46 %
+Docker         24 mins      >>-------- 11.9 %
+HTML           11 mins      >--------- 5.55 %
+SCSS           7 mins       >--------- 3.56 %
+Shell Script   5 mins       >--------- 2.87 %
+Markdown       3 mins       >--------- 1.86 %
+GitIgnore file 3 mins       >--------- 1.81 %
+Bash           2 mins       >--------- 1.38 %
+go.mod         0 secs       >--------- 0.18 %
+CSS            0 secs       >--------- 0.13 %
+Text           0 secs       >--------- 0.13 %
+Mustache       0 secs       >--------- 0.09 %
+CMake          0 secs       >--------- 0.04 %
+C++            0 secs       >--------- 0.04 %
+Git Config     0 secs       >--------- 0.01 %
 
 🔥 IDE:
 
-VS Code 4 hrs 35 mins >>>>>>>--- 63.09 %
-GoLand  2 hrs 40 mins >>>>------ 36.91 %
+VS Code 1 hr 45 mins >>>>>>---- 50.92 %
+GoLand  1 hr 42 mins >>>>>----- 49.08 %
 
 💻 OS:
 
-Windows 7 hrs 16 mins >>>>>>>>>> 100.0 %
+Windows 3 hrs 27 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"YAML": 21.92
-	"Go": 20.83
-	"TypeScript": 17.41
-	"JSON": 13.25
-	"Docker": 5.67
-	"Other": 20.919999999999998
+	"YAML": 46.0
+	"Go": 24.46
+	"Docker": 11.9
+	"HTML": 5.55
+	"Other": 12.1
 ```
 <!--/WAKATIME-->
 
