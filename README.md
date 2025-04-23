@@ -88,53 +88,6 @@ I'm excited to announce that [Ecla](https://github.com/Eclalang) v1.0.0 is now a
 </details>
 
 <!--WAKATIME-->
-## Work Time of last 7 days
-
-```text
-🌐 Time zone: Europe/Paris
-
-🗓️ From 2025-04-14T22:00:00Z to 2025-04-21T21:59:59Z
-
-⌚ Total time: 3 hrs 27 mins
-
-💬 Languages:
-
-YAML           1 hr 35 mins >>>>>----- 46.0 %
-Go             50 mins      >>>------- 24.46 %
-Docker         24 mins      >>-------- 11.9 %
-HTML           11 mins      >--------- 5.55 %
-SCSS           7 mins       >--------- 3.56 %
-Shell Script   5 mins       >--------- 2.87 %
-Markdown       3 mins       >--------- 1.86 %
-GitIgnore file 3 mins       >--------- 1.81 %
-Bash           2 mins       >--------- 1.38 %
-go.mod         0 secs       >--------- 0.18 %
-CSS            0 secs       >--------- 0.13 %
-Text           0 secs       >--------- 0.13 %
-Mustache       0 secs       >--------- 0.09 %
-CMake          0 secs       >--------- 0.04 %
-C++            0 secs       >--------- 0.04 %
-Git Config     0 secs       >--------- 0.01 %
-
-🔥 IDE:
-
-VS Code 1 hr 45 mins >>>>>>---- 50.92 %
-GoLand  1 hr 42 mins >>>>>----- 49.08 %
-
-💻 OS:
-
-Windows 3 hrs 27 mins >>>>>>>>>> 100.0 %
-```
-### Pie chart of Time repartition
-```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
-pie
-	"YAML": 46.0
-	"Go": 24.46
-	"Docker": 11.9
-	"HTML": 5.55
-	"Other": 12.1
-```
 <!--/WAKATIME-->
 
 
