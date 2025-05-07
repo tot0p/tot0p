@@ -21,17 +21,17 @@ jobs:
           username: tot0p
           include_org_repos: true # Optional (default: false)
             
-  # wakatime-update:
-  #   needs: ["table-update"]
-  #   runs-on: ubuntu-latest
-  #   steps:
-  #   - name: Checkout repository
-  #     uses: actions/checkout@v4
-  #   - name: wakatime update
-  #     uses: tot0p/wakatime-readme@v1
-  #     with:
-  #       WAKATIME_API_KEY : ${{ secrets.WAKATIME_API_KEY }}
-  #       CHAR1 : ">"
-  #       CHAR2 : "-"
-  #       draw_graph: "true"
+  wakatime-update:
+    needs: ["table-update"]
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    - name: wakatime update
+      uses: tot0p/wakatime-readme@v1
+      with:
+        WAKATIME_API_KEY : ${{ secrets.WAKATIME_API_KEY }}
+        CHAR1 : ">"
+        CHAR2 : "-"
+        draw_graph: "true"
 
