@@ -93,30 +93,35 @@ I'm excited to announce that [Ecla](https://github.com/Eclalang) v1.0.0 is now a
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2025-04-29T22:00:00Z to 2025-05-06T21:59:59Z
+🗓️ From 2025-04-30T22:00:00Z to 2025-05-07T21:59:59Z
 
-⌚ Total time: 20 mins
+⌚ Total time: 3 hrs 50 mins
 
 💬 Languages:
 
-Markdown 14 mins >>>>>>>--- 68.38 %
-Go       6 mins  >>>>------ 31.62 %
+Go       3 hrs 1 min >>>>>>>>-- 78.75 %
+Markdown 46 mins     >>>------- 20.36 %
+JSON     1 min       >--------- 0.49 %
+Docker   0 secs      >--------- 0.38 %
+textmate 0 secs      >--------- 0.01 %
+YAML     0 secs      >--------- 0.01 %
 
 🔥 IDE:
 
-GoLand  17 mins >>>>>>>>>- 84.76 %
-VS Code 3 mins  >>-------- 15.24 %
+VS Code 3 hrs 5 mins >>>>>>>>>- 80.64 %
+GoLand  44 mins      >>-------- 19.36 %
 
 💻 OS:
 
-Windows 20 mins >>>>>>>>>> 100.0 %
+Windows 3 hrs 50 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Markdown": 68.38
-	"Go": 31.62
+	"Go": 78.75
+	"Markdown": 20.36
+	"Other": 0.89
 ```
 <!--/WAKATIME-->
 
