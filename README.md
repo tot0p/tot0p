@@ -93,31 +93,40 @@ I'm excited to announce that [Ecla](https://github.com/Eclalang) v1.0.0 is now a
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2025-05-07T22:00:00Z to 2025-05-14T21:59:59Z
+🗓️ From 2025-05-08T22:00:00Z to 2025-05-15T21:59:59Z
 
-⌚ Total time: 29 mins
+⌚ Total time: 4 hrs 10 mins
 
 💬 Languages:
 
-Bash     12 mins >>>>>----- 43.88 %
-Python   11 mins >>>>------ 39.91 %
-Markdown 4 mins  >>-------- 16.21 %
+Go             3 hrs 25 mins >>>>>>>>>- 81.79 %
+Bash           12 mins       >--------- 5.13 %
+Python         11 mins       >--------- 4.67 %
+Markdown       8 mins        >--------- 3.56 %
+GitIgnore file 6 mins        >--------- 2.62 %
+Git Config     2 mins        >--------- 0.99 %
+Image (png)    2 mins        >--------- 0.84 %
+GLSL           0 secs        >--------- 0.31 %
+Other          0 secs        >--------- 0.06 %
+Text           0 secs        >--------- 0.03 %
 
 🔥 IDE:
 
-VS Code 29 mins >>>>>>>>>> 100.0 %
+VS Code 3 hrs 32 mins >>>>>>>>>- 84.6 %
+GoLand  38 mins       >>-------- 15.4 %
 
 💻 OS:
 
-Windows 29 mins >>>>>>>>>> 100.0 %
+Windows 2 hrs 36 mins >>>>>>>--- 62.48 %
+Linux   1 hr 34 mins  >>>>------ 37.52 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Bash": 43.88
-	"Python": 39.91
-	"Markdown": 16.21
+	"Go": 81.79
+	"Bash": 5.13
+	"Other": 13.080000000000002
 ```
 <!--/WAKATIME-->
 
