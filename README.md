@@ -93,21 +93,21 @@ I'm excited to announce that [Ecla](https://github.com/Eclalang) v1.0.0 is now a
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2025-05-18T22:00:00Z to 2025-05-25T21:59:59Z
+🗓️ From 2025-05-19T22:00:00Z to 2025-05-26T21:59:59Z
 
-⌚ Total time: 2 hrs 20 mins
+⌚ Total time: 30 mins
 
 💬 Languages:
 
-Go 2 hrs 20 mins >>>>>>>>>> 100.0 %
+Go 30 mins >>>>>>>>>> 100.0 %
 
 🔥 IDE:
 
-VS Code 2 hrs 20 mins >>>>>>>>>> 100.0 %
+VS Code 30 mins >>>>>>>>>> 100.0 %
 
 💻 OS:
 
-Linux 2 hrs 20 mins >>>>>>>>>> 100.0 %
+Linux 30 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
