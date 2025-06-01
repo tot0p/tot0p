@@ -93,40 +93,39 @@ I'm excited to announce that [Ecla](https://github.com/Eclalang) v1.0.0 is now a
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2025-05-23T22:00:00Z to 2025-05-30T21:59:59Z
+🗓️ From 2025-05-24T22:00:00Z to 2025-05-31T21:59:59Z
 
-⌚ Total time: 5 hrs 3 mins
+⌚ Total time: 5 hrs 59 mins
 
 💬 Languages:
 
-Go         2 hrs 45 mins >>>>>>---- 54.63 %
-Markdown   1 hr 45 mins  >>>>------ 34.84 %
-Git Config 15 mins       >--------- 5.24 %
-YAML       8 mins        >--------- 2.78 %
-C++        5 mins        >--------- 1.79 %
-Other      1 min         >--------- 0.53 %
-SQL        0 secs        >--------- 0.18 %
+Go         3 hrs 40 mins >>>>>>>--- 61.33 %
+Markdown   1 hr 45 mins  >>>------- 29.38 %
+Git Config 15 mins       >--------- 4.42 %
+YAML       8 mins        >--------- 2.35 %
+C++        6 mins        >--------- 1.9 %
+Other      1 min         >--------- 0.47 %
+SQL        0 secs        >--------- 0.15 %
 Binary     0 secs        >--------- 0.01 %
 C#         0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-VS Code       5 hrs 2 mins >>>>>>>>>> 99.76 %
-Visual Studio 0 secs       >--------- 0.24 %
+VS Code       5 hrs 59 mins >>>>>>>>>> 99.8 %
+Visual Studio 0 secs        >--------- 0.2 %
 
 💻 OS:
 
-Windows 4 hrs 6 mins >>>>>>>>>- 81.3 %
-Linux   56 mins      >>-------- 18.7 %
+Windows 5 hrs 3 mins >>>>>>>>>- 84.23 %
+Linux   56 mins      >>-------- 15.77 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 54.63
-	"Markdown": 34.84
-	"Git Config": 5.24
-	"Other": 5.29
+	"Go": 61.33
+	"Markdown": 29.38
+	"Other": 9.3
 ```
 <!--/WAKATIME-->
 
