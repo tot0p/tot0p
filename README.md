@@ -93,48 +93,50 @@ I'm excited to announce that [Ecla](https://github.com/Eclalang) v1.0.0 is now a
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2025-06-09T22:00:00Z to 2025-06-16T21:59:59Z
+🗓️ From 2025-06-10T22:00:00Z to 2025-06-17T21:59:59Z
 
-⌚ Total time: 8 hrs 20 mins
+⌚ Total time: 10 hrs 35 mins
 
 💬 Languages:
 
-Python     1 hr 26 mins >>-------- 17.2 %
-CSS        1 hr 20 mins >>-------- 16.09 %
-Nunjucks   1 hr 15 mins >>-------- 15.17 %
-JSON       1 hr 12 mins >>-------- 14.45 %
-JavaScript 44 mins      >--------- 8.89 %
-TypeScript 40 mins      >--------- 8.01 %
-Markdown   38 mins      >--------- 7.63 %
-Go         34 mins      >--------- 6.8 %
-YAML       26 mins      >--------- 5.31 %
-HTML       0 secs       >--------- 0.17 %
-Text       0 secs       >--------- 0.12 %
-Git Config 0 secs       >--------- 0.1 %
-Other      0 secs       >--------- 0.05 %
+Go         1 hr 41 mins >>-------- 15.96 %
+Python     1 hr 26 mins >>-------- 13.56 %
+CSS        1 hr 20 mins >>-------- 12.69 %
+Nunjucks   1 hr 15 mins >>-------- 11.96 %
+JSON       1 hr 12 mins >>-------- 11.43 %
+JavaScript 1 hr 12 mins >>-------- 11.4 %
+Markdown   1 hr 8 mins  >>-------- 10.81 %
+TypeScript 40 mins      >--------- 6.32 %
+YAML       34 mins      >--------- 5.47 %
+HTML       0 secs       >--------- 0.13 %
+Text       0 secs       >--------- 0.1 %
+Git Config 0 secs       >--------- 0.08 %
+Other      0 secs       >--------- 0.06 %
+PowerShell 0 secs       >--------- 0.02 %
+Bash       0 secs       >--------- 0.01 %
 
 🔥 IDE:
 
-VS Code 8 hrs 20 mins >>>>>>>>>> 100.0 %
+VS Code 10 hrs 35 mins >>>>>>>>>> 100.0 %
 
 💻 OS:
 
-Windows 8 hrs 20 mins >>>>>>>>>> 100.0 %
+Windows 10 hrs 35 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Python": 17.2
-	"CSS": 16.09
-	"Nunjucks": 15.17
-	"JSON": 14.45
-	"JavaScript": 8.89
-	"TypeScript": 8.01
-	"Markdown": 7.63
-	"Go": 6.8
-	"YAML": 5.31
-	"Other": 0.44
+	"Go": 15.96
+	"Python": 13.56
+	"CSS": 12.69
+	"Nunjucks": 11.96
+	"JSON": 11.43
+	"JavaScript": 11.4
+	"Markdown": 10.81
+	"TypeScript": 6.32
+	"YAML": 5.47
+	"Other": 0.4
 ```
 <!--/WAKATIME-->
 
