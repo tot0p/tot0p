@@ -93,51 +93,51 @@ I'm excited to announce that [Ecla](https://github.com/Eclalang) v1.0.0 is now a
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2025-06-12T22:00:00Z to 2025-06-19T21:59:59Z
+🗓️ From 2025-06-13T22:00:00Z to 2025-06-20T21:59:59Z
 
-⌚ Total time: 11 hrs 38 mins
+⌚ Total time: 10 hrs 13 mins
 
 💬 Languages:
 
-Go         2 hrs 13 mins >>-------- 19.04 %
-Python     1 hr 26 mins  >>-------- 12.33 %
-CSS        1 hr 20 mins  >>-------- 11.54 %
-Nunjucks   1 hr 15 mins  >>-------- 10.87 %
-JavaScript 1 hr 12 mins  >>-------- 10.4 %
-JSON       1 hr 12 mins  >>-------- 10.39 %
-Markdown   1 hr 8 mins   >--------- 9.83 %
-TypeScript 40 mins       >--------- 5.74 %
-YAML       34 mins       >--------- 4.98 %
-Rust       25 mins       >--------- 3.64 %
-Bash       5 mins        >--------- 0.74 %
-TOML       0 secs        >--------- 0.14 %
-HTML       0 secs        >--------- 0.12 %
-Text       0 secs        >--------- 0.09 %
-Git Config 0 secs        >--------- 0.08 %
-Other      0 secs        >--------- 0.05 %
+Go         2 hrs 13 mins >>>------- 21.68 %
+Python     1 hr 26 mins  >>-------- 14.03 %
+CSS        1 hr 17 mins  >>-------- 12.6 %
+Nunjucks   1 hr 15 mins  >>-------- 12.38 %
+JavaScript 1 hr 12 mins  >>-------- 11.83 %
+JSON       39 mins       >--------- 6.45 %
+Markdown   32 mins       >--------- 5.27 %
+YAML       32 mins       >--------- 5.25 %
+Rust       25 mins       >--------- 4.15 %
+TypeScript 19 mins       >--------- 3.19 %
+TOML       11 mins       >--------- 1.91 %
+Bash       5 mins        >--------- 0.85 %
+HTML       0 secs        >--------- 0.14 %
+Text       0 secs        >--------- 0.1 %
+Git Config 0 secs        >--------- 0.09 %
+Other      0 secs        >--------- 0.06 %
 PowerShell 0 secs        >--------- 0.02 %
 
 🔥 IDE:
 
-VS Code 11 hrs 38 mins >>>>>>>>>> 100.0 %
+VS Code 10 hrs 13 mins >>>>>>>>>> 100.0 %
 
 💻 OS:
 
-Windows 11 hrs 38 mins >>>>>>>>>> 100.0 %
+Windows 10 hrs 13 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 19.04
-	"Python": 12.33
-	"CSS": 11.54
-	"Nunjucks": 10.87
-	"JavaScript": 10.4
-	"JSON": 10.39
-	"Markdown": 9.83
-	"TypeScript": 5.74
-	"Other": 9.860000000000001
+	"Go": 21.68
+	"Python": 14.03
+	"CSS": 12.6
+	"Nunjucks": 12.38
+	"JavaScript": 11.83
+	"JSON": 6.45
+	"Markdown": 5.27
+	"YAML": 5.25
+	"Other": 10.51
 ```
 <!--/WAKATIME-->
 
