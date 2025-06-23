@@ -93,59 +93,55 @@ I'm excited to announce that [Ecla](https://github.com/Eclalang) v1.0.0 is now a
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2025-06-14T22:00:00Z to 2025-06-21T21:59:59Z
+🗓️ From 2025-06-15T22:00:00Z to 2025-06-22T21:59:59Z
 
-⌚ Total time: 21 hrs 17 mins
+⌚ Total time: 15 hrs 42 mins
 
 💬 Languages:
 
-Go             8 hrs 44 mins >>>>>----- 41.05 %
-YAML           2 hrs 14 mins >>-------- 10.52 %
-JSON           1 hr 55 mins  >--------- 9.06 %
-JavaScript     1 hr 38 mins  >--------- 7.69 %
-Python         1 hr 26 mins  >--------- 6.74 %
-CSS            1 hr 17 mins  >--------- 6.05 %
-Nunjucks       1 hr 15 mins  >--------- 5.95 %
-Markdown       1 hr 6 mins   >--------- 5.17 %
-Rust           41 mins       >--------- 3.29 %
-Bash           19 mins       >--------- 1.5 %
-Docker         14 mins       >--------- 1.13 %
-TOML           11 mins       >--------- 0.92 %
-GLSL           3 mins        >--------- 0.31 %
-Git Config     3 mins        >--------- 0.3 %
-Other          2 mins        >--------- 0.19 %
-HTML           0 secs        >--------- 0.07 %
-Text           0 secs        >--------- 0.05 %
+Go             8 hrs 44 mins >>>>>>---- 55.63 %
+YAML           1 hr 50 mins  >>-------- 11.7 %
+JSON           1 hr 24 mins  >--------- 8.92 %
+Markdown       1 hr 4 mins   >--------- 6.82 %
+JavaScript     53 mins       >--------- 5.72 %
+Rust           41 mins       >--------- 4.45 %
+Bash           19 mins       >--------- 2.03 %
+Docker         14 mins       >--------- 1.53 %
+TOML           11 mins       >--------- 1.25 %
+CSS            5 mins        >--------- 0.63 %
+GLSL           3 mins        >--------- 0.42 %
+Git Config     3 mins        >--------- 0.34 %
+Other          2 mins        >--------- 0.23 %
+Nunjucks       1 min         >--------- 0.18 %
+HTML           0 secs        >--------- 0.09 %
 GitIgnore file 0 secs        >--------- 0.02 %
-PowerShell     0 secs        >--------- 0.01 %
-Binary         0 secs        ---------- 0.0 %
+PowerShell     0 secs        >--------- 0.02 %
+Binary         0 secs        >--------- 0.01 %
 go.mod         0 secs        ---------- 0.0 %
 C#             0 secs        ---------- 0.0 %
+Text           0 secs        ---------- 0.0 %
 Batchfile      0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-VS Code       20 hrs 21 mins >>>>>>>>>> 95.63 %
-GoLand        55 mins        >--------- 4.33 %
-Visual Studio 0 secs         >--------- 0.04 %
+VS Code       14 hrs 46 mins >>>>>>>>>> 94.08 %
+GoLand        55 mins        >--------- 5.87 %
+Visual Studio 0 secs         >--------- 0.05 %
 
 💻 OS:
 
-Windows 21 hrs 17 mins >>>>>>>>>> 100.0 %
+Windows 15 hrs 42 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 41.05
-	"YAML": 10.52
-	"JSON": 9.06
-	"JavaScript": 7.69
-	"Python": 6.74
-	"CSS": 6.05
-	"Nunjucks": 5.95
-	"Markdown": 5.17
-	"Other": 7.789999999999999
+	"Go": 55.63
+	"YAML": 11.7
+	"JSON": 8.92
+	"Markdown": 6.82
+	"JavaScript": 5.72
+	"Other": 11.2
 ```
 <!--/WAKATIME-->
 
