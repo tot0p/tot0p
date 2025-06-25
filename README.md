@@ -93,52 +93,47 @@ I'm excited to announce that [Ecla](https://github.com/Eclalang) v1.0.0 is now a
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2025-06-16T22:00:00Z to 2025-06-23T21:59:59Z
+🗓️ From 2025-06-17T22:00:00Z to 2025-06-24T21:59:59Z
 
-⌚ Total time: 10 hrs 2 mins
+⌚ Total time: 5 hrs 28 mins
 
 💬 Languages:
 
-Go         4 hrs 6 mins >>>>>----- 40.88 %
-YAML       1 hr 50 mins >>-------- 18.31 %
-JSON       56 mins      >--------- 9.38 %
-JavaScript 53 mins      >--------- 8.91 %
-Markdown   45 mins      >--------- 7.54 %
-Rust       41 mins      >--------- 6.97 %
-Bash       19 mins      >--------- 3.18 %
-Docker     14 mins      >--------- 2.4 %
-TOML       11 mins      >--------- 1.95 %
-GLSL       1 min        >--------- 0.27 %
-Other      0 secs       >--------- 0.17 %
-PowerShell 0 secs       >--------- 0.03 %
-CSS        0 secs       >--------- 0.02 %
-Binary     0 secs       >--------- 0.01 %
-Nunjucks   0 secs       ---------- 0.0 %
-HTML       0 secs       ---------- 0.0 %
-Git Config 0 secs       ---------- 0.0 %
-C#         0 secs       ---------- 0.0 %
-Batchfile  0 secs       ---------- 0.0 %
+Go         2 hrs 30 mins >>>>>----- 45.94 %
+YAML       1 hr 41 mins  >>>>------ 30.85 %
+Rust       41 mins       >>-------- 12.79 %
+Bash       19 mins       >--------- 5.82 %
+TOML       11 mins       >--------- 3.58 %
+GLSL       1 min         >--------- 0.49 %
+Other      0 secs        >--------- 0.26 %
+JSON       0 secs        >--------- 0.09 %
+JavaScript 0 secs        >--------- 0.08 %
+Markdown   0 secs        >--------- 0.03 %
+CSS        0 secs        >--------- 0.03 %
+Binary     0 secs        >--------- 0.02 %
+HTML       0 secs        ---------- 0.0 %
+Git Config 0 secs        ---------- 0.0 %
+C#         0 secs        ---------- 0.0 %
+Batchfile  0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-VS Code       10 hrs 1 min >>>>>>>>>> 99.92 %
-Visual Studio 0 secs       >--------- 0.08 %
+VS Code       5 hrs 27 mins >>>>>>>>>> 99.85 %
+Visual Studio 0 secs        >--------- 0.15 %
 
 💻 OS:
 
-Windows 10 hrs 2 mins >>>>>>>>>> 100.0 %
+Windows 5 hrs 28 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 40.88
-	"YAML": 18.31
-	"JSON": 9.38
-	"JavaScript": 8.91
-	"Markdown": 7.54
-	"Rust": 6.97
-	"Other": 8.03
+	"Go": 45.94
+	"YAML": 30.85
+	"Rust": 12.79
+	"Bash": 5.82
+	"Other": 4.58
 ```
 <!--/WAKATIME-->
 
