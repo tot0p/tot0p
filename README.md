@@ -93,47 +93,41 @@ I'm excited to announce that [Ecla](https://github.com/Eclalang) v1.0.0 is now a
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2025-06-17T22:00:00Z to 2025-06-24T21:59:59Z
+🗓️ From 2025-06-18T22:00:00Z to 2025-06-25T21:59:59Z
 
-⌚ Total time: 5 hrs 28 mins
+⌚ Total time: 1 hr 53 mins
 
 💬 Languages:
 
-Go         2 hrs 30 mins >>>>>----- 45.94 %
-YAML       1 hr 41 mins  >>>>------ 30.85 %
-Rust       41 mins       >>-------- 12.79 %
-Bash       19 mins       >--------- 5.82 %
-TOML       11 mins       >--------- 3.58 %
-GLSL       1 min         >--------- 0.49 %
-Other      0 secs        >--------- 0.26 %
-JSON       0 secs        >--------- 0.09 %
-JavaScript 0 secs        >--------- 0.08 %
-Markdown   0 secs        >--------- 0.03 %
-CSS        0 secs        >--------- 0.03 %
-Binary     0 secs        >--------- 0.02 %
-HTML       0 secs        ---------- 0.0 %
-Git Config 0 secs        ---------- 0.0 %
-C#         0 secs        ---------- 0.0 %
-Batchfile  0 secs        ---------- 0.0 %
+Rust       41 mins >>>>------ 37.07 %
+Go         39 mins >>>>------ 34.8 %
+Bash       19 mins >>-------- 16.86 %
+TOML       11 mins >>-------- 10.37 %
+JSON       0 secs  >--------- 0.27 %
+Other      0 secs  >--------- 0.22 %
+JavaScript 0 secs  >--------- 0.22 %
+Markdown   0 secs  >--------- 0.09 %
+CSS        0 secs  >--------- 0.09 %
+HTML       0 secs  >--------- 0.01 %
+Batchfile  0 secs  ---------- 0.0 %
 
 🔥 IDE:
 
-VS Code       5 hrs 27 mins >>>>>>>>>> 99.85 %
-Visual Studio 0 secs        >--------- 0.15 %
+VS Code 1 hr 53 mins >>>>>>>>>> 100.0 %
 
 💻 OS:
 
-Windows 5 hrs 28 mins >>>>>>>>>> 100.0 %
+Windows 1 hr 53 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Go": 45.94
-	"YAML": 30.85
-	"Rust": 12.79
-	"Bash": 5.82
-	"Other": 4.58
+	"Rust": 37.07
+	"Go": 34.8
+	"Bash": 16.86
+	"TOML": 10.37
+	"Other": 0.8999999999999999
 ```
 <!--/WAKATIME-->
 
