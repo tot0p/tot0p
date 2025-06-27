@@ -93,41 +93,43 @@ I'm excited to announce that [Ecla](https://github.com/Eclalang) v1.0.0 is now a
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2025-06-18T22:00:00Z to 2025-06-25T21:59:59Z
+🗓️ From 2025-06-19T22:00:00Z to 2025-06-26T21:59:59Z
 
-⌚ Total time: 1 hr 53 mins
+⌚ Total time: 54 mins
 
 💬 Languages:
 
-Rust       41 mins >>>>------ 37.07 %
-Go         39 mins >>>>------ 34.8 %
-Bash       19 mins >>-------- 16.86 %
-TOML       11 mins >>-------- 10.37 %
-JSON       0 secs  >--------- 0.27 %
-Other      0 secs  >--------- 0.22 %
-JavaScript 0 secs  >--------- 0.22 %
-Markdown   0 secs  >--------- 0.09 %
-CSS        0 secs  >--------- 0.09 %
-HTML       0 secs  >--------- 0.01 %
-Batchfile  0 secs  ---------- 0.0 %
+JSON       17 mins >>>>------ 33.06 %
+Go         17 mins >>>>------ 31.93 %
+TOML       10 mins >>-------- 19.87 %
+Nunjucks   4 mins  >--------- 7.87 %
+SQL        2 mins  >--------- 4.67 %
+YAML       0 secs  >--------- 0.98 %
+Docker     0 secs  >--------- 0.91 %
+Makefile   0 secs  >--------- 0.34 %
+CSS        0 secs  >--------- 0.19 %
+JavaScript 0 secs  >--------- 0.12 %
+Markdown   0 secs  >--------- 0.03 %
+HTML       0 secs  >--------- 0.02 %
+Other      0 secs  >--------- 0.01 %
 
 🔥 IDE:
 
-VS Code 1 hr 53 mins >>>>>>>>>> 100.0 %
+VS Code 54 mins >>>>>>>>>> 100.0 %
 
 💻 OS:
 
-Windows 1 hr 53 mins >>>>>>>>>> 100.0 %
+Windows 54 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Rust": 37.07
-	"Go": 34.8
-	"Bash": 16.86
-	"TOML": 10.37
-	"Other": 0.8999999999999999
+	"JSON": 33.06
+	"Go": 31.93
+	"TOML": 19.87
+	"Nunjucks": 7.87
+	"Other": 7.2700000000000005
 ```
 <!--/WAKATIME-->
 
