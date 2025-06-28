@@ -93,43 +93,47 @@ I'm excited to announce that [Ecla](https://github.com/Eclalang) v1.0.0 is now a
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2025-06-19T22:00:00Z to 2025-06-26T21:59:59Z
+🗓️ From 2025-06-20T22:00:00Z to 2025-06-27T21:59:59Z
 
-⌚ Total time: 54 mins
+⌚ Total time: 1 hr 28 mins
 
 💬 Languages:
 
-JSON       17 mins >>>>------ 33.06 %
-Go         17 mins >>>>------ 31.93 %
-TOML       10 mins >>-------- 19.87 %
-Nunjucks   4 mins  >--------- 7.87 %
-SQL        2 mins  >--------- 4.67 %
-YAML       0 secs  >--------- 0.98 %
-Docker     0 secs  >--------- 0.91 %
-Makefile   0 secs  >--------- 0.34 %
-CSS        0 secs  >--------- 0.19 %
-JavaScript 0 secs  >--------- 0.12 %
-Markdown   0 secs  >--------- 0.03 %
-HTML       0 secs  >--------- 0.02 %
-Other      0 secs  >--------- 0.01 %
+JSON       23 mins >>>------- 26.18 %
+Go         18 mins >>>------- 20.96 %
+Markdown   12 mins >>-------- 14.74 %
+Python     11 mins >>-------- 12.93 %
+HTML       5 mins  >--------- 6.34 %
+Text       4 mins  >--------- 5.63 %
+Nunjucks   4 mins  >--------- 4.85 %
+TypeScript 2 mins  >--------- 3.06 %
+SQL        2 mins  >--------- 2.88 %
+Batchfile  0 secs  >--------- 1.0 %
+YAML       0 secs  >--------- 0.6 %
+Docker     0 secs  >--------- 0.56 %
+Makefile   0 secs  >--------- 0.21 %
+JavaScript 0 secs  >--------- 0.06 %
 
 🔥 IDE:
 
-VS Code 54 mins >>>>>>>>>> 100.0 %
+VS Code 1 hr 26 mins >>>>>>>>>> 98.71 %
+GoLand  1 min        >--------- 1.29 %
 
 💻 OS:
 
-Windows 54 mins >>>>>>>>>> 100.0 %
+Windows 1 hr 28 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"JSON": 33.06
-	"Go": 31.93
-	"TOML": 19.87
-	"Nunjucks": 7.87
-	"Other": 7.2700000000000005
+	"JSON": 26.18
+	"Go": 20.96
+	"Markdown": 14.74
+	"Python": 12.93
+	"HTML": 6.34
+	"Text": 5.63
+	"Other": 13.22
 ```
 <!--/WAKATIME-->
 
