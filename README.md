@@ -93,47 +93,47 @@ I'm excited to announce that [Ecla](https://github.com/Eclalang) v1.0.0 is now a
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2025-06-23T22:00:00Z to 2025-06-30T21:59:59Z
+🗓️ From 2025-06-24T22:00:00Z to 2025-07-01T21:59:59Z
 
-⌚ Total time: 1 hr 28 mins
+⌚ Total time: 1 hr 23 mins
 
 💬 Languages:
 
-JSON       23 mins >>>------- 26.18 %
-Go         18 mins >>>------- 20.96 %
-Markdown   12 mins >>-------- 14.74 %
-Python     11 mins >>-------- 12.93 %
-HTML       5 mins  >--------- 6.34 %
-Text       4 mins  >--------- 5.63 %
-Nunjucks   4 mins  >--------- 4.85 %
-TypeScript 2 mins  >--------- 3.06 %
-SQL        2 mins  >--------- 2.88 %
-Batchfile  0 secs  >--------- 1.0 %
-YAML       0 secs  >--------- 0.6 %
-Docker     0 secs  >--------- 0.56 %
-Makefile   0 secs  >--------- 0.21 %
+JSON       23 mins >>>------- 27.45 %
+Go         18 mins >>>------- 21.97 %
+Markdown   11 mins >>-------- 13.82 %
+Python     11 mins >>-------- 13.55 %
+HTML       5 mins  >--------- 6.64 %
+Text       4 mins  >--------- 5.91 %
+Nunjucks   4 mins  >--------- 5.08 %
+SQL        2 mins  >--------- 3.02 %
+Batchfile  0 secs  >--------- 1.05 %
+YAML       0 secs  >--------- 0.63 %
+Docker     0 secs  >--------- 0.59 %
+Makefile   0 secs  >--------- 0.22 %
 JavaScript 0 secs  >--------- 0.06 %
 
 🔥 IDE:
 
-VS Code 1 hr 26 mins >>>>>>>>>> 98.71 %
-GoLand  1 min        >--------- 1.29 %
+VS Code 1 hr 22 mins >>>>>>>>>> 98.65 %
+GoLand  1 min        >--------- 1.35 %
 
 💻 OS:
 
-Windows 1 hr 28 mins >>>>>>>>>> 100.0 %
+Windows 1 hr 23 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"JSON": 26.18
-	"Go": 20.96
-	"Markdown": 14.74
-	"Python": 12.93
-	"HTML": 6.34
-	"Text": 5.63
-	"Other": 13.22
+	"JSON": 27.45
+	"Go": 21.97
+	"Markdown": 13.82
+	"Python": 13.55
+	"HTML": 6.64
+	"Text": 5.91
+	"Nunjucks": 5.08
+	"Other": 5.569999999999999
 ```
 <!--/WAKATIME-->
 
