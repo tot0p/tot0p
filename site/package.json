@@ -1,0 +1,18 @@
+{
+  "name": "tot0p-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website for Thomas Lemaitre",
+  "scripts": {
+    "build": "eleventy",
+    "dev": "eleventy --serve",
+    "clean": "rimraf _site"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  },
+  "devDependencies": {
+    "rimraf": "^5.0.1"
+  },
+  "author": "Thomas Lemaitre",
+  "license": "MIT"
+}

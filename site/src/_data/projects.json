@@ -1,0 +1,35 @@
+[
+  {
+    "title": {
+      "en": "Top Repository Action",
+      "fr": "Action Top Repository"
+    },
+    "description": {
+      "en": "A GitHub Action that automatically updates your README with your top repositories, showcasing your most starred and active projects.",
+      "fr": "Une GitHub Action qui met automatiquement à jour votre README avec vos meilleurs dépôts, mettant en avant vos projets les plus étoilés et actifs."
+    },
+    "link": "https://github.com/tot0p/top-repo-action"
+  },
+  {
+    "title": {
+      "en": "WakaTime README Integration",
+      "fr": "Intégration WakaTime README"
+    },
+    "description": {
+      "en": "Automatically update your GitHub profile README with your WakaTime coding statistics, including beautiful graphs and activity charts.",
+      "fr": "Met automatiquement à jour votre README de profil GitHub avec vos statistiques de codage WakaTime, incluant de beaux graphiques et diagrammes d'activité."
+    },
+    "link": "https://github.com/tot0p/wakatime-readme"
+  },
+  {
+    "title": {
+      "en": "Personal Portfolio",
+      "fr": "Portfolio Personnel"
+    },
+    "description": {
+      "en": "A bilingual static portfolio website built with Eleventy (11ty), featuring a dark theme and responsive design.",
+      "fr": "Un site web portfolio statique bilingue construit avec Eleventy (11ty), avec un thème sombre et un design responsive."
+    },
+    "link": "https://github.com/tot0p/tot0p.github.io"
+  }
+]
