@@ -13,14 +13,13 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        
+      - name : Go to site directory
+        run: cd site
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '18'
           cache: 'npm'
-      - name : Go to site directory
-        run: cd site
       - name: Install dependencies
         run: npm ci
       - name: Build site
