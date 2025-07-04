@@ -13,25 +13,26 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      - name : Go to site directory
-        run: cd site
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '18'
           cache: 'npm'
+          cache-dependency-path: 'site/package-lock.json'
       - name: Install dependencies
+        working-directory: ./site
         run: npm ci
       - name: Build site
+        working-directory: ./site
         run: npm run build:prod
       - name: Deploy to Github Pages
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           # Remove existing files (but keep .git and .github)
-          find . -maxdepth 1 -not -name '.git' -not -name '.github' -not -name '_site' -not -name '.' -exec rm -rf {} +
+          find . -maxdepth 1 -not -name '.git' -not -name '.github' -not -name 'site' -not -name '.' -exec rm -rf {} +
           # Copy built site to root
-          cp -r _site/* .
+          cp -r site/_site/* .
           # Add and commit changes
           git add .
           git commit -m "Deploy site" || exit 0
