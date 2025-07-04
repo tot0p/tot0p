@@ -24,7 +24,7 @@ jobs:
         run: npm ci
       - name: Build site
         working-directory: ./site
-        run: npm run build:prod
+        run: npm run build
       - name: Deploy to Github Pages
         run: |
           git config --global user.name "GitHub Actions"
