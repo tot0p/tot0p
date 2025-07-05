@@ -31,10 +31,3 @@ Si vous trouvez mes projets utiles, n'hésitez pas à :
 - 🔧 Soumettre des pull requests
 - 💡 Suggérer de nouvelles fonctionnalités
 
-## Technologies Que J'Utilise
-
-Mes projets impliquent généralement :
-- **Langages** : Python, JavaScript, TypeScript
-- **Outils** : GitHub Actions, Docker, Git
-- **Frameworks** : Node.js, APIs web
-- **Plateformes** : GitHub, divers services cloud
