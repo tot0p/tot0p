@@ -45,14 +45,6 @@ description: Explore my projects and open-source contributions
             </div>
             <div class="project-card-body">
                 <p>{{ project.description.en }}</p>
-                <div class="project-features">
-                    <h4>Key Features:</h4>
-                    <ul>
-                        <li>GitHub Actions integration</li>
-                        <li>Automated workflows</li>
-                        <li>Developer tools</li>
-                    </ul>
-                </div>
             </div>
             <div class="project-card-footer">
                 <a href="{{ project.link }}" class="project-link primary" target="_blank" rel="noopener noreferrer">
