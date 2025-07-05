@@ -13,7 +13,7 @@ description: Apprenez-en plus sur Thomas Lemaitre et son parcours en développem
 
 ## Mon Parcours
 
-J'ai commencé mon parcours en développement logiciel avec une passion pour créer des outils qui facilitent la vie des gens. Au fil des années, j'ai développé un fort intérêt pour l'automatisation, le développement web et les contributions open-source.
+J'ai commencé mon parcours en développement logiciel avec une passion pour créer des outils qui facilitent la vie des gens. Au fil des années, j'ai développé un fort intérêt pour l'automatisation, le développement logiciel et les contributions open-source.
 
 ## Ce Que Je Fais
 
@@ -26,17 +26,6 @@ Je me spécialise dans la création de GitHub Actions et d'outils d'automatisati
 ## Mon Approche
 
 Je crois en l'écriture de code propre et maintenable que les autres peuvent comprendre et améliorer. Chaque projet sur lequel je travaille est une opportunité d'apprendre quelque chose de nouveau et de partager ces connaissances avec la communauté.
-
-## Compétences & Technologies
-
-- **Langages** : Python, JavaScript, TypeScript, HTML, CSS
-- **Outils & Plateformes** : Git, GitHub Actions, Docker, Node.js
-- **Spécialités** : Automatisation, intégration d'API, développement web
-- **Méthodologies** : Développement agile, développement piloté par les tests, approche documentation-first
-
-## Au-delà du Code
-
-Quand je ne code pas, j'aime explorer de nouvelles technologies, contribuer à des projets open-source et aider d'autres développeurs à résoudre des problèmes intéressants. Je suis toujours à la recherche d'opportunités d'apprendre et de grandir.
 
 ## Connectons-nous
 
