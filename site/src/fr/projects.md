@@ -4,14 +4,12 @@ title: Projets
 lang: fr
 description: Explorez mes projets et contributions open-source
 ---
-
 <div class="projects-hero">
     <div class="projects-hero-content">
         <h1>Mes Projets</h1>
         <p class="projects-hero-subtitle">Une collection de mes travaux présentant différents aspects du développement logiciel, de l'automatisation et des contributions open-source.</p>
     </div>
 </div>
-
 <div class="projects-stats">
     <div class="stat-card">
         <div class="stat-number">{{ projects.length }}</div>
@@ -26,16 +24,12 @@ description: Explorez mes projets et contributions open-source
         <div class="stat-label">Apprentissage</div>
     </div>
 </div>
-
 <div class="projects-section">
     <div class="section-header">
         <h2>Travaux Sélectionnés</h2>
         <p>Chaque projet représente un défi unique et une opportunité d'apprentissage</p>
     </div>
-    
-    <div class="projects-grid">
-        {% for project in projects %}
-        <div class="project-card">
+    <div class="projects-grid">{% for project in projects %}<div class="project-card">
             <div class="project-card-header">
                 <div class="project-icon">
                     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -72,16 +66,12 @@ description: Explorez mes projets et contributions open-source
                     Code Source
                 </a>
             </div>
-        </div>
-        {% endfor %}
-    </div>
+        </div>{% endfor %}</div>
 </div>
-
 <div class="projects-cta">
     <div class="cta-content">
         <h2>Philosophie Open Source</h2>
         <p>Je crois au pouvoir des logiciels open source et j'essaie de contribuer à la communauté chaque fois que possible. Tous mes projets sont open source et disponibles sur GitHub.</p>
-        
         <div class="cta-features">
             <div class="cta-feature">
                 <div class="cta-icon">⭐</div>
@@ -112,7 +102,6 @@ description: Explorez mes projets et contributions open-source
                 </div>
             </div>
         </div>
-        
         <div class="cta-buttons">
             <a href="{{ author.github }}" class="cta-button primary" target="_blank" rel="noopener noreferrer">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -126,4 +115,3 @@ description: Explorez mes projets et contributions open-source
         </div>
     </div>
 </div>
-

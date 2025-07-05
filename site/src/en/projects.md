@@ -26,16 +26,12 @@ description: Explore my projects and open-source contributions
         <div class="stat-label">Learning</div>
     </div>
 </div>
-
 <div class="projects-section">
     <div class="section-header">
         <h2>Featured Work</h2>
         <p>Each project represents a unique challenge and learning opportunity</p>
     </div>
-    
-    <div class="projects-grid">
-        {% for project in projects %}
-        <div class="project-card">
+    <div class="projects-grid">{% for project in projects %}<div class="project-card">
             <div class="project-card-header">
                 <div class="project-icon">
                     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -72,11 +68,8 @@ description: Explore my projects and open-source contributions
                     Source Code
                 </a>
             </div>
-        </div>
-        {% endfor %}
-    </div>
+        </div>{% endfor %}</div>
 </div>
-
 <div class="projects-cta">
     <div class="cta-content">
         <h2>Open Source Philosophy</h2>
@@ -126,5 +119,3 @@ description: Explore my projects and open-source contributions
         </div>
     </div>
 </div>
-
-

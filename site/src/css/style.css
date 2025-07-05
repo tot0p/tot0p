@@ -190,9 +190,53 @@ a:hover {
   grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
   gap: 2.5rem;
   margin: 3rem 0;
-  padding: 0 5%;
+  padding: 0;
   width: 100%;
   box-sizing: border-box;
+  justify-items: stretch;
+  align-items: start;
+}
+
+/* Force grid to use available width properly */
+.projects-grid > * {
+  width: 100%;
+  max-width: none;
+}
+
+/* Ensure cards fill available space properly */
+@media (min-width: 480px) and (max-width: 767px) {
+  .projects-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .projects-grid {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1199px) {
+  .projects-grid {
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 2.5rem;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1399px) {
+  .projects-grid {
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 2.5rem;
+  }
+}
+
+@media (min-width: 1400px) {
+  .projects-grid {
+    grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
+    gap: 3rem;
+  }
 }
 
 .project-card {
@@ -207,6 +251,8 @@ a:hover {
   display: flex;
   flex-direction: column;
   backdrop-filter: blur(10px);
+  width: 100%;
+  min-width: 0; /* Prevents overflow issues */
 }
 
 .project-card::before {
@@ -494,7 +540,7 @@ a:hover {
 
 /* Projects Section */
 .projects-section {
-  max-width: 1200px;
+  max-width: 1400px;
   margin: 0 auto;
   padding: 0 2rem;
   margin-bottom: 4rem;
@@ -930,7 +976,6 @@ a:hover {
   .projects-grid {
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 2rem;
-    padding: 0 5%;
   }
 
   .cta-features {
@@ -943,7 +988,6 @@ a:hover {
   .projects-grid {
     grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
     gap: 2.5rem;
-    padding: 0 5%;
   }
 }
 
@@ -956,7 +1000,6 @@ a:hover {
   .projects-grid {
     grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
     gap: 3rem;
-    padding: 0 8%;
   }
 
   .section-header h2 {
