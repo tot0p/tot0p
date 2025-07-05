@@ -12,9 +12,7 @@ description: Portfolio personnel de Thomas Lemaitre - Développeur, Créateur, P
 
 <section>
     <h2>Projets En Vedette</h2>
-    <div class="projects-grid">
-        {% for project in projects | slice(0, 3) %}
-        <div class="project-card">
+    <div class="projects-grid">{% for project in projects %}{% if loop.index <= 3 %}<div class="project-card">
             <div class="project-card-header">
                 <h3>{{ project.title.fr }}</h3>
             </div>
@@ -29,9 +27,7 @@ description: Portfolio personnel de Thomas Lemaitre - Développeur, Créateur, P
                     </svg>
                 </a>
             </div>
-        </div>
-        {% endfor %}
-    </div>
+        </div>{% endif %}{% endfor %}</div>
 </section>
 
 <section>

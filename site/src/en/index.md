@@ -12,9 +12,7 @@ description: Personal portfolio of Thomas Lemaitre - Developer, Creator, Open So
 
 <section>
     <h2>Featured Projects</h2>
-    <div class="projects-grid">
-        {% for project in projects | slice(0, 3) %}
-        <div class="project-card">
+    <div class="projects-grid">{% for project in projects %}{% if loop.index <= 3 %}<div class="project-card">
             <div class="project-card-header">
                 <h3>{{ project.title.en }}</h3>
             </div>
@@ -29,9 +27,7 @@ description: Personal portfolio of Thomas Lemaitre - Developer, Creator, Open So
                     </svg>
                 </a>
             </div>
-        </div>
-        {% endfor %}
-    </div>
+        </div>{% endif %}{% endfor %}</div>
 </section>
 
 <section>
