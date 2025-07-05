@@ -15,11 +15,20 @@ description: Portfolio personnel de Thomas Lemaitre - Développeur, Créateur, P
     <div class="projects-grid">
         {% for project in projects | slice(0, 3) %}
         <div class="project-card">
-            <h3>{{ project.title.fr }}</h3>
-            <p>{{ project.description.fr }}</p>
-            <a href="{{ project.link }}" class="project-link" target="_blank" rel="noopener noreferrer">
-                Voir le Projet →
-            </a>
+            <div class="project-card-header">
+                <h3>{{ project.title.fr }}</h3>
+            </div>
+            <div class="project-card-body">
+                <p>{{ project.description.fr }}</p>
+            </div>
+            <div class="project-card-footer">
+                <a href="{{ project.link }}" class="project-link" target="_blank" rel="noopener noreferrer">
+                    Voir le Projet
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M7 17L17 7M17 7H7M17 7V17"/>
+                    </svg>
+                </a>
+            </div>
         </div>
         {% endfor %}
     </div>
