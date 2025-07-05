@@ -12,26 +12,47 @@
     <header class="header">
         <nav class="nav">
             <div class="nav-brand">
-                <a href="{% if lang == 'en' %}/{% else %}/fr/{% endif %}">{{ author.name }}</a>
+                <a href="{% if lang == 'en' %}/en/{% else %}/fr/{% endif %}">{{ author.name }}</a>
             </div>
             <ul class="nav-links">
-                <li><a href="{% if lang == 'en' %}/{% else %}/fr/{% endif %}">
+                <li><a href="{% if lang == 'en' %}/en/{% else %}/fr/{% endif %}">
                     {% if lang == 'en' %}Home{% else %}Accueil{% endif %}
                 </a></li>
-                <li><a href="{% if lang == 'en' %}/projects/{% else %}/fr/projets/{% endif %}">
+                <li><a href="{% if lang == 'en' %}/en/projects/{% else %}/fr/projets/{% endif %}">
                     {% if lang == 'en' %}Projects{% else %}Projets{% endif %}
                 </a></li>
-                <li><a href="{% if lang == 'en' %}/about/{% else %}/fr/à-propos/{% endif %}">
+                <li><a href="{% if lang == 'en' %}/en/about/{% else %}/fr/à-propos/{% endif %}">
                     {% if lang == 'en' %}About{% else %}À propos{% endif %}
                 </a></li>
             </ul>
             <div class="language-switcher">
+                {% set currentPath = page.url | replace('/en/', '') | replace('/fr/', '') %}
                 {% if lang == 'en' %}
-                    <a href="/fr{{ page.url | replace('/en', '') }}" class="lang-link">FR</a>
+                    {% set frenchUrl = '' %}
+                    {% if currentPath == '' or currentPath == '/' %}
+                        {% set frenchUrl = '/fr/' %}
+                    {% elif currentPath == 'about/' %}
+                        {% set frenchUrl = '/fr/à-propos/' %}
+                    {% elif currentPath == 'projects/' %}
+                        {% set frenchUrl = '/fr/projets/' %}
+                    {% else %}
+                        {% set frenchUrl = '/fr' + currentPath %}
+                    {% endif %}
+                    <a href="{{ frenchUrl }}" class="lang-link">FR</a>
                     <span class="lang-current">EN</span>
                 {% else %}
+                    {% set englishUrl = '' %}
+                    {% if currentPath == '' or currentPath == '/' %}
+                        {% set englishUrl = '/en/' %}
+                    {% elif currentPath == 'à-propos/' %}
+                        {% set englishUrl = '/en/about/' %}
+                    {% elif currentPath == 'projets/' %}
+                        {% set englishUrl = '/en/projects/' %}
+                    {% else %}
+                        {% set englishUrl = '/en' + currentPath %}
+                    {% endif %}
                     <span class="lang-current">FR</span>
-                    <a href="{{ page.url | replace('/fr', '') }}" class="lang-link">EN</a>
+                    <a href="{{ englishUrl }}" class="lang-link">EN</a>
                 {% endif %}
             </div>
         </nav>
