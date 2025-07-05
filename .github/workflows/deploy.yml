@@ -33,6 +33,7 @@ jobs:
           find . -maxdepth 1 -not -name '.git' -not -name '.github' -not -name 'site' -not -name '.' -exec rm -rf {} +
           # Copy built site to root
           cp -r site/_site/* .
+          rm -r site # Remove the site directory
           echo "thomaslemaitre.fr" > CNAME
           # Add and commit changes
           git add .
