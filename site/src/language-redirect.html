@@ -1,0 +1,118 @@
+---
+permalink: /
+eleventyExcludeFromCollections: true
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thomas Lemaitre - Portfolio</title>
+    <meta name="description" content="Personal portfolio of Thomas Lemaitre - Developer, Creator, Open Source Enthusiast">
+    <link rel="canonical" href="https://tot0p.github.io/">
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            background-color: #f5f5f5;
+        }
+        .redirect-container {
+            text-align: center;
+            padding: 2rem;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        .spinner {
+            width: 40px;
+            height: 40px;
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #3498db;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 1rem;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        .language-links {
+            margin-top: 2rem;
+        }
+        .language-links a {
+            display: inline-block;
+            margin: 0 1rem;
+            padding: 0.5rem 1rem;
+            background: #3498db;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+            transition: background-color 0.3s;
+        }
+        .language-links a:hover {
+            background: #2980b9;
+        }
+    </style>
+</head>
+<body>
+    <div class="redirect-container">
+        <div class="spinner"></div>
+        <p id="redirect-message">Detecting your language...</p>
+        <div class="language-links">
+            <a href="/en/">English</a>
+            <a href="/fr/">Français</a>
+        </div>
+    </div>
+
+    <script>
+        // Function to detect user's preferred language
+        function detectLanguage() {
+            // Get browser language
+            const browserLanguage = navigator.language || navigator.userLanguage;
+            
+            // Extract language code (e.g., "fr-FR" -> "fr")
+            const languageCode = browserLanguage.split('-')[0].toLowerCase();
+            
+            // Check if it's French
+            if (languageCode === 'fr') {
+                return 'fr';
+            } else {
+                return 'en'; // Default to English
+            }
+        }
+
+        // Function to redirect based on language
+        function redirectToLanguage() {
+            const language = detectLanguage();
+            const redirectUrl = `/${language}/`;
+            
+            // Update message
+            const messageElement = document.getElementById('redirect-message');
+            if (language === 'fr') {
+                messageElement.textContent = 'Redirection vers la version française...';
+            } else {
+                messageElement.textContent = 'Redirecting to English version...';
+            }
+            
+            // Redirect after a short delay
+            setTimeout(() => {
+                window.location.href = redirectUrl;
+            },0);
+        }
+
+        // Start the redirection process when page loads
+        window.addEventListener('load', redirectToLanguage);
+
+        // Fallback: redirect after 3 seconds even if something goes wrong
+        setTimeout(() => {
+            if (window.location.pathname === '/') {
+                window.location.href = '/en/';
+            }
+        }, 3000);
+    </script>
+</body>
+</html>
