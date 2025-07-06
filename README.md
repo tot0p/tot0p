@@ -93,40 +93,42 @@ I'm excited to announce that [Ecla](https://github.com/Eclalang) v1.0.0 is now a
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2025-06-27T22:00:00Z to 2025-07-04T21:59:59Z
+🗓️ From 2025-06-28T22:00:00Z to 2025-07-05T21:59:59Z
 
-⌚ Total time: 4 hrs 25 mins
+⌚ Total time: 5 hrs 49 mins
 
 💬 Languages:
 
-Markdown   1 hr 17 mins >>>------- 29.31 %
-YAML       1 hr 5 mins  >>>------- 24.77 %
-Nunjucks   45 mins      >>-------- 16.93 %
-JSON       28 mins      >>-------- 10.53 %
-JavaScript 27 mins      >>-------- 10.52 %
-HTML       9 mins       >--------- 3.63 %
-CSS        5 mins       >--------- 1.91 %
-Git Config 4 mins       >--------- 1.84 %
-Other      1 min        >--------- 0.57 %
+Markdown   1 hr 39 mins >>>------- 28.57 %
+YAML       1 hr 9 mins  >>-------- 19.88 %
+Nunjucks   49 mins      >>-------- 14.29 %
+JSON       44 mins      >>-------- 12.69 %
+HTML       32 mins      >--------- 9.43 %
+JavaScript 27 mins      >--------- 7.99 %
+CSS        18 mins      >--------- 5.23 %
+Git Config 5 mins       >--------- 1.43 %
+Other      1 min        >--------- 0.5 %
 
 🔥 IDE:
 
-VS Code 4 hrs 25 mins >>>>>>>>>> 100.0 %
+VS Code 5 hrs 49 mins >>>>>>>>>> 100.0 %
 
 💻 OS:
 
-Windows 4 hrs 25 mins >>>>>>>>>> 100.0 %
+Windows 5 hrs 49 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Markdown": 29.31
-	"YAML": 24.77
-	"Nunjucks": 16.93
-	"JSON": 10.53
-	"JavaScript": 10.52
-	"Other": 7.95
+	"Markdown": 28.57
+	"YAML": 19.88
+	"Nunjucks": 14.29
+	"JSON": 12.69
+	"HTML": 9.43
+	"JavaScript": 7.99
+	"CSS": 5.23
+	"Other": 1.93
 ```
 <!--/WAKATIME-->
 
