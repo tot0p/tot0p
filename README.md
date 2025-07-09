@@ -93,41 +93,50 @@ I'm excited to announce that [Ecla](https://github.com/Eclalang) v1.0.0 is now a
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2025-06-30T22:00:00Z to 2025-07-07T21:59:59Z
+🗓️ From 2025-07-01T22:00:00Z to 2025-07-08T21:59:59Z
 
-⌚ Total time: 7 hrs 13 mins
+⌚ Total time: 11 hrs
 
 💬 Languages:
 
-JSON       1 hr 55 mins >>>------- 26.7 %
-Markdown   1 hr 43 mins >>>------- 23.96 %
-YAML       1 hr 11 mins >>-------- 16.49 %
-Nunjucks   55 mins      >>-------- 12.82 %
-HTML       32 mins      >--------- 7.61 %
-JavaScript 28 mins      >--------- 6.61 %
-CSS        18 mins      >--------- 4.22 %
-Git Config 5 mins       >--------- 1.17 %
-Other      1 min        >--------- 0.41 %
+Markdown        2 hrs 20 mins >>>------- 21.31 %
+JSON            2 hrs 15 mins >>>------- 20.45 %
+YAML            1 hr 39 mins  >>-------- 15.13 %
+Nunjucks        55 mins       >--------- 8.41 %
+Docker          53 mins       >--------- 8.12 %
+Text            51 mins       >--------- 7.78 %
+HTML            32 mins       >--------- 5.0 %
+JavaScript      28 mins       >--------- 4.34 %
+CSS             18 mins       >--------- 2.77 %
+Go              14 mins       >--------- 2.22 %
+Git Config      12 mins       >--------- 1.93 %
+Java            6 mins        >--------- 0.92 %
+Groovy          5 mins        >--------- 0.87 %
+Java Properties 2 mins        >--------- 0.33 %
+Other           1 min         >--------- 0.27 %
+TOML            1 min         >--------- 0.16 %
+Bash            0 secs        ---------- 0.0 %
 
 🔥 IDE:
 
-VS Code 7 hrs 13 mins >>>>>>>>>> 100.0 %
+VS Code 11 hrs >>>>>>>>>> 100.0 %
 
 💻 OS:
 
-Windows 7 hrs 13 mins >>>>>>>>>> 100.0 %
+Windows 11 hrs >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"JSON": 26.7
-	"Markdown": 23.96
-	"YAML": 16.49
-	"Nunjucks": 12.82
-	"HTML": 7.61
-	"JavaScript": 6.61
-	"Other": 5.8
+	"Markdown": 21.31
+	"JSON": 20.45
+	"YAML": 15.13
+	"Nunjucks": 8.41
+	"Docker": 8.12
+	"Text": 7.78
+	"HTML": 5.0
+	"Other": 13.809999999999999
 ```
 <!--/WAKATIME-->
 
