@@ -93,50 +93,52 @@ I'm excited to announce that [Ecla](https://github.com/Eclalang) v1.0.0 is now a
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2025-07-01T22:00:00Z to 2025-07-08T21:59:59Z
+🗓️ From 2025-07-04T22:00:00Z to 2025-07-11T21:59:59Z
 
-⌚ Total time: 11 hrs
+⌚ Total time: 10 hrs 29 mins
 
 💬 Languages:
 
-Markdown        2 hrs 20 mins >>>------- 21.31 %
-JSON            2 hrs 15 mins >>>------- 20.45 %
-YAML            1 hr 39 mins  >>-------- 15.13 %
-Nunjucks        55 mins       >--------- 8.41 %
-Docker          53 mins       >--------- 8.12 %
-Text            51 mins       >--------- 7.78 %
-HTML            32 mins       >--------- 5.0 %
-JavaScript      28 mins       >--------- 4.34 %
-CSS             18 mins       >--------- 2.77 %
-Go              14 mins       >--------- 2.22 %
-Git Config      12 mins       >--------- 1.93 %
-Java            6 mins        >--------- 0.92 %
-Groovy          5 mins        >--------- 0.87 %
-Java Properties 2 mins        >--------- 0.33 %
-Other           1 min         >--------- 0.27 %
-TOML            1 min         >--------- 0.16 %
-Bash            0 secs        ---------- 0.0 %
+Nunjucks        2 hrs 1 min  >>-------- 19.32 %
+JSON            1 hr 48 mins >>-------- 17.17 %
+JavaScript      1 hr 37 mins >>-------- 15.52 %
+Markdown        1 hr 3 mins  >>-------- 10.07 %
+Docker          53 mins      >--------- 8.53 %
+Text            51 mins      >--------- 8.17 %
+YAML            34 mins      >--------- 5.46 %
+CSS             32 mins      >--------- 5.19 %
+HTML            28 mins      >--------- 4.58 %
+Go              14 mins      >--------- 2.33 %
+Git Config      7 mins       >--------- 1.25 %
+Java            6 mins       >--------- 0.96 %
+Groovy          5 mins       >--------- 0.91 %
+Java Properties 2 mins       >--------- 0.34 %
+TOML            1 min        >--------- 0.17 %
+Other           0 secs       >--------- 0.04 %
+Bash            0 secs       ---------- 0.0 %
 
 🔥 IDE:
 
-VS Code 11 hrs >>>>>>>>>> 100.0 %
+VS Code 10 hrs 29 mins >>>>>>>>>> 100.0 %
 
 💻 OS:
 
-Windows 11 hrs >>>>>>>>>> 100.0 %
+Windows 6 hrs 36 mins >>>>>>>--- 62.99 %
+Linux   3 hrs 52 mins >>>>------ 37.01 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Markdown": 21.31
-	"JSON": 20.45
-	"YAML": 15.13
-	"Nunjucks": 8.41
-	"Docker": 8.12
-	"Text": 7.78
-	"HTML": 5.0
-	"Other": 13.809999999999999
+	"Nunjucks": 19.32
+	"JSON": 17.17
+	"JavaScript": 15.52
+	"Markdown": 10.07
+	"Docker": 8.53
+	"Text": 8.17
+	"YAML": 5.46
+	"CSS": 5.19
+	"Other": 10.58
 ```
 <!--/WAKATIME-->
 
