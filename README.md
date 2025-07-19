@@ -93,35 +93,35 @@ I'm excited to announce that [Ecla](https://github.com/Eclalang) v1.0.0 is now a
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2025-07-08T22:00:00Z to 2025-07-15T21:59:59Z
+🗓️ From 2025-07-11T22:00:00Z to 2025-07-18T21:59:59Z
 
-⌚ Total time: 8 hrs 36 mins
+⌚ Total time: 4 hrs 43 mins
 
 💬 Languages:
 
-Nunjucks   3 hrs 55 mins >>>>>----- 45.55 %
-JavaScript 2 hrs 44 mins >>>>------ 31.91 %
-CSS        1 hr 34 mins  >>-------- 18.21 %
-Markdown   16 mins       >--------- 3.26 %
-HTML       5 mins        >--------- 1.07 %
-Git        0 secs        >--------- 0.01 %
+Nunjucks   2 hrs 4 mins >>>>>----- 43.8 %
+CSS        1 hr 14 mins >>>------- 26.34 %
+JavaScript 1 hr 7 mins  >>>------- 23.91 %
+Markdown   16 mins      >--------- 5.93 %
+Git        0 secs       >--------- 0.02 %
 
 🔥 IDE:
 
-VS Code 8 hrs 36 mins >>>>>>>>>> 100.0 %
+VS Code 4 hrs 43 mins >>>>>>>>>> 100.0 %
 
 💻 OS:
 
-Linux 8 hrs 36 mins >>>>>>>>>> 100.0 %
+Linux 4 hrs 43 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Nunjucks": 45.55
-	"JavaScript": 31.91
-	"CSS": 18.21
-	"Other": 4.34
+	"Nunjucks": 43.8
+	"CSS": 26.34
+	"JavaScript": 23.91
+	"Markdown": 5.93
+	"Other": 0.02
 ```
 <!--/WAKATIME-->
 
