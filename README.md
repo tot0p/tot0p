@@ -93,7 +93,7 @@ I'm excited to announce that [Ecla](https://github.com/Eclalang) v1.0.0 is now a
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2025-08-11T22:00:00Z to 2025-08-18T21:59:59Z
+🗓️ From 2025-08-12T22:00:00Z to 2025-08-19T21:59:59Z
 
 ⌚ Total time: 2 hrs 24 mins
 
