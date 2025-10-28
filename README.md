@@ -88,6 +88,35 @@ I'm excited to announce that [Ecla](https://github.com/Eclalang) v1.0.0 is now a
 </details>
 
 <!--WAKATIME-->
+## Work Time of last 7 days
+
+```text
+🌐 Time zone: Europe/Paris
+
+🗓️ From 2025-10-20T22:00:00Z to 2025-10-27T22:59:59Z
+
+⌚ Total time: 1 hr 33 mins
+
+💬 Languages:
+
+TypeScript 1 hr 28 mins >>>>>>>>>> 95.2 %
+Python     4 mins       >--------- 4.8 %
+
+🔥 IDE:
+
+VS Code 1 hr 33 mins >>>>>>>>>> 100.0 %
+
+💻 OS:
+
+Windows 1 hr 33 mins >>>>>>>>>> 100.0 %
+```
+### Pie chart of Time repartition
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
+pie
+	"TypeScript": 95.2
+	"Other": 4.8
+```
 <!--/WAKATIME-->
 
 
