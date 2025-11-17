@@ -1,0 +1,26 @@
+# This workflow will install Python dependencies, run tests and lint with a single version of Python
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
+
+name: Update Readme
+
+on:
+  schedule:
+  - cron:  '0 8 * * *'
+  push:
+    branches:
+      - main
+
+jobs:
+  wakatime-update:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    - name: wakatime update
+      uses: tot0p/wakatime-readme@v1
+      with:
+        WAKATIME_API_KEY : ${{ secrets.WAKATIME_API_KEY }}
+        CHAR1 : ">"
+        CHAR2 : "-"
+        draw_graph: "true"
+
