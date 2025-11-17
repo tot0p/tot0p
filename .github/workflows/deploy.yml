@@ -3,8 +3,6 @@ name: Build and Deploy Eleventy Site
 on:
   push:
     branches: [ main ]
-  pull_request:
-    branches: [ main ]
 
 jobs:
   build-and-deploy:
