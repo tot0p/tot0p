@@ -93,27 +93,30 @@ I'm excited to announce that [Ecla](https://github.com/Eclalang) v1.0.0 is now a
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2025-11-10T23:00:00Z to 2025-11-17T22:59:59Z
+🗓️ From 2025-11-11T23:00:00Z to 2025-11-18T22:59:59Z
 
-⌚ Total time: 1 hr 50 mins
+⌚ Total time: 4 hrs 26 mins
 
 💬 Languages:
 
-TypeScript 1 hr 50 mins >>>>>>>>>> 100.0 %
+TypeScript 4 hrs 25 mins >>>>>>>>>> 99.67 %
+JSON       0 secs        >--------- 0.25 %
+JavaScript 0 secs        >--------- 0.07 %
 
 🔥 IDE:
 
-VS Code 1 hr 50 mins >>>>>>>>>> 100.0 %
+VS Code 4 hrs 26 mins >>>>>>>>>> 100.0 %
 
 💻 OS:
 
-Windows 1 hr 50 mins >>>>>>>>>> 100.0 %
+Windows 4 hrs 26 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"TypeScript": 100.0
+	"TypeScript": 99.67
+	"Other": 0.32
 ```
 <!--/WAKATIME-->
 
