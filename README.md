@@ -93,37 +93,37 @@ I'm excited to announce that [Ecla](https://github.com/Eclalang) v1.0.0 is now a
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2025-11-16T23:00:00Z to 2025-11-23T22:59:59Z
+🗓️ From 2025-11-17T23:00:00Z to 2025-11-24T22:59:59Z
 
-⌚ Total time: 9 hrs 33 mins
+⌚ Total time: 7 hrs 44 mins
 
 💬 Languages:
 
-Dart       4 hrs 48 mins >>>>>>---- 50.34 %
-TypeScript 4 hrs 25 mins >>>>>----- 46.27 %
-Kotlin     9 mins        >--------- 1.62 %
-YAML       7 mins        >--------- 1.37 %
-Other      0 secs        >--------- 0.13 %
-JSON       0 secs        >--------- 0.12 %
-Git        0 secs        >--------- 0.1 %
-JavaScript 0 secs        >--------- 0.03 %
+Dart       4 hrs 48 mins >>>>>>>--- 62.19 %
+TypeScript 2 hrs 36 mins >>>>------ 33.63 %
+Kotlin     9 mins        >--------- 2.0 %
+YAML       7 mins        >--------- 1.7 %
+Other      0 secs        >--------- 0.16 %
+JSON       0 secs        >--------- 0.14 %
+Git        0 secs        >--------- 0.13 %
+JavaScript 0 secs        >--------- 0.04 %
 XML        0 secs        >--------- 0.01 %
 
 🔥 IDE:
 
-VS Code 9 hrs 33 mins >>>>>>>>>> 100.0 %
+VS Code 7 hrs 44 mins >>>>>>>>>> 100.0 %
 
 💻 OS:
 
-Windows 9 hrs 33 mins >>>>>>>>>> 100.0 %
+Windows 7 hrs 44 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"Dart": 50.34
-	"TypeScript": 46.27
-	"Other": 3.38
+	"Dart": 62.19
+	"TypeScript": 33.63
+	"Other": 4.18
 ```
 <!--/WAKATIME-->
 
