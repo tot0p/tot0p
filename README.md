@@ -93,39 +93,35 @@ I'm excited to announce that [Ecla](https://github.com/Eclalang) v1.0.0 is now a
 ```text
 🌐 Time zone: Europe/Paris
 
-🗓️ From 2025-12-08T23:00:00Z to 2025-12-15T22:59:59Z
+🗓️ From 2025-12-09T23:00:00Z to 2025-12-16T22:59:59Z
 
-⌚ Total time: 6 hrs 15 mins
+⌚ Total time: 1 hr 27 mins
 
 💬 Languages:
 
-TypeScript 4 hrs 16 mins >>>>>>>--- 68.3 %
-YAML       1 hr          >>-------- 16.0 %
-Go         20 mins       >--------- 5.57 %
-JSON       18 mins       >--------- 4.87 %
-Markdown   9 mins        >--------- 2.6 %
-TSConfig   5 mins        >--------- 1.45 %
-Git Config 2 mins        >--------- 0.62 %
-CSS        2 mins        >--------- 0.57 %
-Other      0 secs        >--------- 0.02 %
-Cheetah    0 secs        ---------- 0.0 %
+YAML       1 hr    >>>>>>>--- 68.34 %
+Go         20 mins >>>------- 23.8 %
+Markdown   2 mins  >--------- 2.7 %
+Git Config 2 mins  >--------- 2.64 %
+CSS        2 mins  >--------- 2.42 %
+Other      0 secs  >--------- 0.09 %
+Cheetah    0 secs  >--------- 0.02 %
 
 🔥 IDE:
 
-VS Code 6 hrs 15 mins >>>>>>>>>> 100.0 %
+VS Code 1 hr 27 mins >>>>>>>>>> 100.0 %
 
 💻 OS:
 
-Windows 6 hrs 15 mins >>>>>>>>>> 100.0 %
+Windows 1 hr 27 mins >>>>>>>>>> 100.0 %
 ```
 ### Pie chart of Time repartition
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px","primaryTextColor" : "#2F4F4F"},"theme":"base"} }%%
 pie
-	"TypeScript": 68.3
-	"YAML": 16.0
-	"Go": 5.57
-	"Other": 10.129999999999999
+	"YAML": 68.34
+	"Go": 23.8
+	"Other": 7.869999999999999
 ```
 <!--/WAKATIME-->
 
