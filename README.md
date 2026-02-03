@@ -110,8 +110,8 @@ I'm excited to announce that [Ecla](https://github.com/Eclalang) v1.0.0 is now a
 <div align="center">
 
 <!--DUCK-->
-### Duck changed by [antoninguyot](https://github.com/antoninguyot)
-[![Duck](http://random-d.uk/api/485.jpg)](https://github.com/tot0p/tot0p/issues/new?title=%F0%9F%A6%86%20Quack)
+### Duck changed by [jelawless](https://github.com/jelawless)
+[![Duck](http://random-d.uk/api/533.jpg)](https://github.com/tot0p/tot0p/issues/new?title=%F0%9F%A6%86%20Quack)
 <!--/DUCK-->
 
 <div style="background-color: #f0f0f0; border-radius: 8px; padding: 10px; margin: 10px; display: inline-block;">
