@@ -111,7 +111,7 @@ I'm excited to announce that [Ecla](https://github.com/Eclalang) v1.0.0 is now a
 
 <!--DUCK-->
 ### Duck changed by [itsdakshjain](https://github.com/itsdakshjain)
-[![Duck](http://random-d.uk/api/443.JPG)](https://github.com/tot0p/tot0p/issues/new?title=%F0%9F%A6%86%20Quack)
+[![Duck](http://random-d.uk/api/362.JPG)](https://github.com/tot0p/tot0p/issues/new?title=%F0%9F%A6%86%20Quack)
 <!--/DUCK-->
 
 <div style="background-color: #f0f0f0; border-radius: 8px; padding: 10px; margin: 10px; display: inline-block;">
