@@ -82,8 +82,8 @@ I'm excited to announce that [Ecla](https://github.com/Eclalang) v1.0.0 is now a
 <details align="center"> 
   <summary><h3>⭐ More GitHub Stats </h3></summary>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tot0p&theme=gruvbox&hide_border=true&layout=compact&langs_count=10&hide=HTML,CSS&bg_color=0D1117" height="192px"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=tot0p&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false&bg_color=0D1117" height="192px"/>
+    <img src="./profile/top-langs.svg" height="192px"/>
+    <img src="./profile/stats.svg" height="192px"/>
   </div>
 </details>
 
