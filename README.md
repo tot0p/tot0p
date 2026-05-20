@@ -82,8 +82,8 @@ I'm excited to announce that [Ecla](https://github.com/Eclalang) v1.0.0 is now a
 <details align="center"> 
   <summary><h3>⭐ More GitHub Stats </h3></summary>
   <div align="center">
-    <img src="./profile/top-langs.svg" height="192px"/>
-    <img src="./profile/stats.svg" height="192px"/>
+    <img src="./img/top-langs.svg" height="192px"/>
+    <img src="./img/stats.svg" height="192px"/>
   </div>
 </details>
 
