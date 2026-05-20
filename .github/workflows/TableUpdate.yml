@@ -17,5 +17,6 @@ jobs:
       with:
           username: tot0p
           include_org_repos: true # Optional (default: false)
+          exclude_orgs: 'evertrust'
             
 
