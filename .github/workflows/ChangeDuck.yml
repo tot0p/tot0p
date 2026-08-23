@@ -11,6 +11,6 @@ jobs:
         steps:
         - uses: actions/checkout@v3
         - name: duckpandemic
-          uses: tot0p/duckpandemic@v1.1.0
+          uses: tot0p/duckpandemic@9362589b094e14f97792663050a36fd56333d969 # v1.2.0
           
     
