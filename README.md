@@ -2,16 +2,15 @@
 
 # ✨ Welcome to tot0p's GitHub ✨
 
-[![Typing SVG](./img/github-header-image.png)](https://github.com/tot0p/Hello-World)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I%27m+tot0p;Developer%2C+creator+%26+tech+enthusiast;Creator+of+the+Ecla+language)](https://github.com/tot0p/Hello-World)
 
 [![GitHub followers](https://img.shields.io/github/followers/tot0p?logo=github&style=for-the-badge)](https://github.com/tot0p)
-[![Visitor Badge](https://img.shields.io/badge/visitors-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/tot0p)
 
 </div>
 
 ## 👨‍💻 About Me
 
-> **[Hi 👋, I'm tot0p](https://tot0p.github.io/tot0p/)** - Developer, creator, and tech enthusiast
+> **[Hi 👋, I'm tot0p](https://thomaslemaitre.fr)** - Developer, creator, and tech enthusiast
 
 I'm excited to announce that [Ecla](https://github.com/Eclalang) v1.0.0 is now available! [Check it out here](https://github.com/Eclalang/Ecla) 🚀
 
@@ -19,6 +18,7 @@ I'm excited to announce that [Ecla](https://github.com/Eclalang) v1.0.0 is now a
 
 <div align="center">
   
+[![Portfolio](https://img.shields.io/badge/Portfolio-thomaslemaitre.fr-58A6FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://thomaslemaitre.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomas-lemaitre78)
 <!--
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/tot0p)
@@ -75,7 +75,7 @@ I'm excited to announce that [Ecla](https://github.com/Eclalang) v1.0.0 is now a
 
 <div align="center">
   
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Tot0p&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=0D1117&currStreakLabel=58A6FF&ring=58A6FF&fire=58A6FF)
+![Streak Stats](https://streak-stats.demolab.com/?user=tot0p&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=58A6FF&currStreakLabel=58A6FF&ring=58A6FF&fire=58A6FF)
   
 </div>
 
@@ -114,9 +114,7 @@ I'm excited to announce that [Ecla](https://github.com/Eclalang) v1.0.0 is now a
 [![Duck](http://random-d.uk/api/480.jpg)](https://github.com/tot0p/tot0p/issues/new?title=%F0%9F%A6%86%20Quack)
 <!--/DUCK-->
 
-<div style="background-color: #f0f0f0; border-radius: 8px; padding: 10px; margin: 10px; display: inline-block;">
-  <a href="https://github.com/tot0p/tot0p/issues/new?title=%F0%9F%A6%86%20Quack">🦆 Change the duck 🦆</a>
-</div>
+[![Change the duck](https://img.shields.io/badge/🦆_Change_the_duck_🦆-58A6FF?style=for-the-badge)](https://github.com/tot0p/tot0p/issues/new?title=%F0%9F%A6%86%20Quack)
 
 <p align="center">
   <i>Click the link above to submit an issue to change the duck.</i><br>
