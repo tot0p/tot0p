@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Thomas Lemaitre&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 31, Total Commits  : 2232, Total PRs: 236, Total Issues: 130, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 31, Total Commits  : 2233, Total PRs: 236, Total Issues: 130, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 69.10038111551644;
+        stroke-dashoffset: 68.95138302926834;
       }
     }
   
